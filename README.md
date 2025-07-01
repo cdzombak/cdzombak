@@ -1,6 +1,7 @@
 <table>
 <tr>
 <td valign="top" width="50%">
+
 ### Recent Releases
 
 <!-- recent_releases starts -->
@@ -23,6 +24,7 @@
 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 </td>
 <td valign="top" width="50%">
+
 ### Recently Blogged
 
 <!-- blog starts -->
