@@ -1,4 +1,4 @@
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="50%" style="margin-bottom: 1em;">
 
 ### Recent Releases
 
@@ -21,7 +21,7 @@
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="50%" style="margin-bottom: 1em;">
 
 ### Recently Blogged
 
