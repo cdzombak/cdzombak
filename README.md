@@ -1,6 +1,4 @@
-<table>
-<tr>
-<td valign="top" width="50%">
+<table><tr><td valign="top" width="50%">
 
 ### Recent Releases
 
@@ -21,9 +19,8 @@
 
 [dns-auditor v1.0.0-beta.3](https://github.com/cdzombak/dns-auditor/releases/tag/v1.0.0-beta.3) *(2025-01-24)*
 <!-- recent_releases ends -->
-**More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
-</td>
-<td valign="top" width="50%">
+🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
+</td><td valign="top" width="50%">
 
 ### Recently Blogged
 
@@ -40,19 +37,5 @@
 
 [RIP: Aircraft Radar Skill for Amazon Alexa](https://www.dzombak.com/blog/2025/04/rip-aircraft-radar-skill-for-amazon-alexa/) *(11 Apr 2025)*
 <!-- blog ends -->
-**More on [dzombak.com](https://www.dzombak.com/blog)**
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-<picture>
-  <img src="/github-summary.svg" alt="@cdzombak summary">
-</picture>
-</td>
-<td valign="top" width="50%">
-<picture>
-  <img src="/github-sponsor.svg" alt="sponsor me">
-</picture>
-</td>
-</tr>
-</table>
+🌐 **More on [dzombak.com](https://www.dzombak.com/blog)**
+</td></tr><tr><td valign="top" width="50%"><picture><img src="/github-summary.svg" alt="@cdzombak summary"></picture></td><td valign="top" width="50%"><picture><img src="/github-sponsor.svg" alt="sponsor me"></picture></td></tr></table>
