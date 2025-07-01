@@ -20,7 +20,8 @@
 [dns-auditor v1.0.0-beta.3](https://github.com/cdzombak/dns-auditor/releases/tag/v1.0.0-beta.3) *(2025-01-24)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
-
+<br />
+<br />
 </td><td valign="top" width="50%" style="margin-bottom: 1em;">
 
 ### Recently Blogged
@@ -39,5 +40,6 @@
 [RIP: Aircraft Radar Skill for Amazon Alexa](https://www.dzombak.com/blog/2025/04/rip-aircraft-radar-skill-for-amazon-alexa/) *(11 Apr 2025)*
 <!-- blog ends -->
 🌐 **More on [dzombak.com](https://www.dzombak.com/blog)**
-
+<br />
+<br />
 </td></tr><tr><td valign="top" width="50%"><a href="https://github.com/cdzombak"> <picture><img src="/github-summary.svg" alt="@cdzombak summary"></picture></a></td><td valign="top" width="50%"><a href="https://github.com/sponsors/cdzombak"><picture><img src="/github-sponsor.svg" alt="sponsor me"></picture></a><br /><picture><img src="/github-langs.svg" alt="most-used programming languages"></picture></td></tr></table>
