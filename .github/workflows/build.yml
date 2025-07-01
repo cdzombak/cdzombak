@@ -68,4 +68,4 @@ jobs:
           base_skip: true
           base: ""
           plugin_languages: true
-          plugin_languages_sections: most-used
+          plugin_languages_limit: 12
