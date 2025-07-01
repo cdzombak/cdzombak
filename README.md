@@ -40,4 +40,4 @@
 <!-- blog ends -->
 🌐 **More on [dzombak.com](https://www.dzombak.com/blog)**
 
-</td></tr><tr><td valign="top" width="50%"><a href="https://github.com/cdzombak"> <picture><img src="/github-summary.svg" alt="@cdzombak summary"></picture></a></td><td valign="top" width="50%"><a href="https://github.com/sponsors/cdzombak"><picture><img src="/github-sponsor.svg" alt="sponsor me"></picture></a></td></tr></table>
+</td></tr><tr><td valign="top" width="50%"><a href="https://github.com/cdzombak"> <picture><img src="/github-summary.svg" alt="@cdzombak summary"></picture></a></td><td valign="top" width="50%"><a href="https://github.com/sponsors/cdzombak"><picture><img src="/github-sponsor.svg" alt="sponsor me"></picture></a><br /><picture><img src="/github-langs.svg" alt="most-used programming languages"></picture></td></tr></table>
