@@ -57,5 +57,6 @@ jobs:
           config_timezone: America/Detroit
           filename: github-sponsor.svg
           base_skip: true
+          base: ""
           plugin_sponsors: true
           plugin_sponsors_sections: about,list
