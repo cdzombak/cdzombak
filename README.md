@@ -45,4 +45,4 @@
 🌐 **More on [dzombak.com](https://www.dzombak.com/blog)**
 <br />
 <br />
-</td></tr><tr><td valign="top" width="50%"><a href="https://github.com/cdzombak"> <picture><img src="/github-summary.svg" alt="@cdzombak summary"></picture></a></td><td valign="top" width="50%"><a href="https://github.com/sponsors/cdzombak"><picture><img src="/github-sponsor.svg" alt="sponsor me"></picture></a><br /><a href="https://www.buymeacoffee.com/chrisdzombak"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 181px !important;" ></a><br /><br /></td></tr></table>
+</td></tr><tr><td valign="top" width="50%"><a href="https://github.com/cdzombak"> <picture><img src="/github-summary.svg" alt="@cdzombak summary"></picture></a></td><td valign="top" width="50%"><a href="https://github.com/sponsors/cdzombak"><picture><img src="/github-sponsor.svg" alt="sponsor me"></picture></a><br /><br /></td></tr></table>
