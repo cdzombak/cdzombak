@@ -48,8 +48,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: America/Detroit
           filename: github-summary.svg
-          base: repositories, activity
+          base: header, repositories, activity
           base_hireable: true
+          base_indepth: true
+          repositories: 500
           plugin_lines: yes
       - uses: lowlighter/metrics@latest
         with:
