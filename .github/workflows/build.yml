@@ -28,6 +28,8 @@ jobs:
         python build_content.py
         cat README.md
     - name: Commit and push if changed
+      env:
+        CDZOMBAK_TOKEN: ${{ secrets.CDZOMBAK_TOKEN }}
       run: |-
         git diff
         git config --global user.email "actions@users.noreply.github.com"
