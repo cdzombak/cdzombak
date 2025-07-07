@@ -67,7 +67,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: America/Detroit
           filename: github-langs.svg
-          base_skip: true
           base: ""
+          base_indepth: true
+          repositories: 500
           plugin_languages: true
           plugin_languages_limit: 12
