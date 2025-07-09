@@ -1,10 +1,12 @@
 # Releases
 
-Listing <!-- releases_count starts -->317<!-- releases_count ends --> releases across <!-- project_count starts -->51<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->322<!-- releases_count ends --> releases across <!-- project_count starts -->51<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
-* **[ecobee_influx_connector](https://github.com/cdzombak/ecobee_influx_connector)**: [v1.1.0](https://github.com/cdzombak/ecobee_influx_connector/releases/tag/v1.1.0) *(2025-06-16; [6 releases total](https://github.com/cdzombak/ecobee_influx_connector/releases) )* 
-<br />Ship your Ecobee runtime, sensor and weather data to InfluxDB.
+* **[openweather-influxdb-connector](https://github.com/cdzombak/openweather-influxdb-connector)**: [v1.4.1](https://github.com/cdzombak/openweather-influxdb-connector/releases/tag/v1.4.1) *(2025-07-07; [13 releases total](https://github.com/cdzombak/openweather-influxdb-connector/releases) )* 
+<br />Write current weather conditions from OpenWeatherMap to InfluxDB
+* **[ecobee_influx_connector](https://github.com/cdzombak/ecobee_influx_connector)**: [v1.2.0](https://github.com/cdzombak/ecobee_influx_connector/releases/tag/v1.2.0) *(2025-07-07; [8 releases total](https://github.com/cdzombak/ecobee_influx_connector/releases) )* 
+<br />Ship your Ecobee runtime, sensor and weather data to InfluxDB or MQTT.
 * **[ytdlbot](https://github.com/cdzombak/ytdlbot)**: [v1.0.4-rc.1](https://github.com/cdzombak/ytdlbot/releases/tag/v1.0.4-rc.1) *(2025-05-30; [9 releases total](https://github.com/cdzombak/ytdlbot/releases) )* 
 <br />A tool for collecting videos from YouTube & similar sites
 * **[gallerygen](https://github.com/cdzombak/gallerygen)**: [v1.0.5](https://github.com/cdzombak/gallerygen/releases/tag/v1.0.5) *(2025-05-29; [10 releases total](https://github.com/cdzombak/gallerygen/releases) )* 
@@ -29,8 +31,6 @@ Listing <!-- releases_count starts -->317<!-- releases_count ends --> releases a
 <br />Enrich MQTT messages from weather sensors with unit conversion and supplemental calculations
 * **[mqtt2influxdb](https://github.com/cdzombak/mqtt2influxdb)**: [v0.0.10](https://github.com/cdzombak/mqtt2influxdb/releases/tag/v0.0.10) *(2025-01-07; [19 releases total](https://github.com/cdzombak/mqtt2influxdb/releases) )* 
 <br />An opinionated and intentionally scope-limited MQTT to InfluxDB bridge
-* **[openweather-influxdb-connector](https://github.com/cdzombak/openweather-influxdb-connector)**: [v1.3.1](https://github.com/cdzombak/openweather-influxdb-connector/releases/tag/v1.3.1) *(2025-01-07; [10 releases total](https://github.com/cdzombak/openweather-influxdb-connector/releases) )* 
-<br />Write current weather conditions from OpenWeatherMap to InfluxDB
 * **[nut_influx_connector](https://github.com/cdzombak/nut_influx_connector)**: [v1.1.2](https://github.com/cdzombak/nut_influx_connector/releases/tag/v1.1.2) *(2025-01-06; [7 releases total](https://github.com/cdzombak/nut_influx_connector/releases) )* 
 <br />Ship energy usage data and other UPS stats from Network-UPS-Tools to InfluxDB
 * **[midea2influx](https://github.com/cdzombak/midea2influx)**: [v1.1.1](https://github.com/cdzombak/midea2influx/releases/tag/v1.1.1) *(2024-11-17; [4 releases total](https://github.com/cdzombak/midea2influx/releases) )* 

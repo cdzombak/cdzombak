@@ -6,7 +6,9 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
-[ecobee_influx_connector v1.1.0](https://github.com/cdzombak/ecobee_influx_connector/releases/tag/v1.1.0) *(2025-06-16)*
+[openweather-influxdb-connector v1.4.1](https://github.com/cdzombak/openweather-influxdb-connector/releases/tag/v1.4.1) *(2025-07-07)*
+
+[ecobee_influx_connector v1.2.0](https://github.com/cdzombak/ecobee_influx_connector/releases/tag/v1.2.0) *(2025-07-07)*
 
 [ytdlbot v1.0.4-rc.1](https://github.com/cdzombak/ytdlbot/releases/tag/v1.0.4-rc.1) *(2025-05-30)*
 
@@ -19,8 +21,6 @@
 [a2-foia-rss v1.0.2](https://github.com/cdzombak/a2-foia-rss/releases/tag/v1.0.2) *(2025-02-17)*
 
 [runner v2.10.0](https://github.com/cdzombak/runner/releases/tag/v2.10.0) *(2025-01-31)*
-
-[dns-auditor v1.0.0-beta.3](https://github.com/cdzombak/dns-auditor/releases/tag/v1.0.0-beta.3) *(2025-01-24)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />
