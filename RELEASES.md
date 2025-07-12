@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->322<!-- releases_count ends --> releases across <!-- project_count starts -->51<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->325<!-- releases_count ends --> releases across <!-- project_count starts -->52<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[dzsolarized-vscode](https://github.com/cdzombak/dzsolarized-vscode)**: [Release v0.0.4](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.4) *(2025-07-12; [3 releases total](https://github.com/cdzombak/dzsolarized-vscode/releases) )* 
+<br />Personal Solarized variant for VS Code (light + dark modes supported)
 * **[openweather-influxdb-connector](https://github.com/cdzombak/openweather-influxdb-connector)**: [v1.4.1](https://github.com/cdzombak/openweather-influxdb-connector/releases/tag/v1.4.1) *(2025-07-07; [13 releases total](https://github.com/cdzombak/openweather-influxdb-connector/releases) )* 
 <br />Write current weather conditions from OpenWeatherMap to InfluxDB
 * **[ecobee_influx_connector](https://github.com/cdzombak/ecobee_influx_connector)**: [v1.2.0](https://github.com/cdzombak/ecobee_influx_connector/releases/tag/v1.2.0) *(2025-07-07; [8 releases total](https://github.com/cdzombak/ecobee_influx_connector/releases) )* 

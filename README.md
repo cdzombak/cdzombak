@@ -6,6 +6,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[dzsolarized-vscode Release v0.0.4](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.4) *(2025-07-12)*
+
 [openweather-influxdb-connector v1.4.1](https://github.com/cdzombak/openweather-influxdb-connector/releases/tag/v1.4.1) *(2025-07-07)*
 
 [ecobee_influx_connector v1.2.0](https://github.com/cdzombak/ecobee_influx_connector/releases/tag/v1.2.0) *(2025-07-07)*
@@ -19,8 +21,6 @@
 [restic-deb v0.18.0](https://github.com/cdzombak/restic-deb/releases/tag/v0.18.0) *(2025-03-31)*
 
 [a2-foia-rss v1.0.2](https://github.com/cdzombak/a2-foia-rss/releases/tag/v1.0.2) *(2025-02-17)*
-
-[runner v2.10.0](https://github.com/cdzombak/runner/releases/tag/v2.10.0) *(2025-01-31)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />
