@@ -1,6 +1,6 @@
 # Releases
 
-Listing <!-- releases_count starts -->325<!-- releases_count ends --> releases across <!-- project_count starts -->52<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->321<!-- releases_count ends --> releases across <!-- project_count starts -->51<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
 * **[dzsolarized-vscode](https://github.com/cdzombak/dzsolarized-vscode)**: [Release v0.0.4](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.4) *(2025-07-12; [3 releases total](https://github.com/cdzombak/dzsolarized-vscode/releases) )* 
@@ -29,8 +29,6 @@ Listing <!-- releases_count starts -->325<!-- releases_count ends --> releases a
 <br />Copy DNS records from DigitalOcean to Porkbun
 * **[libwx](https://github.com/cdzombak/libwx)**: [](https://github.com/cdzombak/libwx/releases/tag/v1.3.0) *(2025-01-13; [5 releases total](https://github.com/cdzombak/libwx/releases) )* 
 <br />Weather-related types and calculations for Golang
-* **[mqttwxenrich](https://github.com/cdzombak/mqttwxenrich)**: [v0.0.4](https://github.com/cdzombak/mqttwxenrich/releases/tag/v0.0.4) *(2025-01-07; [4 releases total](https://github.com/cdzombak/mqttwxenrich/releases) )* 
-<br />Enrich MQTT messages from weather sensors with unit conversion and supplemental calculations
 * **[mqtt2influxdb](https://github.com/cdzombak/mqtt2influxdb)**: [v0.0.10](https://github.com/cdzombak/mqtt2influxdb/releases/tag/v0.0.10) *(2025-01-07; [19 releases total](https://github.com/cdzombak/mqtt2influxdb/releases) )* 
 <br />An opinionated and intentionally scope-limited MQTT to InfluxDB bridge
 * **[nut_influx_connector](https://github.com/cdzombak/nut_influx_connector)**: [v1.1.2](https://github.com/cdzombak/nut_influx_connector/releases/tag/v1.1.2) *(2025-01-06; [7 releases total](https://github.com/cdzombak/nut_influx_connector/releases) )* 
