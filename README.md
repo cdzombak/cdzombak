@@ -30,6 +30,10 @@
 ### Recently Blogged
 
 <!-- blog starts -->
+[A new feature, continued —](https://www.dzombak.com/blog/2025/07/a-new-feature-continued/) *(15 Jul 2025)*
+
+[A new feature appears —](https://www.dzombak.com/blog/2025/07/a-new-micropost-feature/) *(15 Jul 2025)*
+
 [How to rsync with sudo on both sides](https://www.dzombak.com/blog/2025/06/how-to-rsync-with-sudo-on-both-sides/) *(23 Jun 2025)*
 
 [Updated instructions for installing my Debian package repositories](https://www.dzombak.com/blog/2025/06/updated-instructions-for-installing-my-debian-package-repositories/) *(04 Jun 2025)*
@@ -37,10 +41,6 @@
 [Host Inventory for a (not-) Homelab](https://www.dzombak.com/blog/2025/05/host-inventory-for-a-not-homelab/) *(27 May 2025)*
 
 [Tips on Brazing Copper and Stainless Steel](https://www.dzombak.com/blog/2025/05/tips-on-brazing-copper-and-stainless-steel/) *(20 May 2025)*
-
-[Someone please Photoshop a “Phantom of the Opera” mask onto this grackle for me](https://www.dzombak.com/blog/2025/05/someone-please-photoshop-a-phantom-of-the-opera-mask-onto-this-grackle-for-me/) *(01 May 2025)*
-
-[RIP: Aircraft Radar Skill for Amazon Alexa](https://www.dzombak.com/blog/2025/04/rip-aircraft-radar-skill-for-amazon-alexa/) *(11 Apr 2025)*
 <!-- blog ends -->
 🌐 **More on [dzombak.com](https://www.dzombak.com/blog)**
 <br />
