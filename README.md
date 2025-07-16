@@ -6,7 +6,7 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
-[flickr-rss v0.0.3](https://github.com/cdzombak/flickr-rss/releases/tag/v0.0.3) *(2025-07-16)*
+[flickr-rss v1.0.0](https://github.com/cdzombak/flickr-rss/releases/tag/v1.0.0) *(2025-07-16)*
 
 [dzsolarized-vscode Release v0.0.4](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.4) *(2025-07-12)*
 
