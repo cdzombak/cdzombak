@@ -30,6 +30,10 @@
 ### Recently Blogged
 
 <!-- blog starts -->
+[for no particular reason other than I think it's fun,](https://www.dzombak.com/blog/2025/07/for-no-particular-reason-other-t/) *(16 Jul 2025)*
+
+[flickr-rss](https://www.dzombak.com/blog/2025/07/flickr-rss/) *(16 Jul 2025)*
+
 [I've long been worried that Apple will drop support for AppleScript automation in macOS updates, or at least allow it to decay into a horrible broken state.](https://www.dzombak.com/blog/2025/07/ive-lobeen-worried-that-apple-will-drop-support-for-applescript-automation-in-macos-updates-or-at-least-allow-it-to-decay-into-a-horrible-broken-state/) *(15 Jul 2025)*
 
 [A new feature, completed —](https://www.dzombak.com/blog/2025/07/a-new-feature-completed/) *(15 Jul 2025)*
@@ -37,10 +41,6 @@
 [A new feature, continued —](https://www.dzombak.com/blog/2025/07/a-new-feature-continued/) *(15 Jul 2025)*
 
 [A new feature appears —](https://www.dzombak.com/blog/2025/07/a-new-micropost-feature/) *(15 Jul 2025)*
-
-[How to rsync with sudo on both sides](https://www.dzombak.com/blog/2025/06/how-to-rsync-with-sudo-on-both-sides/) *(23 Jun 2025)*
-
-[Updated instructions for installing my Debian package repositories](https://www.dzombak.com/blog/2025/06/updated-instructions-for-installing-my-debian-package-repositories/) *(04 Jun 2025)*
 <!-- blog ends -->
 🌐 **More on [dzombak.com](https://www.dzombak.com/blog)**
 <br />
