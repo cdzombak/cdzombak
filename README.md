@@ -30,6 +30,8 @@
 ### Recently Blogged
 
 <!-- blog starts -->
+[Setting up a dev env for Lychee](https://www.dzombak.com/blog/2025/07/setting-up-a-dev-env-for-lychee/) *(19 Jul 2025)*
+
 [🙄](https://www.dzombak.com/blog/2025/07/687999645019130001001e05/) *(18 Jul 2025)*
 
 [A rule of thumb, that I need to keep in mind, is that it will take about the same amount of time to edit photos as I spent shooting them.](https://www.dzombak.com/blog/2025/07/a-rule-of-thumb-that-i-need-to-keep-in-mind-is-that-it-will-take-about-the-same-amount-of-time-to-edit-photos-as-i-spent-shooting-them/) *(17 Jul 2025)*
@@ -39,8 +41,6 @@
 [flickr-rss](https://www.dzombak.com/blog/2025/07/flickr-rss/) *(16 Jul 2025)*
 
 [I've long been worried that Apple will drop support for AppleScript automation in macOS updates, or at least allow it to decay into a horrible broken state.](https://www.dzombak.com/blog/2025/07/ive-lobeen-worried-that-apple-will-drop-support-for-applescript-automation-in-macos-updates-or-at-least-allow-it-to-decay-into-a-horrible-broken-state/) *(15 Jul 2025)*
-
-[A new feature, completed —](https://www.dzombak.com/blog/2025/07/a-new-feature-completed/) *(15 Jul 2025)*
 <!-- blog ends -->
 🌐 **More on [dzombak.com](https://www.dzombak.com/blog)**
 <br />
