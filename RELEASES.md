@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->327<!-- releases_count ends --> releases across <!-- project_count starts -->52<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->328<!-- releases_count ends --> releases across <!-- project_count starts -->52<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[an4mon](https://github.com/cdzombak/an4mon)**: [v1.2.0](https://github.com/cdzombak/an4mon/releases/tag/v1.2.0) *(2025-07-20; [8 releases total](https://github.com/cdzombak/an4mon/releases) )* 
+<br />CO2 level notifications + MQTT and InfluxDB logging for Aranet4 sensors
 * **[flickr-rss](https://github.com/cdzombak/flickr-rss)**: [v1.0.2](https://github.com/cdzombak/flickr-rss/releases/tag/v1.0.2) *(2025-07-20; [6 releases total](https://github.com/cdzombak/flickr-rss/releases) )* 
 <br />Generate an RSS feed of a Flickr photostream or your Friends & Family feed
 * **[dzsolarized-vscode](https://github.com/cdzombak/dzsolarized-vscode)**: [Release v0.0.4](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.4) *(2025-07-12; [3 releases total](https://github.com/cdzombak/dzsolarized-vscode/releases) )* 
@@ -15,8 +17,6 @@ Listing <!-- releases_count starts -->327<!-- releases_count ends --> releases a
 <br />A tool for collecting videos from YouTube & similar sites
 * **[gallerygen](https://github.com/cdzombak/gallerygen)**: [v1.0.5](https://github.com/cdzombak/gallerygen/releases/tag/v1.0.5) *(2025-05-29; [10 releases total](https://github.com/cdzombak/gallerygen/releases) )* 
 <br />Generate a static HTML gallery from a directory tree of images
-* **[an4mon](https://github.com/cdzombak/an4mon)**: [v1.1.0](https://github.com/cdzombak/an4mon/releases/tag/v1.1.0) *(2025-04-25; [7 releases total](https://github.com/cdzombak/an4mon/releases) )* 
-<br />CO2 level notifications + MQTT and InfluxDB logging for Aranet4 sensors
 * **[restic-deb](https://github.com/cdzombak/restic-deb)**: [v0.18.0](https://github.com/cdzombak/restic-deb/releases/tag/v0.18.0) *(2025-03-31; [11 releases total](https://github.com/cdzombak/restic-deb/releases) )* 
 <br />Automatic builds of Debian packages for the Restic backup program
 * **[a2-foia-rss](https://github.com/cdzombak/a2-foia-rss)**: [v1.0.2](https://github.com/cdzombak/a2-foia-rss/releases/tag/v1.0.2) *(2025-02-17; [3 releases total](https://github.com/cdzombak/a2-foia-rss/releases) )* 
