@@ -30,6 +30,8 @@
 ### Recently Blogged
 
 <!-- blog starts -->
+[Neat Image noise profiles for the Sigma sd Quattro H](https://www.dzombak.com/blog/2025/07/neat-image-noise-profiles-for-the-sigma-sd-quattro-h/) *(20 Jul 2025)*
+
 [birdbath.tube](https://www.dzombak.com/blog/2025/07/birdbath-tube/) *(20 Jul 2025)*
 
 [Trying to remind myself that I don't have to do everything today.](https://www.dzombak.com/blog/2025/07/trying-to-remind-myself-that-i-dont-have-to-do-everything-today/) *(20 Jul 2025)*
@@ -39,8 +41,6 @@
 [🙄](https://www.dzombak.com/blog/2025/07/687999645019130001001e05/) *(18 Jul 2025)*
 
 [A rule of thumb, that I need to keep in mind, is that it will take about the same amount of time to edit photos as I spent shooting them.](https://www.dzombak.com/blog/2025/07/a-rule-of-thumb-that-i-need-to-keep-in-mind-is-that-it-will-take-about-the-same-amount-of-time-to-edit-photos-as-i-spent-shooting-them/) *(17 Jul 2025)*
-
-[for no particular reason other than I think it's fun,](https://www.dzombak.com/blog/2025/07/for-no-particular-reason-other-t/) *(16 Jul 2025)*
 <!-- blog ends -->
 🌐 **More on [dzombak.com](https://www.dzombak.com/blog)**
 <br />
