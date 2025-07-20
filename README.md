@@ -6,7 +6,7 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
-[flickr-rss v1.0.0](https://github.com/cdzombak/flickr-rss/releases/tag/v1.0.0) *(2025-07-16)*
+[flickr-rss v1.0.1](https://github.com/cdzombak/flickr-rss/releases/tag/v1.0.1) *(2025-07-20)*
 
 [dzsolarized-vscode Release v0.0.4](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.4) *(2025-07-12)*
 
@@ -30,17 +30,17 @@
 ### Recently Blogged
 
 <!-- blog starts -->
-[Setting up a dev env for Lychee](https://www.dzombak.com/blog/2025/07/setting-up-a-dev-env-for-lychee/) *(19 Jul 2025)*
+[A new feature, completed —](https://www.dzombak.com/blog/2025/07/a-new-feature-completed/) *(15 Jul 2025)*
 
-[🙄](https://www.dzombak.com/blog/2025/07/687999645019130001001e05/) *(18 Jul 2025)*
+[A new feature, continued —](https://www.dzombak.com/blog/2025/07/a-new-feature-continued/) *(15 Jul 2025)*
 
-[A rule of thumb, that I need to keep in mind, is that it will take about the same amount of time to edit photos as I spent shooting them.](https://www.dzombak.com/blog/2025/07/a-rule-of-thumb-that-i-need-to-keep-in-mind-is-that-it-will-take-about-the-same-amount-of-time-to-edit-photos-as-i-spent-shooting-them/) *(17 Jul 2025)*
+[A new feature appears —](https://www.dzombak.com/blog/2025/07/a-new-micropost-feature/) *(15 Jul 2025)*
 
-[for no particular reason other than I think it's fun,](https://www.dzombak.com/blog/2025/07/for-no-particular-reason-other-t/) *(16 Jul 2025)*
+[How to rsync with sudo on both sides](https://www.dzombak.com/blog/2025/06/how-to-rsync-with-sudo-on-both-sides/) *(23 Jun 2025)*
 
-[flickr-rss](https://www.dzombak.com/blog/2025/07/flickr-rss/) *(16 Jul 2025)*
+[Updated instructions for installing my Debian package repositories](https://www.dzombak.com/blog/2025/06/updated-instructions-for-installing-my-debian-package-repositories/) *(04 Jun 2025)*
 
-[I've long been worried that Apple will drop support for AppleScript automation in macOS updates, or at least allow it to decay into a horrible broken state.](https://www.dzombak.com/blog/2025/07/ive-lobeen-worried-that-apple-will-drop-support-for-applescript-automation-in-macos-updates-or-at-least-allow-it-to-decay-into-a-horrible-broken-state/) *(15 Jul 2025)*
+[Host Inventory for a (not-) Homelab](https://www.dzombak.com/blog/2025/05/host-inventory-for-a-not-homelab/) *(27 May 2025)*
 <!-- blog ends -->
 🌐 **More on [dzombak.com](https://www.dzombak.com/blog)**
 <br />
