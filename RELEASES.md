@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->328<!-- releases_count ends --> releases across <!-- project_count starts -->52<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->329<!-- releases_count ends --> releases across <!-- project_count starts -->52<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[driveway-monitor](https://github.com/cdzombak/driveway-monitor)**: [v1.3.1](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.3.1) *(2025-07-21; [18 releases total](https://github.com/cdzombak/driveway-monitor/releases) )* 
+<br />Receive customizable, AI-powered notifications when someone arrives in your driveway.
 * **[an4mon](https://github.com/cdzombak/an4mon)**: [v1.2.0](https://github.com/cdzombak/an4mon/releases/tag/v1.2.0) *(2025-07-20; [8 releases total](https://github.com/cdzombak/an4mon/releases) )* 
 <br />CO2 level notifications + MQTT and InfluxDB logging for Aranet4 sensors
 * **[flickr-rss](https://github.com/cdzombak/flickr-rss)**: [v1.0.2](https://github.com/cdzombak/flickr-rss/releases/tag/v1.0.2) *(2025-07-20; [6 releases total](https://github.com/cdzombak/flickr-rss/releases) )* 
@@ -47,8 +49,6 @@ Listing <!-- releases_count starts -->328<!-- releases_count ends --> releases a
 <br />Automatic builds of Debian packages for the Bandwhich terminal bandwidth utilization tool
 * **[mqttshutdownd](https://github.com/cdzombak/mqttshutdownd)**: [v1.1.0](https://github.com/cdzombak/mqttshutdownd/releases/tag/v1.1.0) *(2024-10-03; [9 releases total](https://github.com/cdzombak/mqttshutdownd/releases) )* 
 <br />Shutdown a Linux machine in response to MQTT broadcast messages about utility power loss
-* **[driveway-monitor](https://github.com/cdzombak/driveway-monitor)**: [v1.3.0](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.3.0) *(2024-09-25; [17 releases total](https://github.com/cdzombak/driveway-monitor/releases) )* 
-<br />Receive customizable, AI-powered notifications when someone arrives in your driveway.
 * **[wxcal](https://github.com/cdzombak/wxcal)**: [v1.2.1](https://github.com/cdzombak/wxcal/releases/tag/v1.2.1) *(2024-09-06; [6 releases total](https://github.com/cdzombak/wxcal/releases) )* 
 <br />Generate an iCal feed from the weather.gov forecast API
 * **[energybridge_to_influxdb](https://github.com/cdzombak/energybridge_to_influxdb)**: [v1.1.1](https://github.com/cdzombak/energybridge_to_influxdb/releases/tag/v1.1.1) *(2024-08-16; [10 releases total](https://github.com/cdzombak/energybridge_to_influxdb/releases) )* 
