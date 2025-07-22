@@ -6,7 +6,7 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
-[dzsolarized-vscode Release v0.0.7](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.7) *(2025-07-22)*
+[dzsolarized-vscode Release v0.0.9](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.9) *(2025-07-22)*
 
 [driveway-monitor v1.3.1](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.3.1) *(2025-07-21)*
 
