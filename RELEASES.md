@@ -1,10 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->334<!-- releases_count ends --> releases across <!-- project_count starts -->52<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->335<!-- releases_count ends --> releases across <!-- project_count starts -->52<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
-* **[dzsolarized-vscode](https://github.com/cdzombak/dzsolarized-vscode)**: [Release v0.0.9](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.9) *(2025-07-22; [8 releases total](https://github.com/cdzombak/dzsolarized-vscode/releases) )* 
-<br />Personal Solarized variant for VS Code (light + dark modes supported)
+* **[dzsolarized-vscode](https://github.com/cdzombak/dzsolarized-vscode)**: [Release v0.0.10](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.10) *(2025-07-22; [9 releases total](https://github.com/cdzombak/dzsolarized-vscode/releases) )* 
+<br />Solarized variant for VS Code (light + dark modes supported)
 * **[driveway-monitor](https://github.com/cdzombak/driveway-monitor)**: [v1.3.1](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.3.1) *(2025-07-21; [18 releases total](https://github.com/cdzombak/driveway-monitor/releases) )* 
 <br />Receive customizable, AI-powered notifications when someone arrives in your driveway.
 * **[an4mon](https://github.com/cdzombak/an4mon)**: [v1.2.0](https://github.com/cdzombak/an4mon/releases/tag/v1.2.0) *(2025-07-20; [8 releases total](https://github.com/cdzombak/an4mon/releases) )* 
