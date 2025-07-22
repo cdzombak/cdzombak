@@ -1,9 +1,9 @@
 # Releases
 
-Listing <!-- releases_count starts -->330<!-- releases_count ends --> releases across <!-- project_count starts -->52<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->332<!-- releases_count ends --> releases across <!-- project_count starts -->52<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
-* **[dzsolarized-vscode](https://github.com/cdzombak/dzsolarized-vscode)**: [Release v0.0.5](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.5) *(2025-07-22; [4 releases total](https://github.com/cdzombak/dzsolarized-vscode/releases) )* 
+* **[dzsolarized-vscode](https://github.com/cdzombak/dzsolarized-vscode)**: [Release v0.0.7](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.7) *(2025-07-22; [6 releases total](https://github.com/cdzombak/dzsolarized-vscode/releases) )* 
 <br />Personal Solarized variant for VS Code (light + dark modes supported)
 * **[driveway-monitor](https://github.com/cdzombak/driveway-monitor)**: [v1.3.1](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.3.1) *(2025-07-21; [18 releases total](https://github.com/cdzombak/driveway-monitor/releases) )* 
 <br />Receive customizable, AI-powered notifications when someone arrives in your driveway.
