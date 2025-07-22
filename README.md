@@ -30,6 +30,8 @@
 ### Recently Blogged
 
 <!-- blog starts -->
+[CO2 Monitoring and Alerting with Aranet4 + an4mon](https://www.dzombak.com/blog/2025/07/co2-monitoring-and-alerting-with-aranet4-an4mon/) *(22 Jul 2025)*
+
 [Announcing the DzSolarized VS Code theme](https://www.dzombak.com/blog/2025/07/announcing-the-dzsolarized-vs-code-theme/) *(22 Jul 2025)*
 
 [Functional Documentation](https://www.dzombak.com/blog/2025/07/functional-documentation/) *(22 Jul 2025)*
@@ -39,8 +41,6 @@
 [birdbath.tube](https://www.dzombak.com/blog/2025/07/birdbath-tube/) *(20 Jul 2025)*
 
 [Trying to remind myself that I don't have to do everything today.](https://www.dzombak.com/blog/2025/07/trying-to-remind-myself-that-i-dont-have-to-do-everything-today/) *(20 Jul 2025)*
-
-[Setting up a dev env for Lychee](https://www.dzombak.com/blog/2025/07/setting-up-a-dev-env-for-lychee/) *(19 Jul 2025)*
 <!-- blog ends -->
 🌐 **More on [dzombak.com](https://www.dzombak.com/blog)**
 <br />
