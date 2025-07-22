@@ -6,13 +6,13 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[dzsolarized-vscode Release v0.0.5](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.5) *(2025-07-22)*
+
 [driveway-monitor v1.3.1](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.3.1) *(2025-07-21)*
 
 [an4mon v1.2.0](https://github.com/cdzombak/an4mon/releases/tag/v1.2.0) *(2025-07-20)*
 
 [flickr-rss v1.0.2](https://github.com/cdzombak/flickr-rss/releases/tag/v1.0.2) *(2025-07-20)*
-
-[dzsolarized-vscode Release v0.0.4](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.4) *(2025-07-12)*
 
 [openweather-influxdb-connector v1.4.1](https://github.com/cdzombak/openweather-influxdb-connector/releases/tag/v1.4.1) *(2025-07-07)*
 

@@ -1,16 +1,16 @@
 # Releases
 
-Listing <!-- releases_count starts -->329<!-- releases_count ends --> releases across <!-- project_count starts -->52<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->330<!-- releases_count ends --> releases across <!-- project_count starts -->52<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[dzsolarized-vscode](https://github.com/cdzombak/dzsolarized-vscode)**: [Release v0.0.5](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.5) *(2025-07-22; [4 releases total](https://github.com/cdzombak/dzsolarized-vscode/releases) )* 
+<br />Personal Solarized variant for VS Code (light + dark modes supported)
 * **[driveway-monitor](https://github.com/cdzombak/driveway-monitor)**: [v1.3.1](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.3.1) *(2025-07-21; [18 releases total](https://github.com/cdzombak/driveway-monitor/releases) )* 
 <br />Receive customizable, AI-powered notifications when someone arrives in your driveway.
 * **[an4mon](https://github.com/cdzombak/an4mon)**: [v1.2.0](https://github.com/cdzombak/an4mon/releases/tag/v1.2.0) *(2025-07-20; [8 releases total](https://github.com/cdzombak/an4mon/releases) )* 
 <br />CO2 level notifications + MQTT and InfluxDB logging for Aranet4 sensors
 * **[flickr-rss](https://github.com/cdzombak/flickr-rss)**: [v1.0.2](https://github.com/cdzombak/flickr-rss/releases/tag/v1.0.2) *(2025-07-20; [6 releases total](https://github.com/cdzombak/flickr-rss/releases) )* 
 <br />Generate an RSS feed of a Flickr photostream or your Friends & Family feed
-* **[dzsolarized-vscode](https://github.com/cdzombak/dzsolarized-vscode)**: [Release v0.0.4](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.4) *(2025-07-12; [3 releases total](https://github.com/cdzombak/dzsolarized-vscode/releases) )* 
-<br />Personal Solarized variant for VS Code (light + dark modes supported)
 * **[openweather-influxdb-connector](https://github.com/cdzombak/openweather-influxdb-connector)**: [v1.4.1](https://github.com/cdzombak/openweather-influxdb-connector/releases/tag/v1.4.1) *(2025-07-07; [13 releases total](https://github.com/cdzombak/openweather-influxdb-connector/releases) )* 
 <br />Write current weather conditions from OpenWeatherMap to InfluxDB
 * **[ecobee_influx_connector](https://github.com/cdzombak/ecobee_influx_connector)**: [v1.2.0](https://github.com/cdzombak/ecobee_influx_connector/releases/tag/v1.2.0) *(2025-07-07; [8 releases total](https://github.com/cdzombak/ecobee_influx_connector/releases) )* 
