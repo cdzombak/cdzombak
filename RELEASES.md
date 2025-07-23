@@ -12,7 +12,7 @@ Listing <!-- releases_count starts -->336<!-- releases_count ends --> releases a
 * **[flickr-rss](https://github.com/cdzombak/flickr-rss)**: [v1.0.2](https://github.com/cdzombak/flickr-rss/releases/tag/v1.0.2) *(2025-07-20; [6 releases total](https://github.com/cdzombak/flickr-rss/releases) )* 
 <br />Generate an RSS feed of a Flickr photostream or your Friends & Family feed
 * **[openweather-influxdb-connector](https://github.com/cdzombak/openweather-influxdb-connector)**: [v1.4.1](https://github.com/cdzombak/openweather-influxdb-connector/releases/tag/v1.4.1) *(2025-07-07; [13 releases total](https://github.com/cdzombak/openweather-influxdb-connector/releases) )* 
-<br />Write current weather conditions from OpenWeatherMap to InfluxDB
+<br />Write current weather OpenWeatherMap conditions to InfluxDB or MQTT
 * **[ecobee_influx_connector](https://github.com/cdzombak/ecobee_influx_connector)**: [v1.2.0](https://github.com/cdzombak/ecobee_influx_connector/releases/tag/v1.2.0) *(2025-07-07; [8 releases total](https://github.com/cdzombak/ecobee_influx_connector/releases) )* 
 <br />Ship your Ecobee runtime, sensor and weather data to InfluxDB or MQTT.
 * **[ytdlbot](https://github.com/cdzombak/ytdlbot)**: [v1.0.4-rc.1](https://github.com/cdzombak/ytdlbot/releases/tag/v1.0.4-rc.1) *(2025-05-30; [9 releases total](https://github.com/cdzombak/ytdlbot/releases) )* 
