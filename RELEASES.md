@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->336<!-- releases_count ends --> releases across <!-- project_count starts -->52<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->337<!-- releases_count ends --> releases across <!-- project_count starts -->52<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[nut_influx_connector](https://github.com/cdzombak/nut_influx_connector)**: [v1.2.0](https://github.com/cdzombak/nut_influx_connector/releases/tag/v1.2.0) *(2025-07-23; [8 releases total](https://github.com/cdzombak/nut_influx_connector/releases) )* 
+<br />Ship energy usage data & UPS stats from Network-UPS-Tools to InfluxDB/MQTT
 * **[dzsolarized-vscode](https://github.com/cdzombak/dzsolarized-vscode)**: [Release v0.0.11](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.11) *(2025-07-22; [10 releases total](https://github.com/cdzombak/dzsolarized-vscode/releases) )* 
 <br />Solarized variant for VS Code (light + dark modes supported)
 * **[driveway-monitor](https://github.com/cdzombak/driveway-monitor)**: [v1.3.1](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.3.1) *(2025-07-21; [18 releases total](https://github.com/cdzombak/driveway-monitor/releases) )* 
@@ -35,10 +37,8 @@ Listing <!-- releases_count starts -->336<!-- releases_count ends --> releases a
 <br />Weather-related types and calculations for Golang
 * **[mqtt2influxdb](https://github.com/cdzombak/mqtt2influxdb)**: [v0.0.10](https://github.com/cdzombak/mqtt2influxdb/releases/tag/v0.0.10) *(2025-01-07; [19 releases total](https://github.com/cdzombak/mqtt2influxdb/releases) )* 
 <br />An opinionated and intentionally scope-limited MQTT to InfluxDB bridge
-* **[nut_influx_connector](https://github.com/cdzombak/nut_influx_connector)**: [v1.1.2](https://github.com/cdzombak/nut_influx_connector/releases/tag/v1.1.2) *(2025-01-06; [7 releases total](https://github.com/cdzombak/nut_influx_connector/releases) )* 
-<br />Ship energy usage data and other UPS stats from Network-UPS-Tools to InfluxDB
 * **[midea2influx](https://github.com/cdzombak/midea2influx)**: [v1.1.1](https://github.com/cdzombak/midea2influx/releases/tag/v1.1.1) *(2024-11-17; [4 releases total](https://github.com/cdzombak/midea2influx/releases) )* 
-<br />Write status of Midea dehumidifers to InfluxDB
+<br />Write status of Midea dehumidifers to InfluxDB/MQTT
 * **[washmon](https://github.com/cdzombak/washmon)**: [v0.0.2](https://github.com/cdzombak/washmon/releases/tag/v0.0.2) *(2024-11-01; [3 releases total](https://github.com/cdzombak/washmon/releases) )* 
 <br />washmon figures out when a load of laundry is done and reminds you about it periodically until you affirm that you've emptied the machine
 * **[xtool](https://github.com/cdzombak/xtool)**: [v1.0.1](https://github.com/cdzombak/xtool/releases/tag/v1.0.1) *(2024-10-18; [4 releases total](https://github.com/cdzombak/xtool/releases) )* 

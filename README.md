@@ -6,6 +6,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[nut_influx_connector v1.2.0](https://github.com/cdzombak/nut_influx_connector/releases/tag/v1.2.0) *(2025-07-23)*
+
 [dzsolarized-vscode Release v0.0.11](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.11) *(2025-07-22)*
 
 [driveway-monitor v1.3.1](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.3.1) *(2025-07-21)*
@@ -19,8 +21,6 @@
 [ecobee_influx_connector v1.2.0](https://github.com/cdzombak/ecobee_influx_connector/releases/tag/v1.2.0) *(2025-07-07)*
 
 [ytdlbot v1.0.4-rc.1](https://github.com/cdzombak/ytdlbot/releases/tag/v1.0.4-rc.1) *(2025-05-30)*
-
-[gallerygen v1.0.5](https://github.com/cdzombak/gallerygen/releases/tag/v1.0.5) *(2025-05-29)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />
