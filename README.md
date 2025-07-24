@@ -30,6 +30,8 @@
 ### Recently Blogged
 
 <!-- blog starts -->
+[Use Your Type System](https://www.dzombak.com/blog/2025/07/use-your-type-system/) *(24 Jul 2025)*
+
 [CO2 Monitoring and Alerting with Aranet4 + an4mon](https://www.dzombak.com/blog/2025/07/co2-monitoring-and-alerting-with-aranet4-an4mon/) *(22 Jul 2025)*
 
 [Announcing the DzSolarized VS Code theme](https://www.dzombak.com/blog/2025/07/announcing-the-dzsolarized-vs-code-theme/) *(22 Jul 2025)*
@@ -39,8 +41,6 @@
 [Neat Image noise profiles for the Sigma sd Quattro H](https://www.dzombak.com/blog/2025/07/neat-image-noise-profiles-for-the-sigma-sd-quattro-h/) *(20 Jul 2025)*
 
 [birdbath.tube](https://www.dzombak.com/blog/2025/07/birdbath-tube/) *(20 Jul 2025)*
-
-[Trying to remind myself that I don't have to do everything today.](https://www.dzombak.com/blog/2025/07/trying-to-remind-myself-that-i-dont-have-to-do-everything-today/) *(20 Jul 2025)*
 <!-- blog ends -->
 🌐 **More on [dzombak.com](https://www.dzombak.com/blog)**
 <br />
