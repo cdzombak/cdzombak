@@ -6,6 +6,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[midea2influx v1.2.0](https://github.com/cdzombak/midea2influx/releases/tag/v1.2.0) *(2025-07-23)*
+
 [nut_influx_connector v1.2.0](https://github.com/cdzombak/nut_influx_connector/releases/tag/v1.2.0) *(2025-07-23)*
 
 [dzsolarized-vscode Release v0.0.11](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.11) *(2025-07-22)*
@@ -19,8 +21,6 @@
 [openweather-influxdb-connector v1.4.1](https://github.com/cdzombak/openweather-influxdb-connector/releases/tag/v1.4.1) *(2025-07-07)*
 
 [ecobee_influx_connector v1.2.0](https://github.com/cdzombak/ecobee_influx_connector/releases/tag/v1.2.0) *(2025-07-07)*
-
-[ytdlbot v1.0.4-rc.1](https://github.com/cdzombak/ytdlbot/releases/tag/v1.0.4-rc.1) *(2025-05-30)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />
