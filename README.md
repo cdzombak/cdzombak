@@ -6,7 +6,7 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
-[feedfilter v1.0.0-rc.1](https://github.com/cdzombak/feedfilter/releases/tag/v1.0.0-rc.1) *(2025-07-28)*
+[feedfilter v1.0.0](https://github.com/cdzombak/feedfilter/releases/tag/v1.0.0) *(2025-07-28)*
 
 [washmon v1.0.0](https://github.com/cdzombak/washmon/releases/tag/v1.0.0) *(2025-07-28)*
 
