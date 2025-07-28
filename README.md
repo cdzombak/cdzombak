@@ -6,6 +6,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[macos-screenlock-mqtt v1.0.0](https://github.com/cdzombak/macos-screenlock-mqtt/releases/tag/v1.0.0) *(2025-07-28)*
+
 [midea2influx v1.2.0](https://github.com/cdzombak/midea2influx/releases/tag/v1.2.0) *(2025-07-23)*
 
 [nut_influx_connector v1.2.0](https://github.com/cdzombak/nut_influx_connector/releases/tag/v1.2.0) *(2025-07-23)*
@@ -19,8 +21,6 @@
 [flickr-rss v1.0.2](https://github.com/cdzombak/flickr-rss/releases/tag/v1.0.2) *(2025-07-20)*
 
 [openweather-influxdb-connector v1.4.1](https://github.com/cdzombak/openweather-influxdb-connector/releases/tag/v1.4.1) *(2025-07-07)*
-
-[ecobee_influx_connector v1.2.0](https://github.com/cdzombak/ecobee_influx_connector/releases/tag/v1.2.0) *(2025-07-07)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />

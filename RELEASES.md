@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->338<!-- releases_count ends --> releases across <!-- project_count starts -->52<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->339<!-- releases_count ends --> releases across <!-- project_count starts -->53<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[macos-screenlock-mqtt](https://github.com/cdzombak/macos-screenlock-mqtt)**: [v1.0.0](https://github.com/cdzombak/macos-screenlock-mqtt/releases/tag/v1.0.0) *(2025-07-28; )* 
+<br />Report macOS screen lock status to an MQTT broker
 * **[midea2influx](https://github.com/cdzombak/midea2influx)**: [v1.2.0](https://github.com/cdzombak/midea2influx/releases/tag/v1.2.0) *(2025-07-23; [5 releases total](https://github.com/cdzombak/midea2influx/releases) )* 
 <br />Write status of Midea dehumidifers to InfluxDB/MQTT
 * **[nut_influx_connector](https://github.com/cdzombak/nut_influx_connector)**: [v1.2.0](https://github.com/cdzombak/nut_influx_connector/releases/tag/v1.2.0) *(2025-07-23; [8 releases total](https://github.com/cdzombak/nut_influx_connector/releases) )* 
