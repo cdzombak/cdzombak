@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->339<!-- releases_count ends --> releases across <!-- project_count starts -->53<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->340<!-- releases_count ends --> releases across <!-- project_count starts -->53<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[washmon](https://github.com/cdzombak/washmon)**: [v1.0.0](https://github.com/cdzombak/washmon/releases/tag/v1.0.0) *(2025-07-28; [4 releases total](https://github.com/cdzombak/washmon/releases) )* 
+<br />washmon figures out when your laundry is done and reminds you periodically until you affirm that you've emptied the machine
 * **[macos-screenlock-mqtt](https://github.com/cdzombak/macos-screenlock-mqtt)**: [v1.0.0](https://github.com/cdzombak/macos-screenlock-mqtt/releases/tag/v1.0.0) *(2025-07-28; )* 
 <br />Report macOS screen lock status to an MQTT broker
 * **[midea2influx](https://github.com/cdzombak/midea2influx)**: [v1.2.0](https://github.com/cdzombak/midea2influx/releases/tag/v1.2.0) *(2025-07-23; [5 releases total](https://github.com/cdzombak/midea2influx/releases) )* 
@@ -41,8 +43,6 @@ Listing <!-- releases_count starts -->339<!-- releases_count ends --> releases a
 <br />Weather-related types and calculations for Golang
 * **[mqtt2influxdb](https://github.com/cdzombak/mqtt2influxdb)**: [v0.0.10](https://github.com/cdzombak/mqtt2influxdb/releases/tag/v0.0.10) *(2025-01-07; [19 releases total](https://github.com/cdzombak/mqtt2influxdb/releases) )* 
 <br />An opinionated and intentionally scope-limited MQTT to InfluxDB bridge
-* **[washmon](https://github.com/cdzombak/washmon)**: [v0.0.2](https://github.com/cdzombak/washmon/releases/tag/v0.0.2) *(2024-11-01; [3 releases total](https://github.com/cdzombak/washmon/releases) )* 
-<br />washmon figures out when a load of laundry is done and reminds you about it periodically until you affirm that you've emptied the machine
 * **[xtool](https://github.com/cdzombak/xtool)**: [v1.0.1](https://github.com/cdzombak/xtool/releases/tag/v1.0.1) *(2024-10-18; [4 releases total](https://github.com/cdzombak/xtool/releases) )* 
 <br />A photography workflow helper, mainly focused on EXIF operations.
 * **[macos-ups-mqtt-connector](https://github.com/cdzombak/macos-ups-mqtt-connector)**: [v0.0.4](https://github.com/cdzombak/macos-ups-mqtt-connector/releases/tag/v0.0.4) *(2024-10-09; [5 releases total](https://github.com/cdzombak/macos-ups-mqtt-connector/releases) )* 
