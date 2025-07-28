@@ -6,6 +6,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[feedfilter v1.0.0-rc.1](https://github.com/cdzombak/feedfilter/releases/tag/v1.0.0-rc.1) *(2025-07-28)*
+
 [washmon v1.0.0](https://github.com/cdzombak/washmon/releases/tag/v1.0.0) *(2025-07-28)*
 
 [macos-screenlock-mqtt v1.0.0](https://github.com/cdzombak/macos-screenlock-mqtt/releases/tag/v1.0.0) *(2025-07-28)*
@@ -19,8 +21,6 @@
 [driveway-monitor v1.3.1](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.3.1) *(2025-07-21)*
 
 [an4mon v1.2.0](https://github.com/cdzombak/an4mon/releases/tag/v1.2.0) *(2025-07-20)*
-
-[flickr-rss v1.0.2](https://github.com/cdzombak/flickr-rss/releases/tag/v1.0.2) *(2025-07-20)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />
