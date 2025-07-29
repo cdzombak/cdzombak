@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->342<!-- releases_count ends --> releases across <!-- project_count starts -->54<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->343<!-- releases_count ends --> releases across <!-- project_count starts -->54<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[driveway-monitor](https://github.com/cdzombak/driveway-monitor)**: [v1.3.2-rc.1](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.3.2-rc.1) *(2025-07-29; [19 releases total](https://github.com/cdzombak/driveway-monitor/releases) )* 
+<br />Receive customizable, AI-powered notifications when someone arrives in your driveway.
 * **[feedfilter](https://github.com/cdzombak/feedfilter)**: [v1.0.0](https://github.com/cdzombak/feedfilter/releases/tag/v1.0.0) *(2025-07-28; [2 releases total](https://github.com/cdzombak/feedfilter/releases) )* 
 <br />RSS feed filtering tool
 * **[washmon](https://github.com/cdzombak/washmon)**: [v1.0.0](https://github.com/cdzombak/washmon/releases/tag/v1.0.0) *(2025-07-28; [4 releases total](https://github.com/cdzombak/washmon/releases) )* 
@@ -15,8 +17,6 @@ Listing <!-- releases_count starts -->342<!-- releases_count ends --> releases a
 <br />Ship energy usage data & UPS stats from Network-UPS-Tools to InfluxDB/MQTT
 * **[dzsolarized-vscode](https://github.com/cdzombak/dzsolarized-vscode)**: [Release v0.0.11](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.11) *(2025-07-22; [10 releases total](https://github.com/cdzombak/dzsolarized-vscode/releases) )* 
 <br />Solarized variant for VS Code (light + dark modes supported)
-* **[driveway-monitor](https://github.com/cdzombak/driveway-monitor)**: [v1.3.1](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.3.1) *(2025-07-21; [18 releases total](https://github.com/cdzombak/driveway-monitor/releases) )* 
-<br />Receive customizable, AI-powered notifications when someone arrives in your driveway.
 * **[an4mon](https://github.com/cdzombak/an4mon)**: [v1.2.0](https://github.com/cdzombak/an4mon/releases/tag/v1.2.0) *(2025-07-20; [8 releases total](https://github.com/cdzombak/an4mon/releases) )* 
 <br />CO2 level notifications + MQTT and InfluxDB logging for Aranet4 sensors
 * **[flickr-rss](https://github.com/cdzombak/flickr-rss)**: [v1.0.2](https://github.com/cdzombak/flickr-rss/releases/tag/v1.0.2) *(2025-07-20; [6 releases total](https://github.com/cdzombak/flickr-rss/releases) )* 
