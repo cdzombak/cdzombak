@@ -30,6 +30,8 @@
 ### Recently Blogged
 
 <!-- blog starts -->
+[feedfilter: an RSS feed postprocessing tool](https://www.dzombak.com/blog/2025/07/feedfilter-an-rss-feed-postprocessing-tool/) *(29 Jul 2025)*
+
 [I vibe-coded an AI photo organizer for Lychee](https://www.dzombak.com/blog/2025/07/i-vibe-coded-an-ai-photo-organizer-for-lychee/) *(28 Jul 2025)*
 
 [Use Your Type System](https://www.dzombak.com/blog/2025/07/use-your-type-system/) *(24 Jul 2025)*
@@ -39,8 +41,6 @@
 [Announcing the DzSolarized VS Code theme](https://www.dzombak.com/blog/2025/07/announcing-the-dzsolarized-vs-code-theme/) *(22 Jul 2025)*
 
 [Functional Documentation](https://www.dzombak.com/blog/2025/07/functional-documentation/) *(22 Jul 2025)*
-
-[Neat Image noise profiles for the Sigma sd Quattro H](https://www.dzombak.com/blog/2025/07/neat-image-noise-profiles-for-the-sigma-sd-quattro-h/) *(20 Jul 2025)*
 <!-- blog ends -->
 🌐 **More on [dzombak.com](https://www.dzombak.com/blog)**
 <br />
