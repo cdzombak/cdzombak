@@ -30,6 +30,8 @@
 ### Recently Blogged
 
 <!-- blog starts -->
+[Recommendation: Microphone Setup for BirdNET-Pi](https://www.dzombak.com/blog/2025/07/recommendation-microphone-setup-for-birdnet-pi/) *(31 Jul 2025)*
+
 [feedfilter: an RSS feed postprocessing tool](https://www.dzombak.com/blog/2025/07/feedfilter-an-rss-feed-postprocessing-tool/) *(29 Jul 2025)*
 
 [I vibe-coded an AI photo organizer for Lychee](https://www.dzombak.com/blog/2025/07/i-vibe-coded-an-ai-photo-organizer-for-lychee/) *(28 Jul 2025)*
@@ -39,8 +41,6 @@
 [CO2 Monitoring and Alerting with Aranet4 + an4mon](https://www.dzombak.com/blog/2025/07/co2-monitoring-and-alerting-with-aranet4-an4mon/) *(22 Jul 2025)*
 
 [Announcing the DzSolarized VS Code theme](https://www.dzombak.com/blog/2025/07/announcing-the-dzsolarized-vs-code-theme/) *(22 Jul 2025)*
-
-[Functional Documentation](https://www.dzombak.com/blog/2025/07/functional-documentation/) *(22 Jul 2025)*
 <!-- blog ends -->
 🌐 **More on [dzombak.com](https://www.dzombak.com/blog)**
 <br />
