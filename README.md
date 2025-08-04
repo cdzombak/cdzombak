@@ -6,11 +6,11 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[driveway-monitor v1.3.2](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.3.2) *(2025-08-04)*
+
 [lychee-ai-organizer v1.0.0](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.0.0) *(2025-08-04)*
 
 [lychee-birb-title v1.0.0](https://github.com/cdzombak/lychee-birb-title/releases/tag/v1.0.0) *(2025-08-04)*
-
-[driveway-monitor v1.3.2-rc.1](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.3.2-rc.1) *(2025-07-29)*
 
 [feedfilter v1.0.0](https://github.com/cdzombak/feedfilter/releases/tag/v1.0.0) *(2025-07-28)*
 
