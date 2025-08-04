@@ -6,6 +6,10 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[lychee-ai-organizer v1.0.0](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.0.0) *(2025-08-04)*
+
+[lychee-birb-title v1.0.0](https://github.com/cdzombak/lychee-birb-title/releases/tag/v1.0.0) *(2025-08-04)*
+
 [driveway-monitor v1.3.2-rc.1](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.3.2-rc.1) *(2025-07-29)*
 
 [feedfilter v1.0.0](https://github.com/cdzombak/feedfilter/releases/tag/v1.0.0) *(2025-07-28)*
@@ -17,10 +21,6 @@
 [midea2influx v1.2.0](https://github.com/cdzombak/midea2influx/releases/tag/v1.2.0) *(2025-07-23)*
 
 [nut_influx_connector v1.2.0](https://github.com/cdzombak/nut_influx_connector/releases/tag/v1.2.0) *(2025-07-23)*
-
-[dzsolarized-vscode Release v0.0.11](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.11) *(2025-07-22)*
-
-[an4mon v1.2.0](https://github.com/cdzombak/an4mon/releases/tag/v1.2.0) *(2025-07-20)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />

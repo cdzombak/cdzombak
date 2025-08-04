@@ -1,8 +1,12 @@
 # Releases
 
-Listing <!-- releases_count starts -->343<!-- releases_count ends --> releases across <!-- project_count starts -->54<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->346<!-- releases_count ends --> releases across <!-- project_count starts -->56<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[lychee-ai-organizer](https://github.com/cdzombak/lychee-ai-organizer)**: [v1.0.0](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.0.0) *(2025-08-04; [2 releases total](https://github.com/cdzombak/lychee-ai-organizer/releases) )* 
+<br />Use local LLMs to organize your unsorted photos in Lychee
+* **[lychee-birb-title](https://github.com/cdzombak/lychee-birb-title)**: [v1.0.0](https://github.com/cdzombak/lychee-birb-title/releases/tag/v1.0.0) *(2025-08-04; )* 
+<br />Set titles for Bird Buddy photos in your Lychee photo library
 * **[driveway-monitor](https://github.com/cdzombak/driveway-monitor)**: [v1.3.2-rc.1](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.3.2-rc.1) *(2025-07-29; [19 releases total](https://github.com/cdzombak/driveway-monitor/releases) )* 
 <br />Receive customizable, AI-powered notifications when someone arrives in your driveway.
 * **[feedfilter](https://github.com/cdzombak/feedfilter)**: [v1.0.0](https://github.com/cdzombak/feedfilter/releases/tag/v1.0.0) *(2025-07-28; [2 releases total](https://github.com/cdzombak/feedfilter/releases) )* 
