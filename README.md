@@ -6,6 +6,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[lychee-meta-tool v1.0.0-rc.1](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.0.0-rc.1) *(2025-08-04)*
+
 [driveway-monitor v1.3.2](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.3.2) *(2025-08-04)*
 
 [lychee-ai-organizer v1.0.0](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.0.0) *(2025-08-04)*
@@ -19,8 +21,6 @@
 [macos-screenlock-mqtt v1.0.0](https://github.com/cdzombak/macos-screenlock-mqtt/releases/tag/v1.0.0) *(2025-07-28)*
 
 [midea2influx v1.2.0](https://github.com/cdzombak/midea2influx/releases/tag/v1.2.0) *(2025-07-23)*
-
-[nut_influx_connector v1.2.0](https://github.com/cdzombak/nut_influx_connector/releases/tag/v1.2.0) *(2025-07-23)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />
@@ -30,6 +30,8 @@
 ### Recently Blogged
 
 <!-- blog starts -->
+[Avoid unbounded inboxes; avoid stress](https://www.dzombak.com/blog/2025/08/avoid-unbounded-inboxes-avoid-stress/) *(04 Aug 2025)*
+
 [Recommendation: Microphone Setup for BirdNET-Pi](https://www.dzombak.com/blog/2025/07/recommendation-microphone-setup-for-birdnet-pi/) *(31 Jul 2025)*
 
 [feedfilter: an RSS feed postprocessing tool](https://www.dzombak.com/blog/2025/07/feedfilter-an-rss-feed-postprocessing-tool/) *(29 Jul 2025)*
@@ -39,8 +41,6 @@
 [Use Your Type System](https://www.dzombak.com/blog/2025/07/use-your-type-system/) *(24 Jul 2025)*
 
 [CO2 Monitoring and Alerting with Aranet4 + an4mon](https://www.dzombak.com/blog/2025/07/co2-monitoring-and-alerting-with-aranet4-an4mon/) *(22 Jul 2025)*
-
-[Announcing the DzSolarized VS Code theme](https://www.dzombak.com/blog/2025/07/announcing-the-dzsolarized-vs-code-theme/) *(22 Jul 2025)*
 <!-- blog ends -->
 🌐 **More on [dzombak.com](https://www.dzombak.com/blog)**
 <br />

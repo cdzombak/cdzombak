@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->347<!-- releases_count ends --> releases across <!-- project_count starts -->56<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->349<!-- releases_count ends --> releases across <!-- project_count starts -->57<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[lychee-meta-tool](https://github.com/cdzombak/lychee-meta-tool)**: [v1.0.0-rc.1](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.0.0-rc.1) *(2025-08-04; [2 releases total](https://github.com/cdzombak/lychee-meta-tool/releases) )* 
+<br />Quickly find & edit untitled photos in your Lychee photo library
 * **[driveway-monitor](https://github.com/cdzombak/driveway-monitor)**: [v1.3.2](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.3.2) *(2025-08-04; [20 releases total](https://github.com/cdzombak/driveway-monitor/releases) )* 
 <br />Receive customizable, AI-powered notifications when someone arrives in your driveway.
 * **[lychee-ai-organizer](https://github.com/cdzombak/lychee-ai-organizer)**: [v1.0.0](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.0.0) *(2025-08-04; [2 releases total](https://github.com/cdzombak/lychee-ai-organizer/releases) )* 
