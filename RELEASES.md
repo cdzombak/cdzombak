@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->349<!-- releases_count ends --> releases across <!-- project_count starts -->57<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->351<!-- releases_count ends --> releases across <!-- project_count starts -->57<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[flickr-rss](https://github.com/cdzombak/flickr-rss)**: [v1.0.3](https://github.com/cdzombak/flickr-rss/releases/tag/v1.0.3) *(2025-08-05; [8 releases total](https://github.com/cdzombak/flickr-rss/releases) )* 
+<br />Generate an RSS feed of a Flickr photostream or your Friends & Family feed
 * **[lychee-meta-tool](https://github.com/cdzombak/lychee-meta-tool)**: [v1.0.0-rc.1](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.0.0-rc.1) *(2025-08-04; [2 releases total](https://github.com/cdzombak/lychee-meta-tool/releases) )* 
 <br />Quickly find & edit untitled photos in your Lychee photo library
 * **[driveway-monitor](https://github.com/cdzombak/driveway-monitor)**: [v1.3.2](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.3.2) *(2025-08-04; [20 releases total](https://github.com/cdzombak/driveway-monitor/releases) )* 
@@ -25,8 +27,6 @@ Listing <!-- releases_count starts -->349<!-- releases_count ends --> releases a
 <br />Solarized variant for VS Code (light + dark modes supported)
 * **[an4mon](https://github.com/cdzombak/an4mon)**: [v1.2.0](https://github.com/cdzombak/an4mon/releases/tag/v1.2.0) *(2025-07-20; [8 releases total](https://github.com/cdzombak/an4mon/releases) )* 
 <br />CO2 level notifications + MQTT and InfluxDB logging for Aranet4 sensors
-* **[flickr-rss](https://github.com/cdzombak/flickr-rss)**: [v1.0.2](https://github.com/cdzombak/flickr-rss/releases/tag/v1.0.2) *(2025-07-20; [6 releases total](https://github.com/cdzombak/flickr-rss/releases) )* 
-<br />Generate an RSS feed of a Flickr photostream or your Friends & Family feed
 * **[openweather-influxdb-connector](https://github.com/cdzombak/openweather-influxdb-connector)**: [v1.4.1](https://github.com/cdzombak/openweather-influxdb-connector/releases/tag/v1.4.1) *(2025-07-07; [13 releases total](https://github.com/cdzombak/openweather-influxdb-connector/releases) )* 
 <br />Write current weather OpenWeatherMap conditions to InfluxDB or MQTT
 * **[ecobee_influx_connector](https://github.com/cdzombak/ecobee_influx_connector)**: [v1.2.0](https://github.com/cdzombak/ecobee_influx_connector/releases/tag/v1.2.0) *(2025-07-07; [8 releases total](https://github.com/cdzombak/ecobee_influx_connector/releases) )* 
