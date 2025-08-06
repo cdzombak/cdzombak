@@ -1,9 +1,9 @@
 # Releases
 
-Listing <!-- releases_count starts -->351<!-- releases_count ends --> releases across <!-- project_count starts -->57<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->352<!-- releases_count ends --> releases across <!-- project_count starts -->57<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
-* **[flickr-rss](https://github.com/cdzombak/flickr-rss)**: [v1.0.3](https://github.com/cdzombak/flickr-rss/releases/tag/v1.0.3) *(2025-08-05; [8 releases total](https://github.com/cdzombak/flickr-rss/releases) )* 
+* **[flickr-rss](https://github.com/cdzombak/flickr-rss)**: [v1.0.4](https://github.com/cdzombak/flickr-rss/releases/tag/v1.0.4) *(2025-08-06; [9 releases total](https://github.com/cdzombak/flickr-rss/releases) )* 
 <br />Generate an RSS feed of a Flickr photostream or your Friends & Family feed
 * **[lychee-meta-tool](https://github.com/cdzombak/lychee-meta-tool)**: [v1.0.0-rc.1](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.0.0-rc.1) *(2025-08-04; [2 releases total](https://github.com/cdzombak/lychee-meta-tool/releases) )* 
 <br />Quickly find & edit untitled photos in your Lychee photo library

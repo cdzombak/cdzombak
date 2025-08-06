@@ -6,7 +6,7 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
-[flickr-rss v1.0.3](https://github.com/cdzombak/flickr-rss/releases/tag/v1.0.3) *(2025-08-05)*
+[flickr-rss v1.0.4](https://github.com/cdzombak/flickr-rss/releases/tag/v1.0.4) *(2025-08-06)*
 
 [lychee-meta-tool v1.0.0-rc.1](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.0.0-rc.1) *(2025-08-04)*
 
