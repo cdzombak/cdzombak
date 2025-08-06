@@ -30,6 +30,10 @@
 ### Recently Blogged
 
 <!-- blog starts -->
+[An improved nginx_ensite script](https://www.dzombak.com/blog/2025/08/an-improved-nginx_ensite-script/) *(06 Aug 2025)*
+
+[Quick Devops Tool: gha-secrets-setup](https://www.dzombak.com/blog/2025/08/quick-devops-tool-gha-secrets-setup/) *(06 Aug 2025)*
+
 [How I share Bird Buddy photos online](https://www.dzombak.com/blog/2025/08/how-i-share-bird-buddy-photos-online/) *(05 Aug 2025)*
 
 [A Lychee photo library tool for titling photos](https://www.dzombak.com/blog/2025/08/a-lychee-photo-library-tool-for-titling-photos/) *(04 Aug 2025)*
@@ -37,10 +41,6 @@
 [Avoid unbounded inboxes; avoid stress](https://www.dzombak.com/blog/2025/08/avoid-unbounded-inboxes-avoid-stress/) *(04 Aug 2025)*
 
 [Recommendation: Microphone Setup for BirdNET-Pi](https://www.dzombak.com/blog/2025/07/recommendation-microphone-setup-for-birdnet-pi/) *(31 Jul 2025)*
-
-[feedfilter: an RSS feed postprocessing tool](https://www.dzombak.com/blog/2025/07/feedfilter-an-rss-feed-postprocessing-tool/) *(29 Jul 2025)*
-
-[I vibe-coded an AI photo organizer for Lychee](https://www.dzombak.com/blog/2025/07/i-vibe-coded-an-ai-photo-organizer-for-lychee/) *(28 Jul 2025)*
 <!-- blog ends -->
 🌐 **More on [dzombak.com](https://www.dzombak.com/blog)**
 <br />
