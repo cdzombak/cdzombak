@@ -30,6 +30,8 @@
 ### Recently Blogged
 
 <!-- blog starts -->
+[Navigating and Rewriting Legacy Systems](https://www.dzombak.com/blog/2025/08/navigating-and-rewriting-legacy-systems/) *(07 Aug 2025)*
+
 [An improved nginx_ensite script](https://www.dzombak.com/blog/2025/08/an-improved-nginx_ensite-script/) *(06 Aug 2025)*
 
 [Quick Devops Tool: gha-secrets-setup](https://www.dzombak.com/blog/2025/08/quick-devops-tool-gha-secrets-setup/) *(06 Aug 2025)*
@@ -39,8 +41,6 @@
 [A Lychee photo library tool for titling photos](https://www.dzombak.com/blog/2025/08/a-lychee-photo-library-tool-for-titling-photos/) *(04 Aug 2025)*
 
 [Avoid unbounded inboxes; avoid stress](https://www.dzombak.com/blog/2025/08/avoid-unbounded-inboxes-avoid-stress/) *(04 Aug 2025)*
-
-[Recommendation: Microphone Setup for BirdNET-Pi](https://www.dzombak.com/blog/2025/07/recommendation-microphone-setup-for-birdnet-pi/) *(31 Jul 2025)*
 <!-- blog ends -->
 🌐 **More on [dzombak.com](https://www.dzombak.com/blog)**
 <br />
