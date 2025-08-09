@@ -6,7 +6,7 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
-[xrp v0.0.1-beta.6](https://github.com/cdzombak/xrp/releases/tag/v0.0.1-beta.6) *(2025-08-07)*
+[xrp v0.0.1-beta.7](https://github.com/cdzombak/xrp/releases/tag/v0.0.1-beta.7) *(2025-08-09)*
 
 [flickr-rss v1.0.4](https://github.com/cdzombak/flickr-rss/releases/tag/v1.0.4) *(2025-08-06)*
 

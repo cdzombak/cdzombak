@@ -1,9 +1,9 @@
 # Releases
 
-Listing <!-- releases_count starts -->354<!-- releases_count ends --> releases across <!-- project_count starts -->58<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->355<!-- releases_count ends --> releases across <!-- project_count starts -->58<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
-* **[xrp](https://github.com/cdzombak/xrp)**: [v0.0.1-beta.6](https://github.com/cdzombak/xrp/releases/tag/v0.0.1-beta.6) *(2025-08-07; [2 releases total](https://github.com/cdzombak/xrp/releases) )* 
+* **[xrp](https://github.com/cdzombak/xrp)**: [v0.0.1-beta.7](https://github.com/cdzombak/xrp/releases/tag/v0.0.1-beta.7) *(2025-08-09; [3 releases total](https://github.com/cdzombak/xrp/releases) )* 
 <br />HTML/XML aware reverse proxy
 * **[flickr-rss](https://github.com/cdzombak/flickr-rss)**: [v1.0.4](https://github.com/cdzombak/flickr-rss/releases/tag/v1.0.4) *(2025-08-06; [9 releases total](https://github.com/cdzombak/flickr-rss/releases) )* 
 <br />Generate an RSS feed of a Flickr photostream or your Friends & Family feed
