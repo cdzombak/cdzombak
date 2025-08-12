@@ -1,6 +1,6 @@
 # Releases
 
-Listing <!-- releases_count starts -->344<!-- releases_count ends --> releases across <!-- project_count starts -->53<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->356<!-- releases_count ends --> releases across <!-- project_count starts -->58<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
 * **[xrp](https://github.com/cdzombak/xrp)**: [v0.0.1-beta.8](https://github.com/cdzombak/xrp/releases/tag/v0.0.1-beta.8) *(2025-08-09; [4 releases total](https://github.com/cdzombak/xrp/releases) )* 
@@ -107,6 +107,16 @@ Listing <!-- releases_count starts -->344<!-- releases_count ends --> releases a
 <br />Scripts for quick ffmpeg/imagemagick conversions on Linux & macOS
 * **[windowstack2](https://github.com/cdzombak/windowstack2)**: [v1.6.2](https://github.com/cdzombak/windowstack2/releases/tag/v1.6.2) *(2023-10-10; [10 releases total](https://github.com/cdzombak/windowstack2/releases) )* 
 <br />“wait, what was I doing?”
+* **[fastscripts-alfred](https://github.com/cdzombak/fastscripts-alfred)**: [](https://github.com/cdzombak/fastscripts-alfred/releases/tag/v1.0) *(2023-04-23; )* 
+<br />Invoke FastScripts workflow for Alfred
 * **[do-ddns](https://github.com/cdzombak/do-ddns)**: [v0.0.6](https://github.com/cdzombak/do-ddns/releases/tag/v0.0.6) *(2022-04-18; [6 releases total](https://github.com/cdzombak/do-ddns/releases) )* 
 <br />DigitalOcean-based Dynamic DNS server and client
+* **[fix-secure-input](https://github.com/cdzombak/fix-secure-input)**: [Alfred Workflow v1.0.0](https://github.com/cdzombak/fix-secure-input/releases/tag/v1.0.0) *(2020-11-20; )* 
+<br />Script & Alfred workflow to quickly fix Secure Input being stuck on in macOS
+* **[thingshub](https://github.com/cdzombak/thingshub)**: [v1.1.1: Don't create empty projects](https://github.com/cdzombak/thingshub/releases/tag/v1.1.1) *(2020-02-05; [5 releases total](https://github.com/cdzombak/thingshub/releases) )* 
+<br />[UNMAINTAINED] Synchronize issues assigned to you from a Github repo into Things.
+* **[finder-atom](https://github.com/cdzombak/finder-atom)**: [2.0](https://github.com/cdzombak/finder-atom/releases/tag/v2.0) *(2017-09-14; [4 releases total](https://github.com/cdzombak/finder-atom/releases) )* 
+<br />An “Open in Atom“ tool for the Finder.
+* **[CDZUIKitAutoLayoutDebugging](https://github.com/cdzombak/CDZUIKitAutoLayoutDebugging)**: [The First Release](https://github.com/cdzombak/CDZUIKitAutoLayoutDebugging/releases/tag/0.0.7) *(2015-03-14; )* 
+<br />[Unmaintained] Tools for easier Auto Layout debugging
 <!-- recent_releases ends -->
