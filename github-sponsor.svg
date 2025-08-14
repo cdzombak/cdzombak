@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="248" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="204" class="">
     <defs>
         <style/>
     </defs>
@@ -16,8 +16,7 @@
                 <div class="row fill-width">
                     <section class="sponsors">
                         <div class="markdown">
-                            <p>Support Chris's open-source software development work! For over a decade I've created and maintained a bunch of useful open-source software, and you might use it to help monitor scheduled jobs on your Linux servers, connect pieces of your smart home together, give your to-do app superpowers, keep an AI-powered eye on your driveway, or keep your digital inboxes manageable.</p>
-                            <p>Your sponsorship is important because, well, right now I'm looking for a job, and in the meantime every little bit helps! Please consider chipping in a few dollars if my software has been useful for you.</p>
+                            <p>Support Chris's open-source software development work! For over a decade I've created and maintained a bunch of useful open-source software, and you might use it to help monitor scheduled jobs on your Linux servers, connect pieces of your smart home together, give your to-do app superpowers, keep an AI-powered eye on your driveway, or keep your digital inboxes manageable. Please consider chipping in a few dollars if my software has been useful for you.</p>
                         </div>
                     </section>
                 </div>
