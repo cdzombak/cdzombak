@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->356<!-- releases_count ends --> releases across <!-- project_count starts -->58<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->357<!-- releases_count ends --> releases across <!-- project_count starts -->58<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[ytdlbot](https://github.com/cdzombak/ytdlbot)**: [v1.0.5](https://github.com/cdzombak/ytdlbot/releases/tag/v1.0.5) *(2025-08-21; [10 releases total](https://github.com/cdzombak/ytdlbot/releases) )* 
+<br />A tool for collecting videos from YouTube & similar sites
 * **[xrp](https://github.com/cdzombak/xrp)**: [v0.0.1-beta.8](https://github.com/cdzombak/xrp/releases/tag/v0.0.1-beta.8) *(2025-08-09; [4 releases total](https://github.com/cdzombak/xrp/releases) )* 
 <br />HTML/XML aware reverse proxy
 * **[flickr-rss](https://github.com/cdzombak/flickr-rss)**: [v1.0.4](https://github.com/cdzombak/flickr-rss/releases/tag/v1.0.4) *(2025-08-06; [9 releases total](https://github.com/cdzombak/flickr-rss/releases) )* 
@@ -33,8 +35,6 @@ Listing <!-- releases_count starts -->356<!-- releases_count ends --> releases a
 <br />Write current weather OpenWeatherMap conditions to InfluxDB or MQTT
 * **[ecobee_influx_connector](https://github.com/cdzombak/ecobee_influx_connector)**: [v1.2.0](https://github.com/cdzombak/ecobee_influx_connector/releases/tag/v1.2.0) *(2025-07-07; [8 releases total](https://github.com/cdzombak/ecobee_influx_connector/releases) )* 
 <br />Ship your Ecobee runtime, sensor and weather data to InfluxDB or MQTT.
-* **[ytdlbot](https://github.com/cdzombak/ytdlbot)**: [v1.0.4-rc.1](https://github.com/cdzombak/ytdlbot/releases/tag/v1.0.4-rc.1) *(2025-05-30; [9 releases total](https://github.com/cdzombak/ytdlbot/releases) )* 
-<br />A tool for collecting videos from YouTube & similar sites
 * **[gallerygen](https://github.com/cdzombak/gallerygen)**: [v1.0.5](https://github.com/cdzombak/gallerygen/releases/tag/v1.0.5) *(2025-05-29; [10 releases total](https://github.com/cdzombak/gallerygen/releases) )* 
 <br />Generate a static HTML gallery from a directory tree of images
 * **[restic-deb](https://github.com/cdzombak/restic-deb)**: [v0.18.0](https://github.com/cdzombak/restic-deb/releases/tag/v0.18.0) *(2025-03-31; [11 releases total](https://github.com/cdzombak/restic-deb/releases) )* 

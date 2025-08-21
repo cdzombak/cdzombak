@@ -6,6 +6,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[ytdlbot v1.0.5](https://github.com/cdzombak/ytdlbot/releases/tag/v1.0.5) *(2025-08-21)*
+
 [xrp v0.0.1-beta.8](https://github.com/cdzombak/xrp/releases/tag/v0.0.1-beta.8) *(2025-08-09)*
 
 [flickr-rss v1.0.4](https://github.com/cdzombak/flickr-rss/releases/tag/v1.0.4) *(2025-08-06)*
@@ -19,8 +21,6 @@
 [lychee-birb-title v1.0.0](https://github.com/cdzombak/lychee-birb-title/releases/tag/v1.0.0) *(2025-08-04)*
 
 [feedfilter v1.0.0](https://github.com/cdzombak/feedfilter/releases/tag/v1.0.0) *(2025-07-28)*
-
-[washmon v1.0.0](https://github.com/cdzombak/washmon/releases/tag/v1.0.0) *(2025-07-28)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />
