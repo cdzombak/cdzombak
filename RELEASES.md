@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->357<!-- releases_count ends --> releases across <!-- project_count starts -->58<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->358<!-- releases_count ends --> releases across <!-- project_count starts -->58<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[feedfilter](https://github.com/cdzombak/feedfilter)**: [v1.1.0](https://github.com/cdzombak/feedfilter/releases/tag/v1.1.0) *(2025-08-21; [3 releases total](https://github.com/cdzombak/feedfilter/releases) )* 
+<br />RSS feed filtering tool
 * **[ytdlbot](https://github.com/cdzombak/ytdlbot)**: [v1.0.5](https://github.com/cdzombak/ytdlbot/releases/tag/v1.0.5) *(2025-08-21; [10 releases total](https://github.com/cdzombak/ytdlbot/releases) )* 
 <br />A tool for collecting videos from YouTube & similar sites
 * **[xrp](https://github.com/cdzombak/xrp)**: [v0.0.1-beta.8](https://github.com/cdzombak/xrp/releases/tag/v0.0.1-beta.8) *(2025-08-09; [4 releases total](https://github.com/cdzombak/xrp/releases) )* 
@@ -17,8 +19,6 @@ Listing <!-- releases_count starts -->357<!-- releases_count ends --> releases a
 <br />Use local LLMs to organize your unsorted photos in Lychee
 * **[lychee-birb-title](https://github.com/cdzombak/lychee-birb-title)**: [v1.0.0](https://github.com/cdzombak/lychee-birb-title/releases/tag/v1.0.0) *(2025-08-04; )* 
 <br />Set titles for Bird Buddy photos in your Lychee photo library
-* **[feedfilter](https://github.com/cdzombak/feedfilter)**: [v1.0.0](https://github.com/cdzombak/feedfilter/releases/tag/v1.0.0) *(2025-07-28; [2 releases total](https://github.com/cdzombak/feedfilter/releases) )* 
-<br />RSS feed filtering tool
 * **[washmon](https://github.com/cdzombak/washmon)**: [v1.0.0](https://github.com/cdzombak/washmon/releases/tag/v1.0.0) *(2025-07-28; [4 releases total](https://github.com/cdzombak/washmon/releases) )* 
 <br />washmon figures out when your laundry is done and reminds you periodically until you affirm that you've emptied the machine
 * **[macos-screenlock-mqtt](https://github.com/cdzombak/macos-screenlock-mqtt)**: [v1.0.0](https://github.com/cdzombak/macos-screenlock-mqtt/releases/tag/v1.0.0) *(2025-07-28; )* 
