@@ -6,6 +6,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[nut_influx_connector v1.2.1](https://github.com/cdzombak/nut_influx_connector/releases/tag/v1.2.1) *(2025-08-24)*
+
 [feedfilter v1.1.0](https://github.com/cdzombak/feedfilter/releases/tag/v1.1.0) *(2025-08-21)*
 
 [ytdlbot v1.0.5](https://github.com/cdzombak/ytdlbot/releases/tag/v1.0.5) *(2025-08-21)*
@@ -19,8 +21,6 @@
 [driveway-monitor v1.3.2](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.3.2) *(2025-08-04)*
 
 [lychee-ai-organizer v1.0.0](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.0.0) *(2025-08-04)*
-
-[lychee-birb-title v1.0.0](https://github.com/cdzombak/lychee-birb-title/releases/tag/v1.0.0) *(2025-08-04)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />

@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->358<!-- releases_count ends --> releases across <!-- project_count starts -->58<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->359<!-- releases_count ends --> releases across <!-- project_count starts -->58<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[nut_influx_connector](https://github.com/cdzombak/nut_influx_connector)**: [v1.2.1](https://github.com/cdzombak/nut_influx_connector/releases/tag/v1.2.1) *(2025-08-24; [9 releases total](https://github.com/cdzombak/nut_influx_connector/releases) )* 
+<br />Ship energy usage data & UPS stats from Network-UPS-Tools to InfluxDB/MQTT
 * **[feedfilter](https://github.com/cdzombak/feedfilter)**: [v1.1.0](https://github.com/cdzombak/feedfilter/releases/tag/v1.1.0) *(2025-08-21; [3 releases total](https://github.com/cdzombak/feedfilter/releases) )* 
 <br />RSS feed filtering tool
 * **[ytdlbot](https://github.com/cdzombak/ytdlbot)**: [v1.0.5](https://github.com/cdzombak/ytdlbot/releases/tag/v1.0.5) *(2025-08-21; [10 releases total](https://github.com/cdzombak/ytdlbot/releases) )* 
@@ -25,8 +27,6 @@ Listing <!-- releases_count starts -->358<!-- releases_count ends --> releases a
 <br />Report macOS screen lock status to an MQTT broker
 * **[midea2influx](https://github.com/cdzombak/midea2influx)**: [v1.2.0](https://github.com/cdzombak/midea2influx/releases/tag/v1.2.0) *(2025-07-23; [5 releases total](https://github.com/cdzombak/midea2influx/releases) )* 
 <br />Write status of Midea dehumidifers to InfluxDB/MQTT
-* **[nut_influx_connector](https://github.com/cdzombak/nut_influx_connector)**: [v1.2.0](https://github.com/cdzombak/nut_influx_connector/releases/tag/v1.2.0) *(2025-07-23; [8 releases total](https://github.com/cdzombak/nut_influx_connector/releases) )* 
-<br />Ship energy usage data & UPS stats from Network-UPS-Tools to InfluxDB/MQTT
 * **[dzsolarized-vscode](https://github.com/cdzombak/dzsolarized-vscode)**: [Release v0.0.11](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.11) *(2025-07-22; [10 releases total](https://github.com/cdzombak/dzsolarized-vscode/releases) )* 
 <br />Solarized variant for VS Code (light + dark modes supported)
 * **[an4mon](https://github.com/cdzombak/an4mon)**: [v1.2.0](https://github.com/cdzombak/an4mon/releases/tag/v1.2.0) *(2025-07-20; [8 releases total](https://github.com/cdzombak/an4mon/releases) )* 
