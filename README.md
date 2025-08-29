@@ -1,6 +1,3 @@
-> [!NOTE]  
-> **Currently looking for work!** Please <a href="https://www.linkedin.com/in/chris-dzombak/" rel="me">see my LinkedIn profile</a> and <a href="https://www.dzombak.com/contact">get in touch</a>, or see <a href="https://www.dzombak.com/support-me">ways to support me in the interim</a>.
-
 <table><tr><td valign="top" width="50%" style="margin-bottom: 1em;">
 
 ### Recent Releases
