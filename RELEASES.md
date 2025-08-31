@@ -1,8 +1,12 @@
 # Releases
 
-Listing <!-- releases_count starts -->359<!-- releases_count ends --> releases across <!-- project_count starts -->58<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->362<!-- releases_count ends --> releases across <!-- project_count starts -->58<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[lychee-ai-organizer](https://github.com/cdzombak/lychee-ai-organizer)**: [v1.0.2](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.0.2) *(2025-08-31; [4 releases total](https://github.com/cdzombak/lychee-ai-organizer/releases) )* 
+<br />Use local LLMs to organize your unsorted photos in Lychee
+* **[lychee-meta-tool](https://github.com/cdzombak/lychee-meta-tool)**: [v1.0.1](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.0.1) *(2025-08-31; [3 releases total](https://github.com/cdzombak/lychee-meta-tool/releases) )* 
+<br />Quickly find & edit untitled photos in your Lychee photo library
 * **[nut_influx_connector](https://github.com/cdzombak/nut_influx_connector)**: [v1.2.1](https://github.com/cdzombak/nut_influx_connector/releases/tag/v1.2.1) *(2025-08-24; [9 releases total](https://github.com/cdzombak/nut_influx_connector/releases) )* 
 <br />Ship energy usage data & UPS stats from Network-UPS-Tools to InfluxDB/MQTT
 * **[feedfilter](https://github.com/cdzombak/feedfilter)**: [v1.1.0](https://github.com/cdzombak/feedfilter/releases/tag/v1.1.0) *(2025-08-21; [3 releases total](https://github.com/cdzombak/feedfilter/releases) )* 
@@ -13,12 +17,8 @@ Listing <!-- releases_count starts -->359<!-- releases_count ends --> releases a
 <br />HTML/XML aware reverse proxy
 * **[flickr-rss](https://github.com/cdzombak/flickr-rss)**: [v1.0.4](https://github.com/cdzombak/flickr-rss/releases/tag/v1.0.4) *(2025-08-06; [9 releases total](https://github.com/cdzombak/flickr-rss/releases) )* 
 <br />Generate an RSS feed of a Flickr photostream or your Friends & Family feed
-* **[lychee-meta-tool](https://github.com/cdzombak/lychee-meta-tool)**: [v1.0.0-rc.1](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.0.0-rc.1) *(2025-08-04; [2 releases total](https://github.com/cdzombak/lychee-meta-tool/releases) )* 
-<br />Quickly find & edit untitled photos in your Lychee photo library
 * **[driveway-monitor](https://github.com/cdzombak/driveway-monitor)**: [v1.3.2](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.3.2) *(2025-08-04; [20 releases total](https://github.com/cdzombak/driveway-monitor/releases) )* 
 <br />Receive customizable, AI-powered notifications when someone arrives in your driveway.
-* **[lychee-ai-organizer](https://github.com/cdzombak/lychee-ai-organizer)**: [v1.0.0](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.0.0) *(2025-08-04; [2 releases total](https://github.com/cdzombak/lychee-ai-organizer/releases) )* 
-<br />Use local LLMs to organize your unsorted photos in Lychee
 * **[lychee-birb-title](https://github.com/cdzombak/lychee-birb-title)**: [v1.0.0](https://github.com/cdzombak/lychee-birb-title/releases/tag/v1.0.0) *(2025-08-04; )* 
 <br />Set titles for Bird Buddy photos in your Lychee photo library
 * **[washmon](https://github.com/cdzombak/washmon)**: [v1.0.0](https://github.com/cdzombak/washmon/releases/tag/v1.0.0) *(2025-07-28; [4 releases total](https://github.com/cdzombak/washmon/releases) )* 
