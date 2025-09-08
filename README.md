@@ -3,9 +3,9 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
-[lychee-ai-organizer v1.0.2](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.0.2) *(2025-08-31)*
+[lychee-meta-tool v1.0.2](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.0.2) *(2025-09-08)*
 
-[lychee-meta-tool v1.0.1](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.0.1) *(2025-08-31)*
+[lychee-ai-organizer v1.0.2](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.0.2) *(2025-08-31)*
 
 [nut_influx_connector v1.2.1](https://github.com/cdzombak/nut_influx_connector/releases/tag/v1.2.1) *(2025-08-24)*
 

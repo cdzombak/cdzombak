@@ -1,12 +1,12 @@
 # Releases
 
-Listing <!-- releases_count starts -->362<!-- releases_count ends --> releases across <!-- project_count starts -->58<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->363<!-- releases_count ends --> releases across <!-- project_count starts -->58<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[lychee-meta-tool](https://github.com/cdzombak/lychee-meta-tool)**: [v1.0.2](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.0.2) *(2025-09-08; [4 releases total](https://github.com/cdzombak/lychee-meta-tool/releases) )* 
+<br />Quickly find & edit untitled photos in your Lychee photo library
 * **[lychee-ai-organizer](https://github.com/cdzombak/lychee-ai-organizer)**: [v1.0.2](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.0.2) *(2025-08-31; [4 releases total](https://github.com/cdzombak/lychee-ai-organizer/releases) )* 
 <br />Use local LLMs to organize your unsorted photos in Lychee
-* **[lychee-meta-tool](https://github.com/cdzombak/lychee-meta-tool)**: [v1.0.1](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.0.1) *(2025-08-31; [3 releases total](https://github.com/cdzombak/lychee-meta-tool/releases) )* 
-<br />Quickly find & edit untitled photos in your Lychee photo library
 * **[nut_influx_connector](https://github.com/cdzombak/nut_influx_connector)**: [v1.2.1](https://github.com/cdzombak/nut_influx_connector/releases/tag/v1.2.1) *(2025-08-24; [9 releases total](https://github.com/cdzombak/nut_influx_connector/releases) )* 
 <br />Ship energy usage data & UPS stats from Network-UPS-Tools to InfluxDB/MQTT
 * **[feedfilter](https://github.com/cdzombak/feedfilter)**: [v1.1.0](https://github.com/cdzombak/feedfilter/releases/tag/v1.1.0) *(2025-08-21; [3 releases total](https://github.com/cdzombak/feedfilter/releases) )* 
