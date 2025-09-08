@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->363<!-- releases_count ends --> releases across <!-- project_count starts -->58<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->365<!-- releases_count ends --> releases across <!-- project_count starts -->59<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[wdproc](https://github.com/cdzombak/wdproc)**: [v1.0.0](https://github.com/cdzombak/wdproc/releases/tag/v1.0.0) *(2025-09-08; [2 releases total](https://github.com/cdzombak/wdproc/releases) )* 
+<br />Add files synced from WriterDeck to Day One or Things
 * **[lychee-meta-tool](https://github.com/cdzombak/lychee-meta-tool)**: [v1.0.2](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.0.2) *(2025-09-08; [4 releases total](https://github.com/cdzombak/lychee-meta-tool/releases) )* 
 <br />Quickly find & edit untitled photos in your Lychee photo library
 * **[lychee-ai-organizer](https://github.com/cdzombak/lychee-ai-organizer)**: [v1.0.2](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.0.2) *(2025-08-31; [4 releases total](https://github.com/cdzombak/lychee-ai-organizer/releases) )* 
