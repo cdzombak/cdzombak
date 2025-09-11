@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[feedbin-auto-archiver v1.1.0](https://github.com/cdzombak/feedbin-auto-archiver/releases/tag/v1.1.0) *(2025-09-11)*
+
 [wdproc v1.0.0](https://github.com/cdzombak/wdproc/releases/tag/v1.0.0) *(2025-09-08)*
 
 [lychee-meta-tool v1.0.2](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.0.2) *(2025-09-08)*
@@ -16,8 +18,6 @@
 [ytdlbot v1.0.5](https://github.com/cdzombak/ytdlbot/releases/tag/v1.0.5) *(2025-08-21)*
 
 [xrp v0.0.1-beta.8](https://github.com/cdzombak/xrp/releases/tag/v0.0.1-beta.8) *(2025-08-09)*
-
-[flickr-rss v1.0.4](https://github.com/cdzombak/flickr-rss/releases/tag/v1.0.4) *(2025-08-06)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />

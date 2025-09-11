@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->365<!-- releases_count ends --> releases across <!-- project_count starts -->59<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->366<!-- releases_count ends --> releases across <!-- project_count starts -->59<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[feedbin-auto-archiver](https://github.com/cdzombak/feedbin-auto-archiver)**: [v1.1.0](https://github.com/cdzombak/feedbin-auto-archiver/releases/tag/v1.1.0) *(2025-09-11; [4 releases total](https://github.com/cdzombak/feedbin-auto-archiver/releases) )* 
+<br />Avoid stress: Automatically archive old unread entries in Feedbin.
 * **[wdproc](https://github.com/cdzombak/wdproc)**: [v1.0.0](https://github.com/cdzombak/wdproc/releases/tag/v1.0.0) *(2025-09-08; [2 releases total](https://github.com/cdzombak/wdproc/releases) )* 
 <br />Add files synced from WriterDeck to Day One or Things
 * **[lychee-meta-tool](https://github.com/cdzombak/lychee-meta-tool)**: [v1.0.2](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.0.2) *(2025-09-08; [4 releases total](https://github.com/cdzombak/lychee-meta-tool/releases) )* 
@@ -101,8 +103,6 @@ Listing <!-- releases_count starts -->365<!-- releases_count ends --> releases a
 <br />Better crontab management
 * **[instapaper-auto-archiver](https://github.com/cdzombak/instapaper-auto-archiver)**: [v1.0.0](https://github.com/cdzombak/instapaper-auto-archiver/releases/tag/v1.0.0) *(2023-10-15; )* 
 <br />Avoid stress: Automatically archive older unread Instapaper bookmarks
-* **[feedbin-auto-archiver](https://github.com/cdzombak/feedbin-auto-archiver)**: [v1.0.1](https://github.com/cdzombak/feedbin-auto-archiver/releases/tag/v1.0.1) *(2023-10-15; [3 releases total](https://github.com/cdzombak/feedbin-auto-archiver/releases) )* 
-<br />Avoid stress: Automatically archive old unread entries in Feedbin.
 * **[feedbin-stars-to-email](https://github.com/cdzombak/feedbin-stars-to-email)**: [v1.0.0](https://github.com/cdzombak/feedbin-stars-to-email/releases/tag/v1.0.0) *(2023-10-15; [2 releases total](https://github.com/cdzombak/feedbin-stars-to-email/releases) )* 
 <br />Email starred items from your Feedbin account to a chosen email address.
 * **[quick-media-conv](https://github.com/cdzombak/quick-media-conv)**: [v1.1.2](https://github.com/cdzombak/quick-media-conv/releases/tag/v1.1.2) *(2023-10-13; [15 releases total](https://github.com/cdzombak/quick-media-conv/releases) )* 
