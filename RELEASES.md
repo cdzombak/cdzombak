@@ -1,6 +1,6 @@
 # Releases
 
-Listing <!-- releases_count starts -->366<!-- releases_count ends --> releases across <!-- project_count starts -->59<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->365<!-- releases_count ends --> releases across <!-- project_count starts -->58<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
 * **[feedbin-auto-archiver](https://github.com/cdzombak/feedbin-auto-archiver)**: [v1.1.0](https://github.com/cdzombak/feedbin-auto-archiver/releases/tag/v1.1.0) *(2025-09-11; [4 releases total](https://github.com/cdzombak/feedbin-auto-archiver/releases) )* 
@@ -27,8 +27,6 @@ Listing <!-- releases_count starts -->366<!-- releases_count ends --> releases a
 <br />Set titles for Bird Buddy photos in your Lychee photo library
 * **[washmon](https://github.com/cdzombak/washmon)**: [v1.0.0](https://github.com/cdzombak/washmon/releases/tag/v1.0.0) *(2025-07-28; [4 releases total](https://github.com/cdzombak/washmon/releases) )* 
 <br />washmon figures out when your laundry is done and reminds you periodically until you affirm that you've emptied the machine
-* **[macos-screenlock-mqtt](https://github.com/cdzombak/macos-screenlock-mqtt)**: [v1.0.0](https://github.com/cdzombak/macos-screenlock-mqtt/releases/tag/v1.0.0) *(2025-07-28; )* 
-<br />Report macOS screen lock status to an MQTT broker
 * **[midea2influx](https://github.com/cdzombak/midea2influx)**: [v1.2.0](https://github.com/cdzombak/midea2influx/releases/tag/v1.2.0) *(2025-07-23; [5 releases total](https://github.com/cdzombak/midea2influx/releases) )* 
 <br />Write status of Midea dehumidifers to InfluxDB/MQTT
 * **[dzsolarized-vscode](https://github.com/cdzombak/dzsolarized-vscode)**: [Release v0.0.11](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.11) *(2025-07-22; [10 releases total](https://github.com/cdzombak/dzsolarized-vscode/releases) )* 
