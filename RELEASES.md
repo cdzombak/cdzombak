@@ -1,6 +1,6 @@
 # Releases
 
-Listing <!-- releases_count starts -->365<!-- releases_count ends --> releases across <!-- project_count starts -->58<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->333<!-- releases_count ends --> releases across <!-- project_count starts -->57<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
 * **[feedbin-auto-archiver](https://github.com/cdzombak/feedbin-auto-archiver)**: [v1.1.0](https://github.com/cdzombak/feedbin-auto-archiver/releases/tag/v1.1.0) *(2025-09-11; [4 releases total](https://github.com/cdzombak/feedbin-auto-archiver/releases) )* 
@@ -43,8 +43,6 @@ Listing <!-- releases_count starts -->365<!-- releases_count ends --> releases a
 <br />Automatic builds of Debian packages for the Restic backup program
 * **[a2-foia-rss](https://github.com/cdzombak/a2-foia-rss)**: [v1.0.2](https://github.com/cdzombak/a2-foia-rss/releases/tag/v1.0.2) *(2025-02-17; [3 releases total](https://github.com/cdzombak/a2-foia-rss/releases) )* 
 <br />Feed generator for Ann Arbor's online FOIA database
-* **[runner](https://github.com/cdzombak/runner)**: [v2.10.0](https://github.com/cdzombak/runner/releases/tag/v2.10.0) *(2025-01-31; [32 releases total](https://github.com/cdzombak/runner/releases) )* 
-<br />Lightweight wrapper for better cron jobs and containers
 * **[dns-auditor](https://github.com/cdzombak/dns-auditor)**: [v1.0.0-beta.3](https://github.com/cdzombak/dns-auditor/releases/tag/v1.0.0-beta.3) *(2025-01-24; [4 releases total](https://github.com/cdzombak/dns-auditor/releases) )* 
 <br />Check your DNS records for a variety of potential issues
 * **[dns-do-to-namecom](https://github.com/cdzombak/dns-do-to-namecom)**: [v1.0.0: Initial release](https://github.com/cdzombak/dns-do-to-namecom/releases/tag/v1.0.0) *(2025-01-23; )* 
