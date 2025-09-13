@@ -1,9 +1,9 @@
 # Releases
 
-Listing <!-- releases_count starts -->313<!-- releases_count ends --> releases across <!-- project_count starts -->53<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->284<!-- releases_count ends --> releases across <!-- project_count starts -->48<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
-* **[feedbin-auto-archiver](https://github.com/cdzombak/feedbin-auto-archiver)**: [v1.1.0](https://github.com/cdzombak/feedbin-auto-archiver/releases/tag/v1.1.0) *(2025-09-11; [4 releases total](https://github.com/cdzombak/feedbin-auto-archiver/releases) )* 
+* **[feedbin-auto-archiver](https://github.com/cdzombak/feedbin-auto-archiver)**: [v1.2.0](https://github.com/cdzombak/feedbin-auto-archiver/releases/tag/v1.2.0) *(2025-09-13; [5 releases total](https://github.com/cdzombak/feedbin-auto-archiver/releases) )* 
 <br />Avoid stress: Automatically archive old unread entries in Feedbin.
 * **[lychee-meta-tool](https://github.com/cdzombak/lychee-meta-tool)**: [v1.0.2](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.0.2) *(2025-09-08; [4 releases total](https://github.com/cdzombak/lychee-meta-tool/releases) )* 
 <br />Quickly find & edit untitled photos in your Lychee photo library
@@ -15,8 +15,6 @@ Listing <!-- releases_count starts -->313<!-- releases_count ends --> releases a
 <br />RSS feed filtering tool
 * **[ytdlbot](https://github.com/cdzombak/ytdlbot)**: [v1.0.5](https://github.com/cdzombak/ytdlbot/releases/tag/v1.0.5) *(2025-08-21; [10 releases total](https://github.com/cdzombak/ytdlbot/releases) )* 
 <br />A tool for collecting videos from YouTube & similar sites
-* **[xrp](https://github.com/cdzombak/xrp)**: [v0.0.1-beta.8](https://github.com/cdzombak/xrp/releases/tag/v0.0.1-beta.8) *(2025-08-09; [4 releases total](https://github.com/cdzombak/xrp/releases) )* 
-<br />HTML/XML aware reverse proxy
 * **[flickr-rss](https://github.com/cdzombak/flickr-rss)**: [v1.0.4](https://github.com/cdzombak/flickr-rss/releases/tag/v1.0.4) *(2025-08-06; [9 releases total](https://github.com/cdzombak/flickr-rss/releases) )* 
 <br />Generate an RSS feed of a Flickr photostream or your Friends & Family feed
 * **[driveway-monitor](https://github.com/cdzombak/driveway-monitor)**: [v1.3.2](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.3.2) *(2025-08-04; [20 releases total](https://github.com/cdzombak/driveway-monitor/releases) )* 
@@ -39,18 +37,10 @@ Listing <!-- releases_count starts -->313<!-- releases_count ends --> releases a
 <br />Feed generator for Ann Arbor's online FOIA database
 * **[dns-auditor](https://github.com/cdzombak/dns-auditor)**: [v1.0.0-beta.3](https://github.com/cdzombak/dns-auditor/releases/tag/v1.0.0-beta.3) *(2025-01-24; [4 releases total](https://github.com/cdzombak/dns-auditor/releases) )* 
 <br />Check your DNS records for a variety of potential issues
-* **[dns-do-to-namecom](https://github.com/cdzombak/dns-do-to-namecom)**: [v1.0.0: Initial release](https://github.com/cdzombak/dns-do-to-namecom/releases/tag/v1.0.0) *(2025-01-23; )* 
-<br />Copy DNS records from DigitalOcean to Name.com
-* **[dns-do-to-porkbun](https://github.com/cdzombak/dns-do-to-porkbun)**: [v1.0.0: Initial Release](https://github.com/cdzombak/dns-do-to-porkbun/releases/tag/v1.0.0) *(2025-01-21; )* 
-<br />Copy DNS records from DigitalOcean to Porkbun
 * **[libwx](https://github.com/cdzombak/libwx)**: [](https://github.com/cdzombak/libwx/releases/tag/v1.3.0) *(2025-01-13; [5 releases total](https://github.com/cdzombak/libwx/releases) )* 
 <br />Weather-related types and calculations for Golang
-* **[mqtt2influxdb](https://github.com/cdzombak/mqtt2influxdb)**: [v0.0.10](https://github.com/cdzombak/mqtt2influxdb/releases/tag/v0.0.10) *(2025-01-07; [19 releases total](https://github.com/cdzombak/mqtt2influxdb/releases) )* 
-<br />An opinionated and intentionally scope-limited MQTT to InfluxDB bridge
 * **[xtool](https://github.com/cdzombak/xtool)**: [v1.0.1](https://github.com/cdzombak/xtool/releases/tag/v1.0.1) *(2024-10-18; [4 releases total](https://github.com/cdzombak/xtool/releases) )* 
 <br />A photography workflow helper, mainly focused on EXIF operations.
-* **[macos-ups-mqtt-connector](https://github.com/cdzombak/macos-ups-mqtt-connector)**: [v0.0.4](https://github.com/cdzombak/macos-ups-mqtt-connector/releases/tag/v0.0.4) *(2024-10-09; [5 releases total](https://github.com/cdzombak/macos-ups-mqtt-connector/releases) )* 
-<br />Send current UPS status from your Mac to MQTT
 * **[bandwhich-deb](https://github.com/cdzombak/bandwhich-deb)**: [v0.23.1](https://github.com/cdzombak/bandwhich-deb/releases/tag/v0.23.1) *(2024-10-09; [5 releases total](https://github.com/cdzombak/bandwhich-deb/releases) )* 
 <br />Automatic builds of Debian packages for the Bandwhich terminal bandwidth utilization tool
 * **[wxcal](https://github.com/cdzombak/wxcal)**: [v1.2.1](https://github.com/cdzombak/wxcal/releases/tag/v1.2.1) *(2024-09-06; [6 releases total](https://github.com/cdzombak/wxcal/releases) )* 
