@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->366<!-- releases_count ends --> releases across <!-- project_count starts -->58<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->367<!-- releases_count ends --> releases across <!-- project_count starts -->58<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[dns-auditor](https://github.com/cdzombak/dns-auditor)**: [v1.0.0-beta.4](https://github.com/cdzombak/dns-auditor/releases/tag/v1.0.0-beta.4) *(2025-09-13; [5 releases total](https://github.com/cdzombak/dns-auditor/releases) )* 
+<br />Check your DNS records for a variety of potential issues
 * **[feedbin-auto-archiver](https://github.com/cdzombak/feedbin-auto-archiver)**: [v1.2.0](https://github.com/cdzombak/feedbin-auto-archiver/releases/tag/v1.2.0) *(2025-09-13; [5 releases total](https://github.com/cdzombak/feedbin-auto-archiver/releases) )* 
 <br />Avoid stress: Automatically archive old unread entries in Feedbin.
 * **[wdproc](https://github.com/cdzombak/wdproc)**: [v1.0.0](https://github.com/cdzombak/wdproc/releases/tag/v1.0.0) *(2025-09-08; [2 releases total](https://github.com/cdzombak/wdproc/releases) )* 
@@ -45,8 +47,6 @@ Listing <!-- releases_count starts -->366<!-- releases_count ends --> releases a
 <br />Feed generator for Ann Arbor's online FOIA database
 * **[runner](https://github.com/cdzombak/runner)**: [v2.10.0](https://github.com/cdzombak/runner/releases/tag/v2.10.0) *(2025-01-31; [32 releases total](https://github.com/cdzombak/runner/releases) )* 
 <br />Lightweight wrapper for better cron jobs and containers
-* **[dns-auditor](https://github.com/cdzombak/dns-auditor)**: [v1.0.0-beta.3](https://github.com/cdzombak/dns-auditor/releases/tag/v1.0.0-beta.3) *(2025-01-24; [4 releases total](https://github.com/cdzombak/dns-auditor/releases) )* 
-<br />Check your DNS records for a variety of potential issues
 * **[dns-do-to-namecom](https://github.com/cdzombak/dns-do-to-namecom)**: [v1.0.0: Initial release](https://github.com/cdzombak/dns-do-to-namecom/releases/tag/v1.0.0) *(2025-01-23; )* 
 <br />Copy DNS records from DigitalOcean to Name.com
 * **[dns-do-to-porkbun](https://github.com/cdzombak/dns-do-to-porkbun)**: [v1.0.0: Initial Release](https://github.com/cdzombak/dns-do-to-porkbun/releases/tag/v1.0.0) *(2025-01-21; )* 
