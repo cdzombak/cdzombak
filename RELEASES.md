@@ -1,6 +1,6 @@
 # Releases
 
-Listing <!-- releases_count starts -->331<!-- releases_count ends --> releases across <!-- project_count starts -->56<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->313<!-- releases_count ends --> releases across <!-- project_count starts -->53<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
 * **[feedbin-auto-archiver](https://github.com/cdzombak/feedbin-auto-archiver)**: [v1.1.0](https://github.com/cdzombak/feedbin-auto-archiver/releases/tag/v1.1.0) *(2025-09-11; [4 releases total](https://github.com/cdzombak/feedbin-auto-archiver/releases) )* 
@@ -23,10 +23,6 @@ Listing <!-- releases_count starts -->331<!-- releases_count ends --> releases a
 <br />Receive customizable, AI-powered notifications when someone arrives in your driveway.
 * **[lychee-birb-title](https://github.com/cdzombak/lychee-birb-title)**: [v1.0.0](https://github.com/cdzombak/lychee-birb-title/releases/tag/v1.0.0) *(2025-08-04; )* 
 <br />Set titles for Bird Buddy photos in your Lychee photo library
-* **[washmon](https://github.com/cdzombak/washmon)**: [v1.0.0](https://github.com/cdzombak/washmon/releases/tag/v1.0.0) *(2025-07-28; [4 releases total](https://github.com/cdzombak/washmon/releases) )* 
-<br />washmon figures out when your laundry is done and reminds you periodically until you affirm that you've emptied the machine
-* **[midea2influx](https://github.com/cdzombak/midea2influx)**: [v1.2.0](https://github.com/cdzombak/midea2influx/releases/tag/v1.2.0) *(2025-07-23; [5 releases total](https://github.com/cdzombak/midea2influx/releases) )* 
-<br />Write status of Midea dehumidifers to InfluxDB/MQTT
 * **[dzsolarized-vscode](https://github.com/cdzombak/dzsolarized-vscode)**: [Release v0.0.11](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.11) *(2025-07-22; [10 releases total](https://github.com/cdzombak/dzsolarized-vscode/releases) )* 
 <br />Solarized variant for VS Code (light + dark modes supported)
 * **[an4mon](https://github.com/cdzombak/an4mon)**: [v1.2.0](https://github.com/cdzombak/an4mon/releases/tag/v1.2.0) *(2025-07-20; [8 releases total](https://github.com/cdzombak/an4mon/releases) )* 
@@ -57,8 +53,6 @@ Listing <!-- releases_count starts -->331<!-- releases_count ends --> releases a
 <br />Send current UPS status from your Mac to MQTT
 * **[bandwhich-deb](https://github.com/cdzombak/bandwhich-deb)**: [v0.23.1](https://github.com/cdzombak/bandwhich-deb/releases/tag/v0.23.1) *(2024-10-09; [5 releases total](https://github.com/cdzombak/bandwhich-deb/releases) )* 
 <br />Automatic builds of Debian packages for the Bandwhich terminal bandwidth utilization tool
-* **[mqttshutdownd](https://github.com/cdzombak/mqttshutdownd)**: [v1.1.0](https://github.com/cdzombak/mqttshutdownd/releases/tag/v1.1.0) *(2024-10-03; [9 releases total](https://github.com/cdzombak/mqttshutdownd/releases) )* 
-<br />Shutdown a Linux machine in response to MQTT broadcast messages about utility power loss
 * **[wxcal](https://github.com/cdzombak/wxcal)**: [v1.2.1](https://github.com/cdzombak/wxcal/releases/tag/v1.2.1) *(2024-09-06; [6 releases total](https://github.com/cdzombak/wxcal/releases) )* 
 <br />Generate an iCal feed from the weather.gov forecast API
 * **[energybridge_to_influxdb](https://github.com/cdzombak/energybridge_to_influxdb)**: [v1.1.1](https://github.com/cdzombak/energybridge_to_influxdb/releases/tag/v1.1.1) *(2024-08-16; [10 releases total](https://github.com/cdzombak/energybridge_to_influxdb/releases) )* 
