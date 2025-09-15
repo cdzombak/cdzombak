@@ -1,9 +1,9 @@
 # Releases
 
-Listing <!-- releases_count starts -->374<!-- releases_count ends --> releases across <!-- project_count starts -->60<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->375<!-- releases_count ends --> releases across <!-- project_count starts -->60<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
-* **[ghfeed](https://github.com/cdzombak/ghfeed)**: [v1.3.0](https://github.com/cdzombak/ghfeed/releases/tag/v1.3.0) *(2025-09-15; [5 releases total](https://github.com/cdzombak/ghfeed/releases) )* 
+* **[ghfeed](https://github.com/cdzombak/ghfeed)**: [v1.3.1](https://github.com/cdzombak/ghfeed/releases/tag/v1.3.1) *(2025-09-15; [6 releases total](https://github.com/cdzombak/ghfeed/releases) )* 
 <br />GitHub activity feed consolidator
 * **[things2md](https://github.com/cdzombak/things2md)**: [v0.0.1](https://github.com/cdzombak/things2md/releases/tag/v0.0.1) *(2025-09-14; [2 releases total](https://github.com/cdzombak/things2md/releases) )* 
 <br />Export a Things project to Markdown
