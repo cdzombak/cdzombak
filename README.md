@@ -3,7 +3,7 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
-[ghfeed v1.0.0](https://github.com/cdzombak/ghfeed/releases/tag/v1.0.0) *(2025-09-15)*
+[ghfeed v1.1.0](https://github.com/cdzombak/ghfeed/releases/tag/v1.1.0) *(2025-09-15)*
 
 [things2md v0.0.1](https://github.com/cdzombak/things2md/releases/tag/v0.0.1) *(2025-09-14)*
 
