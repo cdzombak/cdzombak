@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->369<!-- releases_count ends --> releases across <!-- project_count starts -->59<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->370<!-- releases_count ends --> releases across <!-- project_count starts -->60<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[ghfeed](https://github.com/cdzombak/ghfeed)**: [v1.0.0](https://github.com/cdzombak/ghfeed/releases/tag/v1.0.0) *(2025-09-15; )* 
+<br />GitHub activity feed consolidator
 * **[things2md](https://github.com/cdzombak/things2md)**: [v0.0.1](https://github.com/cdzombak/things2md/releases/tag/v0.0.1) *(2025-09-14; [2 releases total](https://github.com/cdzombak/things2md/releases) )* 
 <br />Export a Things project to Markdown
 * **[dns-auditor](https://github.com/cdzombak/dns-auditor)**: [v1.0.0-beta.4](https://github.com/cdzombak/dns-auditor/releases/tag/v1.0.0-beta.4) *(2025-09-13; [5 releases total](https://github.com/cdzombak/dns-auditor/releases) )* 

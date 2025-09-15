@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[ghfeed v1.0.0](https://github.com/cdzombak/ghfeed/releases/tag/v1.0.0) *(2025-09-15)*
+
 [things2md v0.0.1](https://github.com/cdzombak/things2md/releases/tag/v0.0.1) *(2025-09-14)*
 
 [dns-auditor v1.0.0-beta.4](https://github.com/cdzombak/dns-auditor/releases/tag/v1.0.0-beta.4) *(2025-09-13)*
@@ -16,8 +18,6 @@
 [lychee-ai-organizer v1.0.2](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.0.2) *(2025-08-31)*
 
 [nut_influx_connector v1.2.1](https://github.com/cdzombak/nut_influx_connector/releases/tag/v1.2.1) *(2025-08-24)*
-
-[feedfilter v1.1.0](https://github.com/cdzombak/feedfilter/releases/tag/v1.1.0) *(2025-08-21)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />
