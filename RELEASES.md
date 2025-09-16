@@ -1,8 +1,12 @@
 # Releases
 
-Listing <!-- releases_count starts -->375<!-- releases_count ends --> releases across <!-- project_count starts -->60<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->377<!-- releases_count ends --> releases across <!-- project_count starts -->62<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[git-ac](https://github.com/cdzombak/git-ac)**: [v0.0.1](https://github.com/cdzombak/git-ac/releases/tag/v0.0.1) *(2025-09-16; )* 
+<br />Git autocommit: commit staged changes with LLM-written commit messages
+* **[mac-install](https://github.com/cdzombak/mac-install)**: [v0.0.1](https://github.com/cdzombak/mac-install/releases/tag/v0.0.1) *(2025-09-16; )* 
+<br />Idempotent software suite installer for macOS
 * **[ghfeed](https://github.com/cdzombak/ghfeed)**: [v1.3.1](https://github.com/cdzombak/ghfeed/releases/tag/v1.3.1) *(2025-09-15; [6 releases total](https://github.com/cdzombak/ghfeed/releases) )* 
 <br />GitHub activity feed consolidator
 * **[things2md](https://github.com/cdzombak/things2md)**: [v0.0.1](https://github.com/cdzombak/things2md/releases/tag/v0.0.1) *(2025-09-14; [2 releases total](https://github.com/cdzombak/things2md/releases) )* 
