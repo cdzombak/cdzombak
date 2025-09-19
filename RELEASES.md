@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->385<!-- releases_count ends --> releases across <!-- project_count starts -->65<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->386<!-- releases_count ends --> releases across <!-- project_count starts -->65<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[git-ac](https://github.com/cdzombak/git-ac)**: [v1.0.0](https://github.com/cdzombak/git-ac/releases/tag/v1.0.0) *(2025-09-19; [2 releases total](https://github.com/cdzombak/git-ac/releases) )* 
+<br />Git autocommit: commit staged changes with LLM-written commit messages
 * **[ghfeed](https://github.com/cdzombak/ghfeed)**: [v1.4.1](https://github.com/cdzombak/ghfeed/releases/tag/v1.4.1) *(2025-09-19; [8 releases total](https://github.com/cdzombak/ghfeed/releases) )* 
 <br />GitHub activity feed consolidator
 * **[exitcode_py](https://github.com/cdzombak/exitcode_py)**: [v0.0.2](https://github.com/cdzombak/exitcode_py/releases/tag/v0.0.2) *(2025-09-19; [2 releases total](https://github.com/cdzombak/exitcode_py/releases) )* 
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->385<!-- releases_count ends --> releases a
 <br />Codegenerated Golang constants for libc, LSB, BSD, and systemd exit codes
 * **[exitcodes](https://github.com/cdzombak/exitcodes)**: [v0.0.2](https://github.com/cdzombak/exitcodes/releases/tag/v0.0.2) *(2025-09-19; [2 releases total](https://github.com/cdzombak/exitcodes/releases) )* 
 <br />Code generator for libc, LSB, BSD, and systemd exit code constants
-* **[git-ac](https://github.com/cdzombak/git-ac)**: [v0.0.1](https://github.com/cdzombak/git-ac/releases/tag/v0.0.1) *(2025-09-16; )* 
-<br />Git autocommit: commit staged changes with LLM-written commit messages
 * **[mac-install](https://github.com/cdzombak/mac-install)**: [v0.0.1](https://github.com/cdzombak/mac-install/releases/tag/v0.0.1) *(2025-09-16; )* 
 <br />Idempotent software suite installer for macOS
 * **[things2md](https://github.com/cdzombak/things2md)**: [v0.0.1](https://github.com/cdzombak/things2md/releases/tag/v0.0.1) *(2025-09-14; [2 releases total](https://github.com/cdzombak/things2md/releases) )* 

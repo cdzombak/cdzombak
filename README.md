@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[git-ac v1.0.0](https://github.com/cdzombak/git-ac/releases/tag/v1.0.0) *(2025-09-19)*
+
 [ghfeed v1.4.1](https://github.com/cdzombak/ghfeed/releases/tag/v1.4.1) *(2025-09-19)*
 
 [exitcode_py v0.0.2](https://github.com/cdzombak/exitcode_py/releases/tag/v0.0.2) *(2025-09-19)*
@@ -10,8 +12,6 @@
 [exitcode_go v0.0.2](https://github.com/cdzombak/exitcode_go/releases/tag/v0.0.2) *(2025-09-19)*
 
 [exitcodes v0.0.2](https://github.com/cdzombak/exitcodes/releases/tag/v0.0.2) *(2025-09-19)*
-
-[git-ac v0.0.1](https://github.com/cdzombak/git-ac/releases/tag/v0.0.1) *(2025-09-16)*
 
 [mac-install v0.0.1](https://github.com/cdzombak/mac-install/releases/tag/v0.0.1) *(2025-09-16)*
 
