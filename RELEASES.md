@@ -1,14 +1,20 @@
 # Releases
 
-Listing <!-- releases_count starts -->377<!-- releases_count ends --> releases across <!-- project_count starts -->62<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->384<!-- releases_count ends --> releases across <!-- project_count starts -->65<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[ghfeed](https://github.com/cdzombak/ghfeed)**: [v1.4.0](https://github.com/cdzombak/ghfeed/releases/tag/v1.4.0) *(2025-09-19; [7 releases total](https://github.com/cdzombak/ghfeed/releases) )* 
+<br />GitHub activity feed consolidator
+* **[exitcode_py](https://github.com/cdzombak/exitcode_py)**: [v0.0.2](https://github.com/cdzombak/exitcode_py/releases/tag/v0.0.2) *(2025-09-19; [2 releases total](https://github.com/cdzombak/exitcode_py/releases) )* 
+<br />Codegenerated Python constants for libc, LSB, BSD, and systemd exit codes
+* **[exitcode_go](https://github.com/cdzombak/exitcode_go)**: [v0.0.2](https://github.com/cdzombak/exitcode_go/releases/tag/v0.0.2) *(2025-09-19; [2 releases total](https://github.com/cdzombak/exitcode_go/releases) )* 
+<br />Codegenerated Golang constants for libc, LSB, BSD, and systemd exit codes
+* **[exitcodes](https://github.com/cdzombak/exitcodes)**: [v0.0.2](https://github.com/cdzombak/exitcodes/releases/tag/v0.0.2) *(2025-09-19; [2 releases total](https://github.com/cdzombak/exitcodes/releases) )* 
+<br />Code generator for libc, LSB, BSD, and systemd exit code constants
 * **[git-ac](https://github.com/cdzombak/git-ac)**: [v0.0.1](https://github.com/cdzombak/git-ac/releases/tag/v0.0.1) *(2025-09-16; )* 
 <br />Git autocommit: commit staged changes with LLM-written commit messages
 * **[mac-install](https://github.com/cdzombak/mac-install)**: [v0.0.1](https://github.com/cdzombak/mac-install/releases/tag/v0.0.1) *(2025-09-16; )* 
 <br />Idempotent software suite installer for macOS
-* **[ghfeed](https://github.com/cdzombak/ghfeed)**: [v1.3.1](https://github.com/cdzombak/ghfeed/releases/tag/v1.3.1) *(2025-09-15; [6 releases total](https://github.com/cdzombak/ghfeed/releases) )* 
-<br />GitHub activity feed consolidator
 * **[things2md](https://github.com/cdzombak/things2md)**: [v0.0.1](https://github.com/cdzombak/things2md/releases/tag/v0.0.1) *(2025-09-14; [2 releases total](https://github.com/cdzombak/things2md/releases) )* 
 <br />Export a Things project to Markdown
 * **[dns-auditor](https://github.com/cdzombak/dns-auditor)**: [v1.0.0-beta.4](https://github.com/cdzombak/dns-auditor/releases/tag/v1.0.0-beta.4) *(2025-09-13; [5 releases total](https://github.com/cdzombak/dns-auditor/releases) )* 

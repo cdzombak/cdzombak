@@ -3,21 +3,21 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[ghfeed v1.4.0](https://github.com/cdzombak/ghfeed/releases/tag/v1.4.0) *(2025-09-19)*
+
+[exitcode_py v0.0.2](https://github.com/cdzombak/exitcode_py/releases/tag/v0.0.2) *(2025-09-19)*
+
+[exitcode_go v0.0.2](https://github.com/cdzombak/exitcode_go/releases/tag/v0.0.2) *(2025-09-19)*
+
+[exitcodes v0.0.2](https://github.com/cdzombak/exitcodes/releases/tag/v0.0.2) *(2025-09-19)*
+
 [git-ac v0.0.1](https://github.com/cdzombak/git-ac/releases/tag/v0.0.1) *(2025-09-16)*
 
 [mac-install v0.0.1](https://github.com/cdzombak/mac-install/releases/tag/v0.0.1) *(2025-09-16)*
 
-[ghfeed v1.3.1](https://github.com/cdzombak/ghfeed/releases/tag/v1.3.1) *(2025-09-15)*
-
 [things2md v0.0.1](https://github.com/cdzombak/things2md/releases/tag/v0.0.1) *(2025-09-14)*
 
 [dns-auditor v1.0.0-beta.4](https://github.com/cdzombak/dns-auditor/releases/tag/v1.0.0-beta.4) *(2025-09-13)*
-
-[feedbin-auto-archiver v1.2.0](https://github.com/cdzombak/feedbin-auto-archiver/releases/tag/v1.2.0) *(2025-09-13)*
-
-[wdproc v1.0.0](https://github.com/cdzombak/wdproc/releases/tag/v1.0.0) *(2025-09-08)*
-
-[lychee-meta-tool v1.0.2](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.0.2) *(2025-09-08)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />
