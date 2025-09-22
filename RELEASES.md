@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->392<!-- releases_count ends --> releases across <!-- project_count starts -->67<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->393<!-- releases_count ends --> releases across <!-- project_count starts -->68<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[metar-pkg](https://github.com/cdzombak/metar-pkg)**: [metar v2025.09.22.1](https://github.com/cdzombak/metar-pkg/releases/tag/v2025.09.22.1) *(2025-09-22; )* 
+<br />A portable command line interface for fetching METARs
 * **[mqtt2ntfy](https://github.com/cdzombak/mqtt2ntfy)**: [v0.0.1](https://github.com/cdzombak/mqtt2ntfy/releases/tag/v0.0.1) *(2025-09-22; )* 
 <br />mqtt to Ntfy bridge
 * **[git-ac](https://github.com/cdzombak/git-ac)**: [v1.0.2](https://github.com/cdzombak/git-ac/releases/tag/v1.0.2) *(2025-09-22; [4 releases total](https://github.com/cdzombak/git-ac/releases) )* 
