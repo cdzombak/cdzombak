@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[restic-deb v0.18.1](https://github.com/cdzombak/restic-deb/releases/tag/v0.18.1) *(2025-09-22)*
+
 [ghfeed v1.4.2](https://github.com/cdzombak/ghfeed/releases/tag/v1.4.2) *(2025-09-19)*
 
 [git-ac v1.0.0](https://github.com/cdzombak/git-ac/releases/tag/v1.0.0) *(2025-09-19)*
@@ -16,8 +18,6 @@
 [mac-install v0.0.1](https://github.com/cdzombak/mac-install/releases/tag/v0.0.1) *(2025-09-16)*
 
 [things2md v0.0.1](https://github.com/cdzombak/things2md/releases/tag/v0.0.1) *(2025-09-14)*
-
-[dns-auditor v1.0.0-beta.4](https://github.com/cdzombak/dns-auditor/releases/tag/v1.0.0-beta.4) *(2025-09-13)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />

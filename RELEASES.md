@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->387<!-- releases_count ends --> releases across <!-- project_count starts -->65<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->388<!-- releases_count ends --> releases across <!-- project_count starts -->65<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[restic-deb](https://github.com/cdzombak/restic-deb)**: [v0.18.1](https://github.com/cdzombak/restic-deb/releases/tag/v0.18.1) *(2025-09-22; [12 releases total](https://github.com/cdzombak/restic-deb/releases) )* 
+<br />Automatic builds of Debian packages for the Restic backup program
 * **[ghfeed](https://github.com/cdzombak/ghfeed)**: [v1.4.2](https://github.com/cdzombak/ghfeed/releases/tag/v1.4.2) *(2025-09-19; [9 releases total](https://github.com/cdzombak/ghfeed/releases) )* 
 <br />GitHub activity feed consolidator
 * **[git-ac](https://github.com/cdzombak/git-ac)**: [v1.0.0](https://github.com/cdzombak/git-ac/releases/tag/v1.0.0) *(2025-09-19; [2 releases total](https://github.com/cdzombak/git-ac/releases) )* 
@@ -55,8 +57,6 @@ Listing <!-- releases_count starts -->387<!-- releases_count ends --> releases a
 <br />Ship your Ecobee runtime, sensor and weather data to InfluxDB or MQTT.
 * **[gallerygen](https://github.com/cdzombak/gallerygen)**: [v1.0.5](https://github.com/cdzombak/gallerygen/releases/tag/v1.0.5) *(2025-05-29; [10 releases total](https://github.com/cdzombak/gallerygen/releases) )* 
 <br />Generate a static HTML gallery from a directory tree of images
-* **[restic-deb](https://github.com/cdzombak/restic-deb)**: [v0.18.0](https://github.com/cdzombak/restic-deb/releases/tag/v0.18.0) *(2025-03-31; [11 releases total](https://github.com/cdzombak/restic-deb/releases) )* 
-<br />Automatic builds of Debian packages for the Restic backup program
 * **[a2-foia-rss](https://github.com/cdzombak/a2-foia-rss)**: [v1.0.2](https://github.com/cdzombak/a2-foia-rss/releases/tag/v1.0.2) *(2025-02-17; [3 releases total](https://github.com/cdzombak/a2-foia-rss/releases) )* 
 <br />Feed generator for Ann Arbor's online FOIA database
 * **[runner](https://github.com/cdzombak/runner)**: [v2.10.0](https://github.com/cdzombak/runner/releases/tag/v2.10.0) *(2025-01-31; [32 releases total](https://github.com/cdzombak/runner/releases) )* 
