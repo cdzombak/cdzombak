@@ -3,7 +3,7 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
-[metar-pkg metar v2025.09.22.1](https://github.com/cdzombak/metar-pkg/releases/tag/v2025.09.22.1) *(2025-09-22)*
+[metar-pkg metar v2025.09.22.3](https://github.com/cdzombak/metar-pkg/releases/tag/v2025.09.22.3) *(2025-09-22)*
 
 [mqtt2ntfy v0.0.1](https://github.com/cdzombak/mqtt2ntfy/releases/tag/v0.0.1) *(2025-09-22)*
 
