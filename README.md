@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[mqtt2ntfy v0.0.1](https://github.com/cdzombak/mqtt2ntfy/releases/tag/v0.0.1) *(2025-09-22)*
+
 [git-ac v1.0.2](https://github.com/cdzombak/git-ac/releases/tag/v1.0.2) *(2025-09-22)*
 
 [restic-deb v0.18.1](https://github.com/cdzombak/restic-deb/releases/tag/v0.18.1) *(2025-09-22)*
@@ -16,8 +18,6 @@
 [exitcodes v0.0.2](https://github.com/cdzombak/exitcodes/releases/tag/v0.0.2) *(2025-09-19)*
 
 [mac-install v0.0.1](https://github.com/cdzombak/mac-install/releases/tag/v0.0.1) *(2025-09-16)*
-
-[things2md v0.0.1](https://github.com/cdzombak/things2md/releases/tag/v0.0.1) *(2025-09-14)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />
