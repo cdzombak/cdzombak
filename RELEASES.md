@@ -1,9 +1,9 @@
 # Releases
 
-Listing <!-- releases_count starts -->390<!-- releases_count ends --> releases across <!-- project_count starts -->66<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->391<!-- releases_count ends --> releases across <!-- project_count starts -->66<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
-* **[git-ac](https://github.com/cdzombak/git-ac)**: [v1.0.1](https://github.com/cdzombak/git-ac/releases/tag/v1.0.1) *(2025-09-22; [3 releases total](https://github.com/cdzombak/git-ac/releases) )* 
+* **[git-ac](https://github.com/cdzombak/git-ac)**: [v1.0.2](https://github.com/cdzombak/git-ac/releases/tag/v1.0.2) *(2025-09-22; [4 releases total](https://github.com/cdzombak/git-ac/releases) )* 
 <br />Git autocommit: commit staged changes with LLM-written commit messages
 * **[restic-deb](https://github.com/cdzombak/restic-deb)**: [v0.18.1](https://github.com/cdzombak/restic-deb/releases/tag/v0.18.1) *(2025-09-22; [12 releases total](https://github.com/cdzombak/restic-deb/releases) )* 
 <br />Automatic builds of Debian packages for the Restic backup program

@@ -3,7 +3,7 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
-[git-ac v1.0.1](https://github.com/cdzombak/git-ac/releases/tag/v1.0.1) *(2025-09-22)*
+[git-ac v1.0.2](https://github.com/cdzombak/git-ac/releases/tag/v1.0.2) *(2025-09-22)*
 
 [restic-deb v0.18.1](https://github.com/cdzombak/restic-deb/releases/tag/v0.18.1) *(2025-09-22)*
 
