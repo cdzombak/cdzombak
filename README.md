@@ -3,7 +3,7 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
-[aclaude v0.0.1](https://github.com/cdzombak/aclaude/releases/tag/v0.0.1) *(2025-09-23)*
+[aclaude v1.0.2](https://github.com/cdzombak/aclaude/releases/tag/v1.0.2) *(2025-09-23)*
 
 [metar-pkg metar v2025.09.22.3](https://github.com/cdzombak/metar-pkg/releases/tag/v2025.09.22.3) *(2025-09-22)*
 

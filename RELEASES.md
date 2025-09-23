@@ -1,9 +1,9 @@
 # Releases
 
-Listing <!-- releases_count starts -->398<!-- releases_count ends --> releases across <!-- project_count starts -->69<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->399<!-- releases_count ends --> releases across <!-- project_count starts -->69<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
-* **[aclaude](https://github.com/cdzombak/aclaude)**: [v0.0.1](https://github.com/cdzombak/aclaude/releases/tag/v0.0.1) *(2025-09-23; [3 releases total](https://github.com/cdzombak/aclaude/releases) )* 
+* **[aclaude](https://github.com/cdzombak/aclaude)**: [v1.0.2](https://github.com/cdzombak/aclaude/releases/tag/v1.0.2) *(2025-09-23; [4 releases total](https://github.com/cdzombak/aclaude/releases) )* 
 <br />Claude Code launcher for alternate models/endpoints
 * **[metar-pkg](https://github.com/cdzombak/metar-pkg)**: [metar v2025.09.22.3](https://github.com/cdzombak/metar-pkg/releases/tag/v2025.09.22.3) *(2025-09-22; [3 releases total](https://github.com/cdzombak/metar-pkg/releases) )* 
 <br />A portable command line interface for fetching METARs
