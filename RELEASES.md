@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->399<!-- releases_count ends --> releases across <!-- project_count starts -->69<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->400<!-- releases_count ends --> releases across <!-- project_count starts -->70<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[bt-env-mqtt](https://github.com/cdzombak/bt-env-mqtt)**: [v0.0.1](https://github.com/cdzombak/bt-env-mqtt/releases/tag/v0.0.1) *(2025-09-24; )* 
+<br />macOS tool that publishes details about nearby Bluetooth devices to MQTT
 * **[aclaude](https://github.com/cdzombak/aclaude)**: [v1.0.2](https://github.com/cdzombak/aclaude/releases/tag/v1.0.2) *(2025-09-23; [4 releases total](https://github.com/cdzombak/aclaude/releases) )* 
 <br />Claude Code launcher for alternate models/endpoints
 * **[metar-pkg](https://github.com/cdzombak/metar-pkg)**: [metar v2025.09.22.3](https://github.com/cdzombak/metar-pkg/releases/tag/v2025.09.22.3) *(2025-09-22; [3 releases total](https://github.com/cdzombak/metar-pkg/releases) )* 

@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[bt-env-mqtt v0.0.1](https://github.com/cdzombak/bt-env-mqtt/releases/tag/v0.0.1) *(2025-09-24)*
+
 [aclaude v1.0.2](https://github.com/cdzombak/aclaude/releases/tag/v1.0.2) *(2025-09-23)*
 
 [metar-pkg metar v2025.09.22.3](https://github.com/cdzombak/metar-pkg/releases/tag/v2025.09.22.3) *(2025-09-22)*
@@ -16,8 +18,6 @@
 [ghfeed v1.4.2](https://github.com/cdzombak/ghfeed/releases/tag/v1.4.2) *(2025-09-19)*
 
 [exitcode_py v0.0.2](https://github.com/cdzombak/exitcode_py/releases/tag/v0.0.2) *(2025-09-19)*
-
-[exitcode_go v0.0.2](https://github.com/cdzombak/exitcode_go/releases/tag/v0.0.2) *(2025-09-19)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />
