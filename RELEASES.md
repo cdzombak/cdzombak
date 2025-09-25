@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->401<!-- releases_count ends --> releases across <!-- project_count starts -->70<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->402<!-- releases_count ends --> releases across <!-- project_count starts -->70<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[ghfeed](https://github.com/cdzombak/ghfeed)**: [v1.4.3](https://github.com/cdzombak/ghfeed/releases/tag/v1.4.3) *(2025-09-25; [10 releases total](https://github.com/cdzombak/ghfeed/releases) )* 
+<br />GitHub activity feed consolidator
 * **[bt-env-mqtt](https://github.com/cdzombak/bt-env-mqtt)**: [v0.0.2](https://github.com/cdzombak/bt-env-mqtt/releases/tag/v0.0.2) *(2025-09-25; [2 releases total](https://github.com/cdzombak/bt-env-mqtt/releases) )* 
 <br />macOS tool that publishes details about nearby Bluetooth devices to MQTT
 * **[aclaude](https://github.com/cdzombak/aclaude)**: [v1.0.2](https://github.com/cdzombak/aclaude/releases/tag/v1.0.2) *(2025-09-23; [4 releases total](https://github.com/cdzombak/aclaude/releases) )* 
@@ -15,8 +17,6 @@ Listing <!-- releases_count starts -->401<!-- releases_count ends --> releases a
 <br />Git autocommit: commit staged changes with LLM-written commit messages
 * **[restic-deb](https://github.com/cdzombak/restic-deb)**: [v0.18.1](https://github.com/cdzombak/restic-deb/releases/tag/v0.18.1) *(2025-09-22; [12 releases total](https://github.com/cdzombak/restic-deb/releases) )* 
 <br />Automatic builds of Debian packages for the Restic backup program
-* **[ghfeed](https://github.com/cdzombak/ghfeed)**: [v1.4.2](https://github.com/cdzombak/ghfeed/releases/tag/v1.4.2) *(2025-09-19; [9 releases total](https://github.com/cdzombak/ghfeed/releases) )* 
-<br />GitHub activity feed consolidator
 * **[exitcode_py](https://github.com/cdzombak/exitcode_py)**: [v0.0.2](https://github.com/cdzombak/exitcode_py/releases/tag/v0.0.2) *(2025-09-19; [2 releases total](https://github.com/cdzombak/exitcode_py/releases) )* 
 <br />Codegenerated Python constants for libc, LSB, BSD, and systemd exit codes
 * **[exitcode_go](https://github.com/cdzombak/exitcode_go)**: [v0.0.2](https://github.com/cdzombak/exitcode_go/releases/tag/v0.0.2) *(2025-09-19; [2 releases total](https://github.com/cdzombak/exitcode_go/releases) )* 
