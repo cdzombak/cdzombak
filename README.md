@@ -3,7 +3,7 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
-[bt-env-mqtt v0.0.1](https://github.com/cdzombak/bt-env-mqtt/releases/tag/v0.0.1) *(2025-09-24)*
+[bt-env-mqtt v0.0.2](https://github.com/cdzombak/bt-env-mqtt/releases/tag/v0.0.2) *(2025-09-25)*
 
 [aclaude v1.0.2](https://github.com/cdzombak/aclaude/releases/tag/v1.0.2) *(2025-09-23)*
 
