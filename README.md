@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[eztag v0.0.2](https://github.com/cdzombak/eztag/releases/tag/v0.0.2) *(2025-09-26)*
+
 [dzsolarized-vscode Release v0.0.14](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.14) *(2025-09-25)*
 
 [ghfeed v1.4.3](https://github.com/cdzombak/ghfeed/releases/tag/v1.4.3) *(2025-09-25)*
@@ -16,8 +18,6 @@
 [mqtt2ntfy v0.0.1](https://github.com/cdzombak/mqtt2ntfy/releases/tag/v0.0.1) *(2025-09-22)*
 
 [git-ac v1.0.2](https://github.com/cdzombak/git-ac/releases/tag/v1.0.2) *(2025-09-22)*
-
-[restic-deb v0.18.1](https://github.com/cdzombak/restic-deb/releases/tag/v0.18.1) *(2025-09-22)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />
