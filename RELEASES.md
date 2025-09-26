@@ -1,9 +1,9 @@
 # Releases
 
-Listing <!-- releases_count starts -->407<!-- releases_count ends --> releases across <!-- project_count starts -->71<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->408<!-- releases_count ends --> releases across <!-- project_count starts -->71<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
-* **[eztag](https://github.com/cdzombak/eztag)**: [v0.0.2](https://github.com/cdzombak/eztag/releases/tag/v0.0.2) *(2025-09-26; [2 releases total](https://github.com/cdzombak/eztag/releases) )* 
+* **[eztag](https://github.com/cdzombak/eztag)**: [v0.0.3](https://github.com/cdzombak/eztag/releases/tag/v0.0.3) *(2025-09-26; [3 releases total](https://github.com/cdzombak/eztag/releases) )* 
 <br />Quickly & easily create tags in your GitHub repositories
 * **[dzsolarized-vscode](https://github.com/cdzombak/dzsolarized-vscode)**: [Release v0.0.14](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.14) *(2025-09-25; [13 releases total](https://github.com/cdzombak/dzsolarized-vscode/releases) )* 
 <br />Solarized variant for VS Code (light + dark modes supported)

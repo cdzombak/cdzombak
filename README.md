@@ -3,7 +3,7 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
-[eztag v0.0.2](https://github.com/cdzombak/eztag/releases/tag/v0.0.2) *(2025-09-26)*
+[eztag v0.0.3](https://github.com/cdzombak/eztag/releases/tag/v0.0.3) *(2025-09-26)*
 
 [dzsolarized-vscode Release v0.0.14](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.14) *(2025-09-25)*
 
