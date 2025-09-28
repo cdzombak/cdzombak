@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[git-ac v1.0.3](https://github.com/cdzombak/git-ac/releases/tag/v1.0.3) *(2025-09-28)*
+
 [eztag v0.0.3](https://github.com/cdzombak/eztag/releases/tag/v0.0.3) *(2025-09-26)*
 
 [dzsolarized-vscode Release v0.0.14](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.14) *(2025-09-25)*
@@ -16,8 +18,6 @@
 [metar-pkg metar v2025.09.22.3](https://github.com/cdzombak/metar-pkg/releases/tag/v2025.09.22.3) *(2025-09-22)*
 
 [mqtt2ntfy v0.0.1](https://github.com/cdzombak/mqtt2ntfy/releases/tag/v0.0.1) *(2025-09-22)*
-
-[git-ac v1.0.2](https://github.com/cdzombak/git-ac/releases/tag/v1.0.2) *(2025-09-22)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />

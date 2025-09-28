@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->408<!-- releases_count ends --> releases across <!-- project_count starts -->71<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->409<!-- releases_count ends --> releases across <!-- project_count starts -->71<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[git-ac](https://github.com/cdzombak/git-ac)**: [v1.0.3](https://github.com/cdzombak/git-ac/releases/tag/v1.0.3) *(2025-09-28; [5 releases total](https://github.com/cdzombak/git-ac/releases) )* 
+<br />Git autocommit: commit staged changes with LLM-written commit messages
 * **[eztag](https://github.com/cdzombak/eztag)**: [v0.0.3](https://github.com/cdzombak/eztag/releases/tag/v0.0.3) *(2025-09-26; [3 releases total](https://github.com/cdzombak/eztag/releases) )* 
 <br />Quickly & easily create tags in your GitHub repositories
 * **[dzsolarized-vscode](https://github.com/cdzombak/dzsolarized-vscode)**: [Release v0.0.14](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.14) *(2025-09-25; [13 releases total](https://github.com/cdzombak/dzsolarized-vscode/releases) )* 
@@ -17,8 +19,6 @@ Listing <!-- releases_count starts -->408<!-- releases_count ends --> releases a
 <br />A portable command line interface for fetching METARs
 * **[mqtt2ntfy](https://github.com/cdzombak/mqtt2ntfy)**: [v0.0.1](https://github.com/cdzombak/mqtt2ntfy/releases/tag/v0.0.1) *(2025-09-22; )* 
 <br />mqtt to Ntfy bridge
-* **[git-ac](https://github.com/cdzombak/git-ac)**: [v1.0.2](https://github.com/cdzombak/git-ac/releases/tag/v1.0.2) *(2025-09-22; [4 releases total](https://github.com/cdzombak/git-ac/releases) )* 
-<br />Git autocommit: commit staged changes with LLM-written commit messages
 * **[restic-deb](https://github.com/cdzombak/restic-deb)**: [v0.18.1](https://github.com/cdzombak/restic-deb/releases/tag/v0.18.1) *(2025-09-22; [12 releases total](https://github.com/cdzombak/restic-deb/releases) )* 
 <br />Automatic builds of Debian packages for the Restic backup program
 * **[exitcode_py](https://github.com/cdzombak/exitcode_py)**: [v0.0.2](https://github.com/cdzombak/exitcode_py/releases/tag/v0.0.2) *(2025-09-19; [2 releases total](https://github.com/cdzombak/exitcode_py/releases) )* 
