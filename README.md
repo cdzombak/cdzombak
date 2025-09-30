@@ -3,7 +3,7 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
-[trailcamai v0.0.2](https://github.com/cdzombak/trailcamai/releases/tag/v0.0.2) *(2025-09-30)*
+[trailcamai v1.0.0](https://github.com/cdzombak/trailcamai/releases/tag/v1.0.0) *(2025-09-30)*
 
 [lychee-ai-organizer v1.1.0](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.1.0) *(2025-09-30)*
 
