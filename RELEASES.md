@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->414<!-- releases_count ends --> releases across <!-- project_count starts -->72<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->415<!-- releases_count ends --> releases across <!-- project_count starts -->73<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[image-analyzer-go](https://github.com/cdzombak/image-analyzer-go)**: [v0.0.1](https://github.com/cdzombak/image-analyzer-go/releases/tag/v0.0.1) *(2025-09-30; )* 
+<br />Photo/image analysis functions for Golang
 * **[trailcamai](https://github.com/cdzombak/trailcamai)**: [v1.0.0](https://github.com/cdzombak/trailcamai/releases/tag/v1.0.0) *(2025-09-30; [2 releases total](https://github.com/cdzombak/trailcamai/releases) )* 
 <br />AI-powered trail camera image and video organizer
 * **[lychee-ai-organizer](https://github.com/cdzombak/lychee-ai-organizer)**: [v1.1.0](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.1.0) *(2025-09-30; [5 releases total](https://github.com/cdzombak/lychee-ai-organizer/releases) )* 

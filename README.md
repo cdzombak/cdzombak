@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[image-analyzer-go v0.0.1](https://github.com/cdzombak/image-analyzer-go/releases/tag/v0.0.1) *(2025-09-30)*
+
 [trailcamai v1.0.0](https://github.com/cdzombak/trailcamai/releases/tag/v1.0.0) *(2025-09-30)*
 
 [lychee-ai-organizer v1.1.0](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.1.0) *(2025-09-30)*
@@ -16,8 +18,6 @@
 [eztag v0.0.3](https://github.com/cdzombak/eztag/releases/tag/v0.0.3) *(2025-09-26)*
 
 [dzsolarized-vscode Release v0.0.14](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.14) *(2025-09-25)*
-
-[ghfeed v1.4.3](https://github.com/cdzombak/ghfeed/releases/tag/v1.4.3) *(2025-09-25)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />
