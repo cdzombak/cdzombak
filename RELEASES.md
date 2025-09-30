@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->412<!-- releases_count ends --> releases across <!-- project_count starts -->71<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->413<!-- releases_count ends --> releases across <!-- project_count starts -->72<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[trailcamai](https://github.com/cdzombak/trailcamai)**: [v0.0.2](https://github.com/cdzombak/trailcamai/releases/tag/v0.0.2) *(2025-09-30; )* 
+<br />AI-powered trail camera image and video organizer
 * **[lychee-ai-organizer](https://github.com/cdzombak/lychee-ai-organizer)**: [v1.1.0](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.1.0) *(2025-09-30; [5 releases total](https://github.com/cdzombak/lychee-ai-organizer/releases) )* 
 <br />Use local LLMs to organize your unsorted photos in Lychee
 * **[lychee-meta-tool](https://github.com/cdzombak/lychee-meta-tool)**: [v1.1.0](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.1.0) *(2025-09-30; [5 releases total](https://github.com/cdzombak/lychee-meta-tool/releases) )* 
