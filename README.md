@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[driveway-monitor v1.4.1](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.4.1) *(2025-09-30)*
+
 [image-analyzer-go v0.0.1](https://github.com/cdzombak/image-analyzer-go/releases/tag/v0.0.1) *(2025-09-30)*
 
 [trailcamai v1.0.0](https://github.com/cdzombak/trailcamai/releases/tag/v1.0.0) *(2025-09-30)*
@@ -10,8 +12,6 @@
 [lychee-ai-organizer v1.1.0](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.1.0) *(2025-09-30)*
 
 [lychee-meta-tool v1.1.0](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.1.0) *(2025-09-30)*
-
-[driveway-monitor v1.4.0](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.4.0) *(2025-09-30)*
 
 [git-ac v1.0.3](https://github.com/cdzombak/git-ac/releases/tag/v1.0.3) *(2025-09-28)*
 

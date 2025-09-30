@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->415<!-- releases_count ends --> releases across <!-- project_count starts -->73<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->416<!-- releases_count ends --> releases across <!-- project_count starts -->73<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[driveway-monitor](https://github.com/cdzombak/driveway-monitor)**: [v1.4.1](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.4.1) *(2025-09-30; [22 releases total](https://github.com/cdzombak/driveway-monitor/releases) )* 
+<br />Receive customizable, AI-powered notifications when someone arrives in your driveway.
 * **[image-analyzer-go](https://github.com/cdzombak/image-analyzer-go)**: [v0.0.1](https://github.com/cdzombak/image-analyzer-go/releases/tag/v0.0.1) *(2025-09-30; )* 
 <br />Photo/image analysis functions for Golang
 * **[trailcamai](https://github.com/cdzombak/trailcamai)**: [v1.0.0](https://github.com/cdzombak/trailcamai/releases/tag/v1.0.0) *(2025-09-30; [2 releases total](https://github.com/cdzombak/trailcamai/releases) )* 
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->415<!-- releases_count ends --> releases a
 <br />Use local LLMs to organize your unsorted photos in Lychee
 * **[lychee-meta-tool](https://github.com/cdzombak/lychee-meta-tool)**: [v1.1.0](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.1.0) *(2025-09-30; [5 releases total](https://github.com/cdzombak/lychee-meta-tool/releases) )* 
 <br />Quickly find & edit untitled photos in your Lychee photo library
-* **[driveway-monitor](https://github.com/cdzombak/driveway-monitor)**: [v1.4.0](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.4.0) *(2025-09-30; [21 releases total](https://github.com/cdzombak/driveway-monitor/releases) )* 
-<br />Receive customizable, AI-powered notifications when someone arrives in your driveway.
 * **[git-ac](https://github.com/cdzombak/git-ac)**: [v1.0.3](https://github.com/cdzombak/git-ac/releases/tag/v1.0.3) *(2025-09-28; [5 releases total](https://github.com/cdzombak/git-ac/releases) )* 
 <br />Git autocommit: commit staged changes with LLM-written commit messages
 * **[eztag](https://github.com/cdzombak/eztag)**: [v0.0.3](https://github.com/cdzombak/eztag/releases/tag/v0.0.3) *(2025-09-26; [3 releases total](https://github.com/cdzombak/eztag/releases) )* 
