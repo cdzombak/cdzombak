@@ -27,6 +27,8 @@
 ### Recently Blogged
 
 <!-- blog starts -->
+[Teaser for upcoming Claude Code posts](https://www.dzombak.com/blog/2025/09/teaser-for-upcoming-claude-code-posts/) *(30 Sep 2025)*
+
 [Getting Good Results from Claude Code](https://www.dzombak.com/blog/2025/08/getting-good-results-from-claude-code/) *(08 Aug 2025)*
 
 [Navigating and Rewriting Legacy Systems](https://www.dzombak.com/blog/2025/08/navigating-and-rewriting-legacy-systems/) *(07 Aug 2025)*
@@ -36,8 +38,6 @@
 [Quick Devops Tool: gha-secrets-setup](https://www.dzombak.com/blog/2025/08/quick-devops-tool-gha-secrets-setup/) *(06 Aug 2025)*
 
 [How I share Bird Buddy photos online](https://www.dzombak.com/blog/2025/08/how-i-share-bird-buddy-photos-online/) *(05 Aug 2025)*
-
-[A Lychee photo library tool for titling photos](https://www.dzombak.com/blog/2025/08/a-lychee-photo-library-tool-for-titling-photos/) *(04 Aug 2025)*
 <!-- blog ends -->
 🌐 **More on [dzombak.com](https://www.dzombak.com/blog)**
 <br />
