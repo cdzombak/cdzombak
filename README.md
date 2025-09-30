@@ -3,6 +3,10 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[lychee-meta-tool v1.1.0](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.1.0) *(2025-09-30)*
+
+[driveway-monitor v1.4.0](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.4.0) *(2025-09-30)*
+
 [git-ac v1.0.3](https://github.com/cdzombak/git-ac/releases/tag/v1.0.3) *(2025-09-28)*
 
 [eztag v0.0.3](https://github.com/cdzombak/eztag/releases/tag/v0.0.3) *(2025-09-26)*
@@ -14,10 +18,6 @@
 [bt-env-mqtt v0.0.2](https://github.com/cdzombak/bt-env-mqtt/releases/tag/v0.0.2) *(2025-09-25)*
 
 [aclaude v1.0.2](https://github.com/cdzombak/aclaude/releases/tag/v1.0.2) *(2025-09-23)*
-
-[metar-pkg metar v2025.09.22.3](https://github.com/cdzombak/metar-pkg/releases/tag/v2025.09.22.3) *(2025-09-22)*
-
-[mqtt2ntfy v0.0.1](https://github.com/cdzombak/mqtt2ntfy/releases/tag/v0.0.1) *(2025-09-22)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />

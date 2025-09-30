@@ -1,8 +1,12 @@
 # Releases
 
-Listing <!-- releases_count starts -->409<!-- releases_count ends --> releases across <!-- project_count starts -->71<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->411<!-- releases_count ends --> releases across <!-- project_count starts -->71<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[lychee-meta-tool](https://github.com/cdzombak/lychee-meta-tool)**: [v1.1.0](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.1.0) *(2025-09-30; [5 releases total](https://github.com/cdzombak/lychee-meta-tool/releases) )* 
+<br />Quickly find & edit untitled photos in your Lychee photo library
+* **[driveway-monitor](https://github.com/cdzombak/driveway-monitor)**: [v1.4.0](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.4.0) *(2025-09-30; [21 releases total](https://github.com/cdzombak/driveway-monitor/releases) )* 
+<br />Receive customizable, AI-powered notifications when someone arrives in your driveway.
 * **[git-ac](https://github.com/cdzombak/git-ac)**: [v1.0.3](https://github.com/cdzombak/git-ac/releases/tag/v1.0.3) *(2025-09-28; [5 releases total](https://github.com/cdzombak/git-ac/releases) )* 
 <br />Git autocommit: commit staged changes with LLM-written commit messages
 * **[eztag](https://github.com/cdzombak/eztag)**: [v0.0.3](https://github.com/cdzombak/eztag/releases/tag/v0.0.3) *(2025-09-26; [3 releases total](https://github.com/cdzombak/eztag/releases) )* 
@@ -37,8 +41,6 @@ Listing <!-- releases_count starts -->409<!-- releases_count ends --> releases a
 <br />Avoid stress: Automatically archive old unread entries in Feedbin.
 * **[wdproc](https://github.com/cdzombak/wdproc)**: [v1.0.0](https://github.com/cdzombak/wdproc/releases/tag/v1.0.0) *(2025-09-08; [2 releases total](https://github.com/cdzombak/wdproc/releases) )* 
 <br />Add files synced from WriterDeck to Day One or Things
-* **[lychee-meta-tool](https://github.com/cdzombak/lychee-meta-tool)**: [v1.0.2](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.0.2) *(2025-09-08; [4 releases total](https://github.com/cdzombak/lychee-meta-tool/releases) )* 
-<br />Quickly find & edit untitled photos in your Lychee photo library
 * **[lychee-ai-organizer](https://github.com/cdzombak/lychee-ai-organizer)**: [v1.0.2](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.0.2) *(2025-08-31; [4 releases total](https://github.com/cdzombak/lychee-ai-organizer/releases) )* 
 <br />Use local LLMs to organize your unsorted photos in Lychee
 * **[nut_influx_connector](https://github.com/cdzombak/nut_influx_connector)**: [v1.2.1](https://github.com/cdzombak/nut_influx_connector/releases/tag/v1.2.1) *(2025-08-24; [9 releases total](https://github.com/cdzombak/nut_influx_connector/releases) )* 
@@ -51,8 +53,6 @@ Listing <!-- releases_count starts -->409<!-- releases_count ends --> releases a
 <br />HTML/XML aware reverse proxy
 * **[flickr-rss](https://github.com/cdzombak/flickr-rss)**: [v1.0.4](https://github.com/cdzombak/flickr-rss/releases/tag/v1.0.4) *(2025-08-06; [9 releases total](https://github.com/cdzombak/flickr-rss/releases) )* 
 <br />Generate an RSS feed of a Flickr photostream or your Friends & Family feed
-* **[driveway-monitor](https://github.com/cdzombak/driveway-monitor)**: [v1.3.2](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.3.2) *(2025-08-04; [20 releases total](https://github.com/cdzombak/driveway-monitor/releases) )* 
-<br />Receive customizable, AI-powered notifications when someone arrives in your driveway.
 * **[lychee-birb-title](https://github.com/cdzombak/lychee-birb-title)**: [v1.0.0](https://github.com/cdzombak/lychee-birb-title/releases/tag/v1.0.0) *(2025-08-04; )* 
 <br />Set titles for Bird Buddy photos in your Lychee photo library
 * **[washmon](https://github.com/cdzombak/washmon)**: [v1.0.0](https://github.com/cdzombak/washmon/releases/tag/v1.0.0) *(2025-07-28; [4 releases total](https://github.com/cdzombak/washmon/releases) )* 
