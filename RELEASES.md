@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->411<!-- releases_count ends --> releases across <!-- project_count starts -->71<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->412<!-- releases_count ends --> releases across <!-- project_count starts -->71<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[lychee-ai-organizer](https://github.com/cdzombak/lychee-ai-organizer)**: [v1.1.0](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.1.0) *(2025-09-30; [5 releases total](https://github.com/cdzombak/lychee-ai-organizer/releases) )* 
+<br />Use local LLMs to organize your unsorted photos in Lychee
 * **[lychee-meta-tool](https://github.com/cdzombak/lychee-meta-tool)**: [v1.1.0](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.1.0) *(2025-09-30; [5 releases total](https://github.com/cdzombak/lychee-meta-tool/releases) )* 
 <br />Quickly find & edit untitled photos in your Lychee photo library
 * **[driveway-monitor](https://github.com/cdzombak/driveway-monitor)**: [v1.4.0](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.4.0) *(2025-09-30; [21 releases total](https://github.com/cdzombak/driveway-monitor/releases) )* 
@@ -41,8 +43,6 @@ Listing <!-- releases_count starts -->411<!-- releases_count ends --> releases a
 <br />Avoid stress: Automatically archive old unread entries in Feedbin.
 * **[wdproc](https://github.com/cdzombak/wdproc)**: [v1.0.0](https://github.com/cdzombak/wdproc/releases/tag/v1.0.0) *(2025-09-08; [2 releases total](https://github.com/cdzombak/wdproc/releases) )* 
 <br />Add files synced from WriterDeck to Day One or Things
-* **[lychee-ai-organizer](https://github.com/cdzombak/lychee-ai-organizer)**: [v1.0.2](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.0.2) *(2025-08-31; [4 releases total](https://github.com/cdzombak/lychee-ai-organizer/releases) )* 
-<br />Use local LLMs to organize your unsorted photos in Lychee
 * **[nut_influx_connector](https://github.com/cdzombak/nut_influx_connector)**: [v1.2.1](https://github.com/cdzombak/nut_influx_connector/releases/tag/v1.2.1) *(2025-08-24; [9 releases total](https://github.com/cdzombak/nut_influx_connector/releases) )* 
 <br />Ship energy usage data & UPS stats from Network-UPS-Tools to InfluxDB/MQTT
 * **[feedfilter](https://github.com/cdzombak/feedfilter)**: [v1.1.0](https://github.com/cdzombak/feedfilter/releases/tag/v1.1.0) *(2025-08-21; [3 releases total](https://github.com/cdzombak/feedfilter/releases) )* 
