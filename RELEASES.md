@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->416<!-- releases_count ends --> releases across <!-- project_count starts -->73<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->417<!-- releases_count ends --> releases across <!-- project_count starts -->74<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[lychee-bw-tagger](https://github.com/cdzombak/lychee-bw-tagger)**: [v0.0.1](https://github.com/cdzombak/lychee-bw-tagger/releases/tag/v0.0.1) *(2025-10-01; )* 
+<br />Tag the black & white photos in your Lychee photo library
 * **[driveway-monitor](https://github.com/cdzombak/driveway-monitor)**: [v1.4.1](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.4.1) *(2025-09-30; [22 releases total](https://github.com/cdzombak/driveway-monitor/releases) )* 
 <br />Receive customizable, AI-powered notifications when someone arrives in your driveway.
 * **[image-analyzer-go](https://github.com/cdzombak/image-analyzer-go)**: [v0.0.1](https://github.com/cdzombak/image-analyzer-go/releases/tag/v0.0.1) *(2025-09-30; )* 

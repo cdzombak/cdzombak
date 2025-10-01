@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[lychee-bw-tagger v0.0.1](https://github.com/cdzombak/lychee-bw-tagger/releases/tag/v0.0.1) *(2025-10-01)*
+
 [driveway-monitor v1.4.1](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.4.1) *(2025-09-30)*
 
 [image-analyzer-go v0.0.1](https://github.com/cdzombak/image-analyzer-go/releases/tag/v0.0.1) *(2025-09-30)*
@@ -16,8 +18,6 @@
 [git-ac v1.0.3](https://github.com/cdzombak/git-ac/releases/tag/v1.0.3) *(2025-09-28)*
 
 [eztag v0.0.3](https://github.com/cdzombak/eztag/releases/tag/v0.0.3) *(2025-09-26)*
-
-[dzsolarized-vscode Release v0.0.14](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.14) *(2025-09-25)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />
