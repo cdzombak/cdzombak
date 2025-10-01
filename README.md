@@ -27,6 +27,8 @@
 ### Recently Blogged
 
 <!-- blog starts -->
+[Give your LLM Coding Tools Their Own Tools](https://www.dzombak.com/blog/2025/10/give-your-llm-coding-tools-their-own-tools/) *(01 Oct 2025)*
+
 [Teaser for upcoming Claude Code posts](https://www.dzombak.com/blog/2025/09/teaser-for-upcoming-claude-code-posts/) *(30 Sep 2025)*
 
 [Getting Good Results from Claude Code](https://www.dzombak.com/blog/2025/08/getting-good-results-from-claude-code/) *(08 Aug 2025)*
@@ -36,8 +38,6 @@
 [An improved nginx_ensite script](https://www.dzombak.com/blog/2025/08/an-improved-nginx_ensite-script/) *(06 Aug 2025)*
 
 [Quick Devops Tool: gha-secrets-setup](https://www.dzombak.com/blog/2025/08/quick-devops-tool-gha-secrets-setup/) *(06 Aug 2025)*
-
-[How I share Bird Buddy photos online](https://www.dzombak.com/blog/2025/08/how-i-share-bird-buddy-photos-online/) *(05 Aug 2025)*
 <!-- blog ends -->
 🌐 **More on [dzombak.com](https://www.dzombak.com/blog)**
 <br />
