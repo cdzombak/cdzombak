@@ -27,6 +27,8 @@
 ### Recently Blogged
 
 <!-- blog starts -->
+[Ask Claude Code to fix CI](https://www.dzombak.com/blog/2025/10/ask-claude-code-to-fix-ci/) *(01 Oct 2025)*
+
 [Give your LLM Coding Tools Their Own Tools](https://www.dzombak.com/blog/2025/10/give-your-llm-coding-tools-their-own-tools/) *(01 Oct 2025)*
 
 [Teaser for upcoming Claude Code posts](https://www.dzombak.com/blog/2025/09/teaser-for-upcoming-claude-code-posts/) *(30 Sep 2025)*
@@ -36,8 +38,6 @@
 [Navigating and Rewriting Legacy Systems](https://www.dzombak.com/blog/2025/08/navigating-and-rewriting-legacy-systems/) *(07 Aug 2025)*
 
 [An improved nginx_ensite script](https://www.dzombak.com/blog/2025/08/an-improved-nginx_ensite-script/) *(06 Aug 2025)*
-
-[Quick Devops Tool: gha-secrets-setup](https://www.dzombak.com/blog/2025/08/quick-devops-tool-gha-secrets-setup/) *(06 Aug 2025)*
 <!-- blog ends -->
 🌐 **More on [dzombak.com](https://www.dzombak.com/blog)**
 <br />
