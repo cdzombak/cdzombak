@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->417<!-- releases_count ends --> releases across <!-- project_count starts -->74<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->418<!-- releases_count ends --> releases across <!-- project_count starts -->74<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[dzsolarized-vscode](https://github.com/cdzombak/dzsolarized-vscode)**: [Release v0.0.15](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.15) *(2025-10-01; [14 releases total](https://github.com/cdzombak/dzsolarized-vscode/releases) )* 
+<br />Solarized variant for VS Code (light + dark modes supported)
 * **[lychee-bw-tagger](https://github.com/cdzombak/lychee-bw-tagger)**: [v0.0.1](https://github.com/cdzombak/lychee-bw-tagger/releases/tag/v0.0.1) *(2025-10-01; )* 
 <br />Tag the black & white photos in your Lychee photo library
 * **[driveway-monitor](https://github.com/cdzombak/driveway-monitor)**: [v1.4.1](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.4.1) *(2025-09-30; [22 releases total](https://github.com/cdzombak/driveway-monitor/releases) )* 
@@ -19,8 +21,6 @@ Listing <!-- releases_count starts -->417<!-- releases_count ends --> releases a
 <br />Git autocommit: commit staged changes with LLM-written commit messages
 * **[eztag](https://github.com/cdzombak/eztag)**: [v0.0.3](https://github.com/cdzombak/eztag/releases/tag/v0.0.3) *(2025-09-26; [3 releases total](https://github.com/cdzombak/eztag/releases) )* 
 <br />Quickly & easily create tags in your GitHub repositories
-* **[dzsolarized-vscode](https://github.com/cdzombak/dzsolarized-vscode)**: [Release v0.0.14](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.14) *(2025-09-25; [13 releases total](https://github.com/cdzombak/dzsolarized-vscode/releases) )* 
-<br />Solarized variant for VS Code (light + dark modes supported)
 * **[ghfeed](https://github.com/cdzombak/ghfeed)**: [v1.4.3](https://github.com/cdzombak/ghfeed/releases/tag/v1.4.3) *(2025-09-25; [10 releases total](https://github.com/cdzombak/ghfeed/releases) )* 
 <br />GitHub activity feed consolidator
 * **[bt-env-mqtt](https://github.com/cdzombak/bt-env-mqtt)**: [v0.0.2](https://github.com/cdzombak/bt-env-mqtt/releases/tag/v0.0.2) *(2025-09-25; [2 releases total](https://github.com/cdzombak/bt-env-mqtt/releases) )* 
