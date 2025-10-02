@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[pdate v1.1.1](https://github.com/cdzombak/pdate/releases/tag/v1.1.1) *(2025-10-02)*
+
 [dzsolarized-vscode Release v0.0.15](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.15) *(2025-10-01)*
 
 [lychee-bw-tagger v0.0.1](https://github.com/cdzombak/lychee-bw-tagger/releases/tag/v0.0.1) *(2025-10-01)*
@@ -16,8 +18,6 @@
 [lychee-ai-organizer v1.1.0](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.1.0) *(2025-09-30)*
 
 [lychee-meta-tool v1.1.0](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.1.0) *(2025-09-30)*
-
-[git-ac v1.0.3](https://github.com/cdzombak/git-ac/releases/tag/v1.0.3) *(2025-09-28)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />

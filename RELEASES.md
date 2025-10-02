@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->418<!-- releases_count ends --> releases across <!-- project_count starts -->74<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->419<!-- releases_count ends --> releases across <!-- project_count starts -->74<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[pdate](https://github.com/cdzombak/pdate)**: [v1.1.1](https://github.com/cdzombak/pdate/releases/tag/v1.1.1) *(2025-10-02; [5 releases total](https://github.com/cdzombak/pdate/releases) )* 
+<br />Date/time parsing on the CLI
 * **[dzsolarized-vscode](https://github.com/cdzombak/dzsolarized-vscode)**: [Release v0.0.15](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.15) *(2025-10-01; [14 releases total](https://github.com/cdzombak/dzsolarized-vscode/releases) )* 
 <br />Solarized variant for VS Code (light + dark modes supported)
 * **[lychee-bw-tagger](https://github.com/cdzombak/lychee-bw-tagger)**: [v0.0.1](https://github.com/cdzombak/lychee-bw-tagger/releases/tag/v0.0.1) *(2025-10-01; )* 
@@ -105,8 +107,6 @@ Listing <!-- releases_count starts -->418<!-- releases_count ends --> releases a
 <br />Ship basic UPS stats from macOS to InfluxDB
 * **[netdata-sidekiq-chart](https://github.com/cdzombak/netdata-sidekiq-chart)**: [v0.0.1](https://github.com/cdzombak/netdata-sidekiq-chart/releases/tag/v0.0.1) *(2024-06-07; [2 releases total](https://github.com/cdzombak/netdata-sidekiq-chart/releases) )* 
 <br />Displays some basic Sidekiq metrics in Netdata
-* **[pdate](https://github.com/cdzombak/pdate)**: [v1.1.0](https://github.com/cdzombak/pdate/releases/tag/v1.1.0) *(2024-06-06; [4 releases total](https://github.com/cdzombak/pdate/releases) )* 
-<br />Date/time parsing on the CLI
 * **[samba-docker](https://github.com/cdzombak/samba-docker)**: [v4.18.10](https://github.com/cdzombak/samba-docker/releases/tag/v4.18.10) *(2024-05-31; )* 
 <br />Up-to-date Samba Docker image optimized for NAS file sharing with full macOS Spotlight support.
 * **[lofiapp](https://github.com/cdzombak/lofiapp)**: [v1.1.8](https://github.com/cdzombak/lofiapp/releases/tag/v1.1.8) *(2024-04-11; [9 releases total](https://github.com/cdzombak/lofiapp/releases) )* 
