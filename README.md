@@ -27,6 +27,8 @@
 ### Recently Blogged
 
 <!-- blog starts -->
+[LLM Q&A Technique: Context Priming](https://www.dzombak.com/blog/2025/10/llm-q-a-technique-context-priming/) *(02 Oct 2025)*
+
 [Ask Claude Code to fix CI](https://www.dzombak.com/blog/2025/10/ask-claude-code-to-fix-ci/) *(01 Oct 2025)*
 
 [Give your LLM Coding Tools Their Own Tools](https://www.dzombak.com/blog/2025/10/give-your-llm-coding-tools-their-own-tools/) *(01 Oct 2025)*
@@ -36,8 +38,6 @@
 [Getting Good Results from Claude Code](https://www.dzombak.com/blog/2025/08/getting-good-results-from-claude-code/) *(08 Aug 2025)*
 
 [Navigating and Rewriting Legacy Systems](https://www.dzombak.com/blog/2025/08/navigating-and-rewriting-legacy-systems/) *(07 Aug 2025)*
-
-[An improved nginx_ensite script](https://www.dzombak.com/blog/2025/08/an-improved-nginx_ensite-script/) *(06 Aug 2025)*
 <!-- blog ends -->
 🌐 **More on [dzombak.com](https://www.dzombak.com/blog)**
 <br />
