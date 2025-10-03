@@ -27,6 +27,8 @@
 ### Recently Blogged
 
 <!-- blog starts -->
+[LLM + MCP Use Case: GitHub Actions Workflow Updates](https://www.dzombak.com/blog/2025/10/llm-mcp-use-case-github-actions-workflow-updates/) *(03 Oct 2025)*
+
 [Celebrating 250(+) Public GitHub Repositories](https://www.dzombak.com/blog/2025/10/celebrating-250-public-github-repositories/) *(02 Oct 2025)*
 
 [LLM Q&A Technique: Context Priming](https://www.dzombak.com/blog/2025/10/llm-q-a-technique-context-priming/) *(02 Oct 2025)*
@@ -36,8 +38,6 @@
 [Give your LLM Coding Tools Their Own Tools](https://www.dzombak.com/blog/2025/10/give-your-llm-coding-tools-their-own-tools/) *(01 Oct 2025)*
 
 [Teaser for upcoming Claude Code posts](https://www.dzombak.com/blog/2025/09/teaser-for-upcoming-claude-code-posts/) *(30 Sep 2025)*
-
-[Getting Good Results from Claude Code](https://www.dzombak.com/blog/2025/08/getting-good-results-from-claude-code/) *(08 Aug 2025)*
 <!-- blog ends -->
 🌐 **More on [dzombak.com](https://www.dzombak.com/blog)**
 <br />
