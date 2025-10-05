@@ -27,6 +27,8 @@
 ### Recently Blogged
 
 <!-- blog starts -->
+[New Derivative of my Ubiquiti Cloud Key 3.5" HDD Adapter](https://www.dzombak.com/blog/2025/10/new-derivative-of-my-ubiquiti-cloud-key-3-5-hdd-adapter/) *(05 Oct 2025)*
+
 [LLM + MCP Use Case: GitHub Actions Workflow Updates](https://www.dzombak.com/blog/2025/10/llm-mcp-use-case-github-actions-workflow-updates/) *(03 Oct 2025)*
 
 [Celebrating 250(+) Public GitHub Repositories](https://www.dzombak.com/blog/2025/10/celebrating-250-public-github-repositories/) *(02 Oct 2025)*
@@ -36,8 +38,6 @@
 [Ask Claude Code to fix CI](https://www.dzombak.com/blog/2025/10/ask-claude-code-to-fix-ci/) *(01 Oct 2025)*
 
 [Give your LLM Coding Tools Their Own Tools](https://www.dzombak.com/blog/2025/10/give-your-llm-coding-tools-their-own-tools/) *(01 Oct 2025)*
-
-[Teaser for upcoming Claude Code posts](https://www.dzombak.com/blog/2025/09/teaser-for-upcoming-claude-code-posts/) *(30 Sep 2025)*
 <!-- blog ends -->
 🌐 **More on [dzombak.com](https://www.dzombak.com/blog)**
 <br />
