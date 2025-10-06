@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->418<!-- releases_count ends --> releases across <!-- project_count starts -->74<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->423<!-- releases_count ends --> releases across <!-- project_count starts -->75<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[pi-fm-player](https://github.com/cdzombak/pi-fm-player)**: [v1.1.1](https://github.com/cdzombak/pi-fm-player/releases/tag/v1.1.1) *(2025-10-06; [5 releases total](https://github.com/cdzombak/pi-fm-player/releases) )* 
+<br />Raspberry Pi FM transmitter that plays music forever from the local filesystem.
 * **[pdate](https://github.com/cdzombak/pdate)**: [v1.1.1](https://github.com/cdzombak/pdate/releases/tag/v1.1.1) *(2025-10-02; [5 releases total](https://github.com/cdzombak/pdate/releases) )* 
 <br />Date/time parsing on the CLI
 * **[dzsolarized-vscode](https://github.com/cdzombak/dzsolarized-vscode)**: [Release v0.0.15](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.15) *(2025-10-01; [14 releases total](https://github.com/cdzombak/dzsolarized-vscode/releases) )* 
