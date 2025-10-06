@@ -1,6 +1,6 @@
 # Releases
 
-Listing <!-- releases_count starts -->419<!-- releases_count ends --> releases across <!-- project_count starts -->74<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->418<!-- releases_count ends --> releases across <!-- project_count starts -->74<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
 * **[pdate](https://github.com/cdzombak/pdate)**: [v1.1.1](https://github.com/cdzombak/pdate/releases/tag/v1.1.1) *(2025-10-02; [5 releases total](https://github.com/cdzombak/pdate/releases) )* 
@@ -63,7 +63,7 @@ Listing <!-- releases_count starts -->419<!-- releases_count ends --> releases a
 <br />Generate an RSS feed of a Flickr photostream or your Friends & Family feed
 * **[lychee-birb-title](https://github.com/cdzombak/lychee-birb-title)**: [v1.0.0](https://github.com/cdzombak/lychee-birb-title/releases/tag/v1.0.0) *(2025-08-04; )* 
 <br />Set titles for Bird Buddy photos in your Lychee photo library
-* **[washmon](https://github.com/cdzombak/washmon)**: [v1.0.0](https://github.com/cdzombak/washmon/releases/tag/v1.0.0) *(2025-07-28; [4 releases total](https://github.com/cdzombak/washmon/releases) )* 
+* **[washmon](https://github.com/cdzombak/washmon)**: [v1.0.0](https://github.com/cdzombak/washmon/releases/tag/v1.0.0) *(2025-07-28; [3 releases total](https://github.com/cdzombak/washmon/releases) )* 
 <br />washmon figures out when your laundry is done and reminds you periodically until you affirm that you've emptied the machine
 * **[macos-screenlock-mqtt](https://github.com/cdzombak/macos-screenlock-mqtt)**: [v1.0.0](https://github.com/cdzombak/macos-screenlock-mqtt/releases/tag/v1.0.0) *(2025-07-28; )* 
 <br />Report macOS screen lock status to an MQTT broker
