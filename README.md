@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[samba-docker v4.23.1](https://github.com/cdzombak/samba-docker/releases/tag/v4.23.1) *(2025-10-09)*
+
 [pi-fm-player v1.1.1](https://github.com/cdzombak/pi-fm-player/releases/tag/v1.1.1) *(2025-10-06)*
 
 [pdate v1.1.1](https://github.com/cdzombak/pdate/releases/tag/v1.1.1) *(2025-10-02)*
@@ -16,8 +18,6 @@
 [image-analyzer-go v0.0.1](https://github.com/cdzombak/image-analyzer-go/releases/tag/v0.0.1) *(2025-09-30)*
 
 [trailcamai v1.0.0](https://github.com/cdzombak/trailcamai/releases/tag/v1.0.0) *(2025-09-30)*
-
-[lychee-ai-organizer v1.1.0](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.1.0) *(2025-09-30)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />

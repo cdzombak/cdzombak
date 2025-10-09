@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->423<!-- releases_count ends --> releases across <!-- project_count starts -->75<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->424<!-- releases_count ends --> releases across <!-- project_count starts -->75<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[samba-docker](https://github.com/cdzombak/samba-docker)**: [v4.23.1](https://github.com/cdzombak/samba-docker/releases/tag/v4.23.1) *(2025-10-09; [2 releases total](https://github.com/cdzombak/samba-docker/releases) )* 
+<br />Up-to-date Samba Docker image optimized for NAS file sharing with full macOS Spotlight support.
 * **[pi-fm-player](https://github.com/cdzombak/pi-fm-player)**: [v1.1.1](https://github.com/cdzombak/pi-fm-player/releases/tag/v1.1.1) *(2025-10-06; [5 releases total](https://github.com/cdzombak/pi-fm-player/releases) )* 
 <br />Raspberry Pi FM transmitter that plays music forever from the local filesystem.
 * **[pdate](https://github.com/cdzombak/pdate)**: [v1.1.1](https://github.com/cdzombak/pdate/releases/tag/v1.1.1) *(2025-10-02; [5 releases total](https://github.com/cdzombak/pdate/releases) )* 
@@ -109,8 +111,6 @@ Listing <!-- releases_count starts -->423<!-- releases_count ends --> releases a
 <br />Ship basic UPS stats from macOS to InfluxDB
 * **[netdata-sidekiq-chart](https://github.com/cdzombak/netdata-sidekiq-chart)**: [v0.0.1](https://github.com/cdzombak/netdata-sidekiq-chart/releases/tag/v0.0.1) *(2024-06-07; [2 releases total](https://github.com/cdzombak/netdata-sidekiq-chart/releases) )* 
 <br />Displays some basic Sidekiq metrics in Netdata
-* **[samba-docker](https://github.com/cdzombak/samba-docker)**: [v4.18.10](https://github.com/cdzombak/samba-docker/releases/tag/v4.18.10) *(2024-05-31; )* 
-<br />Up-to-date Samba Docker image optimized for NAS file sharing with full macOS Spotlight support.
 * **[lofiapp](https://github.com/cdzombak/lofiapp)**: [v1.1.8](https://github.com/cdzombak/lofiapp/releases/tag/v1.1.8) *(2024-04-11; [9 releases total](https://github.com/cdzombak/lofiapp/releases) )* 
 <br />electron wrapper for lofi.cafe and other lofi/focus music I like
 * **[periodic-docker-pull](https://github.com/cdzombak/periodic-docker-pull)**: [v1.1.0](https://github.com/cdzombak/periodic-docker-pull/releases/tag/v1.1.0) *(2023-12-28; [9 releases total](https://github.com/cdzombak/periodic-docker-pull/releases) )* 
