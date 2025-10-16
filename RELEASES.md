@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->424<!-- releases_count ends --> releases across <!-- project_count starts -->75<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->425<!-- releases_count ends --> releases across <!-- project_count starts -->75<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[git-ac](https://github.com/cdzombak/git-ac)**: [v1.0.4](https://github.com/cdzombak/git-ac/releases/tag/v1.0.4) *(2025-10-16; [6 releases total](https://github.com/cdzombak/git-ac/releases) )* 
+<br />Git autocommit: commit staged changes with LLM-written commit messages
 * **[samba-docker](https://github.com/cdzombak/samba-docker)**: [v4.23.1](https://github.com/cdzombak/samba-docker/releases/tag/v4.23.1) *(2025-10-09; [2 releases total](https://github.com/cdzombak/samba-docker/releases) )* 
 <br />Up-to-date Samba Docker image optimized for NAS file sharing with full macOS Spotlight support.
 * **[pi-fm-player](https://github.com/cdzombak/pi-fm-player)**: [v1.1.1](https://github.com/cdzombak/pi-fm-player/releases/tag/v1.1.1) *(2025-10-06; [5 releases total](https://github.com/cdzombak/pi-fm-player/releases) )* 
@@ -23,8 +25,6 @@ Listing <!-- releases_count starts -->424<!-- releases_count ends --> releases a
 <br />Use local LLMs to organize your unsorted photos in Lychee
 * **[lychee-meta-tool](https://github.com/cdzombak/lychee-meta-tool)**: [v1.1.0](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.1.0) *(2025-09-30; [5 releases total](https://github.com/cdzombak/lychee-meta-tool/releases) )* 
 <br />Quickly find & edit untitled photos in your Lychee photo library
-* **[git-ac](https://github.com/cdzombak/git-ac)**: [v1.0.3](https://github.com/cdzombak/git-ac/releases/tag/v1.0.3) *(2025-09-28; [5 releases total](https://github.com/cdzombak/git-ac/releases) )* 
-<br />Git autocommit: commit staged changes with LLM-written commit messages
 * **[eztag](https://github.com/cdzombak/eztag)**: [v0.0.3](https://github.com/cdzombak/eztag/releases/tag/v0.0.3) *(2025-09-26; [3 releases total](https://github.com/cdzombak/eztag/releases) )* 
 <br />Quickly & easily create tags in your GitHub repositories
 * **[ghfeed](https://github.com/cdzombak/ghfeed)**: [v1.4.3](https://github.com/cdzombak/ghfeed/releases/tag/v1.4.3) *(2025-09-25; [10 releases total](https://github.com/cdzombak/ghfeed/releases) )* 
