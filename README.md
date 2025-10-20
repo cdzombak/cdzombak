@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[dzsolarized-vscode Release v0.0.16](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.16) *(2025-10-20)*
+
 [git-ac v1.0.4](https://github.com/cdzombak/git-ac/releases/tag/v1.0.4) *(2025-10-16)*
 
 [samba-docker v4.23.1](https://github.com/cdzombak/samba-docker/releases/tag/v4.23.1) *(2025-10-09)*
@@ -10,8 +12,6 @@
 [pi-fm-player v1.1.1](https://github.com/cdzombak/pi-fm-player/releases/tag/v1.1.1) *(2025-10-06)*
 
 [pdate v1.1.1](https://github.com/cdzombak/pdate/releases/tag/v1.1.1) *(2025-10-02)*
-
-[dzsolarized-vscode Release v0.0.15](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.15) *(2025-10-01)*
 
 [lychee-bw-tagger v0.0.1](https://github.com/cdzombak/lychee-bw-tagger/releases/tag/v0.0.1) *(2025-10-01)*
 

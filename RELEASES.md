@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->425<!-- releases_count ends --> releases across <!-- project_count starts -->75<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->426<!-- releases_count ends --> releases across <!-- project_count starts -->75<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[dzsolarized-vscode](https://github.com/cdzombak/dzsolarized-vscode)**: [Release v0.0.16](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.16) *(2025-10-20; [15 releases total](https://github.com/cdzombak/dzsolarized-vscode/releases) )* 
+<br />Solarized variant for VS Code (light + dark modes supported)
 * **[git-ac](https://github.com/cdzombak/git-ac)**: [v1.0.4](https://github.com/cdzombak/git-ac/releases/tag/v1.0.4) *(2025-10-16; [6 releases total](https://github.com/cdzombak/git-ac/releases) )* 
 <br />Git autocommit: commit staged changes with LLM-written commit messages
 * **[samba-docker](https://github.com/cdzombak/samba-docker)**: [v4.23.1](https://github.com/cdzombak/samba-docker/releases/tag/v4.23.1) *(2025-10-09; [2 releases total](https://github.com/cdzombak/samba-docker/releases) )* 
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->425<!-- releases_count ends --> releases a
 <br />Raspberry Pi FM transmitter that plays music forever from the local filesystem.
 * **[pdate](https://github.com/cdzombak/pdate)**: [v1.1.1](https://github.com/cdzombak/pdate/releases/tag/v1.1.1) *(2025-10-02; [5 releases total](https://github.com/cdzombak/pdate/releases) )* 
 <br />Date/time parsing on the CLI
-* **[dzsolarized-vscode](https://github.com/cdzombak/dzsolarized-vscode)**: [Release v0.0.15](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.15) *(2025-10-01; [14 releases total](https://github.com/cdzombak/dzsolarized-vscode/releases) )* 
-<br />Solarized variant for VS Code (light + dark modes supported)
 * **[lychee-bw-tagger](https://github.com/cdzombak/lychee-bw-tagger)**: [v0.0.1](https://github.com/cdzombak/lychee-bw-tagger/releases/tag/v0.0.1) *(2025-10-01; )* 
 <br />Tag the black & white photos in your Lychee photo library
 * **[driveway-monitor](https://github.com/cdzombak/driveway-monitor)**: [v1.4.1](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.4.1) *(2025-09-30; [22 releases total](https://github.com/cdzombak/driveway-monitor/releases) )* 
