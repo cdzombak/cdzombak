@@ -1,9 +1,11 @@
 # Releases
 
-Listing <!-- releases_count starts -->426<!-- releases_count ends --> releases across <!-- project_count starts -->75<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->433<!-- releases_count ends --> releases across <!-- project_count starts -->76<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
-* **[dzsolarized-vscode](https://github.com/cdzombak/dzsolarized-vscode)**: [Release v0.0.16](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.16) *(2025-10-20; [15 releases total](https://github.com/cdzombak/dzsolarized-vscode/releases) )* 
+* **[shop-sonos-noise-control](https://github.com/cdzombak/shop-sonos-noise-control)**: [v1.1.3](https://github.com/cdzombak/shop-sonos-noise-control/releases/tag/v1.1.3) *(2025-10-22; [6 releases total](https://github.com/cdzombak/shop-sonos-noise-control/releases) )* 
+<br />pause Sonos during loud noises, and resume playing afterward
+* **[dzsolarized-vscode](https://github.com/cdzombak/dzsolarized-vscode)**: [Release v0.0.17](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.17) *(2025-10-22; [16 releases total](https://github.com/cdzombak/dzsolarized-vscode/releases) )* 
 <br />Solarized variant for VS Code (light + dark modes supported)
 * **[git-ac](https://github.com/cdzombak/git-ac)**: [v1.0.4](https://github.com/cdzombak/git-ac/releases/tag/v1.0.4) *(2025-10-16; [6 releases total](https://github.com/cdzombak/git-ac/releases) )* 
 <br />Git autocommit: commit staged changes with LLM-written commit messages

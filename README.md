@@ -3,7 +3,9 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
-[dzsolarized-vscode Release v0.0.16](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.16) *(2025-10-20)*
+[shop-sonos-noise-control v1.1.3](https://github.com/cdzombak/shop-sonos-noise-control/releases/tag/v1.1.3) *(2025-10-22)*
+
+[dzsolarized-vscode Release v0.0.17](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.17) *(2025-10-22)*
 
 [git-ac v1.0.4](https://github.com/cdzombak/git-ac/releases/tag/v1.0.4) *(2025-10-16)*
 
@@ -16,8 +18,6 @@
 [lychee-bw-tagger v0.0.1](https://github.com/cdzombak/lychee-bw-tagger/releases/tag/v0.0.1) *(2025-10-01)*
 
 [driveway-monitor v1.4.1](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.4.1) *(2025-09-30)*
-
-[image-analyzer-go v0.0.1](https://github.com/cdzombak/image-analyzer-go/releases/tag/v0.0.1) *(2025-09-30)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />
