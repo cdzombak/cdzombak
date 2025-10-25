@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->433<!-- releases_count ends --> releases across <!-- project_count starts -->76<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->434<!-- releases_count ends --> releases across <!-- project_count starts -->77<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[gmail-uptimekuma-alert-cleaner](https://github.com/cdzombak/gmail-uptimekuma-alert-cleaner)**: [v1.0.0](https://github.com/cdzombak/gmail-uptimekuma-alert-cleaner/releases/tag/v1.0.0) *(2025-10-25; )* 
+<br />Automatically cleanup resolved Uptime Kuma alert pairs from my Gmail inbox
 * **[shop-sonos-noise-control](https://github.com/cdzombak/shop-sonos-noise-control)**: [v1.1.3](https://github.com/cdzombak/shop-sonos-noise-control/releases/tag/v1.1.3) *(2025-10-22; [6 releases total](https://github.com/cdzombak/shop-sonos-noise-control/releases) )* 
 <br />pause Sonos during loud noises, and resume playing afterward
 * **[dzsolarized-vscode](https://github.com/cdzombak/dzsolarized-vscode)**: [Release v0.0.17](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.17) *(2025-10-22; [16 releases total](https://github.com/cdzombak/dzsolarized-vscode/releases) )* 
