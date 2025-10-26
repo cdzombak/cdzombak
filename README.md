@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[humidity-reminder v1.0.0](https://github.com/cdzombak/humidity-reminder/releases/tag/v1.0.0) *(2025-10-26)*
+
 [gmail-uptimekuma-alert-cleaner v1.0.0](https://github.com/cdzombak/gmail-uptimekuma-alert-cleaner/releases/tag/v1.0.0) *(2025-10-25)*
 
 [shop-sonos-noise-control v1.1.3](https://github.com/cdzombak/shop-sonos-noise-control/releases/tag/v1.1.3) *(2025-10-22)*
@@ -16,8 +18,6 @@
 [pi-fm-player v1.1.1](https://github.com/cdzombak/pi-fm-player/releases/tag/v1.1.1) *(2025-10-06)*
 
 [pdate v1.1.1](https://github.com/cdzombak/pdate/releases/tag/v1.1.1) *(2025-10-02)*
-
-[lychee-bw-tagger v0.0.1](https://github.com/cdzombak/lychee-bw-tagger/releases/tag/v0.0.1) *(2025-10-01)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />
