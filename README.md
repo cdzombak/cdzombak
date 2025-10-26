@@ -3,7 +3,7 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
-[humidity-reminder v1.0.0](https://github.com/cdzombak/humidity-reminder/releases/tag/v1.0.0) *(2025-10-26)*
+[humidity-reminder v1.0.1](https://github.com/cdzombak/humidity-reminder/releases/tag/v1.0.1) *(2025-10-26)*
 
 [gmail-uptimekuma-alert-cleaner v1.0.0](https://github.com/cdzombak/gmail-uptimekuma-alert-cleaner/releases/tag/v1.0.0) *(2025-10-25)*
 
