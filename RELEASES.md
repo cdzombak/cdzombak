@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->441<!-- releases_count ends --> releases across <!-- project_count starts -->79<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->442<!-- releases_count ends --> releases across <!-- project_count starts -->80<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[gha-secrets-setup](https://github.com/cdzombak/gha-secrets-setup)**: [v0.0.1](https://github.com/cdzombak/gha-secrets-setup/releases/tag/v0.0.1) *(2025-10-27; )* 
+<br />Interactive setup for GitHub Actions secrets
 * **[newt](https://github.com/cdzombak/newt)**: [v0.0.5](https://github.com/cdzombak/newt/releases/tag/v0.0.5) *(2025-10-27; [5 releases total](https://github.com/cdzombak/newt/releases) )* 
 <br />Git worktree manager
 * **[humidity-reminder](https://github.com/cdzombak/humidity-reminder)**: [v1.0.1](https://github.com/cdzombak/humidity-reminder/releases/tag/v1.0.1) *(2025-10-26; [2 releases total](https://github.com/cdzombak/humidity-reminder/releases) )* 
