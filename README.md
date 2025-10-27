@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[newt v0.0.1](https://github.com/cdzombak/newt/releases/tag/v0.0.1) *(2025-10-27)*
+
 [humidity-reminder v1.0.1](https://github.com/cdzombak/humidity-reminder/releases/tag/v1.0.1) *(2025-10-26)*
 
 [gmail-uptimekuma-alert-cleaner v1.0.0](https://github.com/cdzombak/gmail-uptimekuma-alert-cleaner/releases/tag/v1.0.0) *(2025-10-25)*
@@ -16,8 +18,6 @@
 [samba-docker v4.23.1](https://github.com/cdzombak/samba-docker/releases/tag/v4.23.1) *(2025-10-09)*
 
 [pi-fm-player v1.1.1](https://github.com/cdzombak/pi-fm-player/releases/tag/v1.1.1) *(2025-10-06)*
-
-[pdate v1.1.1](https://github.com/cdzombak/pdate/releases/tag/v1.1.1) *(2025-10-02)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />

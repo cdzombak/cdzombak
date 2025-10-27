@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->436<!-- releases_count ends --> releases across <!-- project_count starts -->78<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->437<!-- releases_count ends --> releases across <!-- project_count starts -->79<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[newt](https://github.com/cdzombak/newt)**: [v0.0.1](https://github.com/cdzombak/newt/releases/tag/v0.0.1) *(2025-10-27; )* 
+<br />Git worktree manager
 * **[humidity-reminder](https://github.com/cdzombak/humidity-reminder)**: [v1.0.1](https://github.com/cdzombak/humidity-reminder/releases/tag/v1.0.1) *(2025-10-26; [2 releases total](https://github.com/cdzombak/humidity-reminder/releases) )* 
 <br />Get email reminders when the ideal indoor humidity changes.
 * **[gmail-uptimekuma-alert-cleaner](https://github.com/cdzombak/gmail-uptimekuma-alert-cleaner)**: [v1.0.0](https://github.com/cdzombak/gmail-uptimekuma-alert-cleaner/releases/tag/v1.0.0) *(2025-10-25; )* 
