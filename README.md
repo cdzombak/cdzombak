@@ -27,6 +27,8 @@
 ### Recently Blogged
 
 <!-- blog starts -->
+[A Tool for Working with Git Worktrees](https://www.dzombak.com/blog/2025/10/a-tool-for-working-with-git-worktrees/) *(27 Oct 2025)*
+
 [Setting Up & Testing Spotlight + Samba + Elasticsearch](https://www.dzombak.com/blog/2025/10/setting-up-testing-spotlight-samba-elasticsearch/) *(09 Oct 2025)*
 
 [Getting Good Results from Claude Code: Writing Good Prompts](https://www.dzombak.com/blog/2025/10/getting-good-results-from-claude-code-writing-good-prompts/) *(09 Oct 2025)*
@@ -36,8 +38,6 @@
 [LLM + MCP Use Case: GitHub Actions Workflow Updates](https://www.dzombak.com/blog/2025/10/llm-mcp-use-case-github-actions-workflow-updates/) *(03 Oct 2025)*
 
 [Celebrating 250(+) Public GitHub Repositories](https://www.dzombak.com/blog/2025/10/celebrating-250-public-github-repositories/) *(02 Oct 2025)*
-
-[LLM Q&A Technique: Context Priming](https://www.dzombak.com/blog/2025/10/llm-q-a-technique-context-priming/) *(02 Oct 2025)*
 <!-- blog ends -->
 🌐 **More on [dzombak.com](https://www.dzombak.com/blog)**
 <br />
