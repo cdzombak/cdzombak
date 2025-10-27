@@ -3,7 +3,7 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
-[newt v0.0.2](https://github.com/cdzombak/newt/releases/tag/v0.0.2) *(2025-10-27)*
+[newt v0.0.5](https://github.com/cdzombak/newt/releases/tag/v0.0.5) *(2025-10-27)*
 
 [humidity-reminder v1.0.1](https://github.com/cdzombak/humidity-reminder/releases/tag/v1.0.1) *(2025-10-26)*
 
