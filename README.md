@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[runner v2.9.3](https://github.com/cdzombak/runner/releases/tag/v2.9.3) *(2025-10-29)*
+
 [gha-secrets-setup v0.0.1](https://github.com/cdzombak/gha-secrets-setup/releases/tag/v0.0.1) *(2025-10-27)*
 
 [newt v0.0.5](https://github.com/cdzombak/newt/releases/tag/v0.0.5) *(2025-10-27)*
@@ -16,8 +18,6 @@
 [dzsolarized-vscode Release v0.0.17](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.17) *(2025-10-22)*
 
 [git-ac v1.0.4](https://github.com/cdzombak/git-ac/releases/tag/v1.0.4) *(2025-10-16)*
-
-[samba-docker v4.23.1](https://github.com/cdzombak/samba-docker/releases/tag/v4.23.1) *(2025-10-09)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />

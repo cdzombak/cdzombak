@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->442<!-- releases_count ends --> releases across <!-- project_count starts -->80<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->443<!-- releases_count ends --> releases across <!-- project_count starts -->80<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[runner](https://github.com/cdzombak/runner)**: [v2.9.3](https://github.com/cdzombak/runner/releases/tag/v2.9.3) *(2025-10-29; [33 releases total](https://github.com/cdzombak/runner/releases) )* 
+<br />Lightweight wrapper for better cron jobs and containers
 * **[gha-secrets-setup](https://github.com/cdzombak/gha-secrets-setup)**: [v0.0.1](https://github.com/cdzombak/gha-secrets-setup/releases/tag/v0.0.1) *(2025-10-27; )* 
 <br />Interactive setup for GitHub Actions secrets
 * **[newt](https://github.com/cdzombak/newt)**: [v0.0.5](https://github.com/cdzombak/newt/releases/tag/v0.0.5) *(2025-10-27; [5 releases total](https://github.com/cdzombak/newt/releases) )* 
@@ -93,8 +95,6 @@ Listing <!-- releases_count starts -->442<!-- releases_count ends --> releases a
 <br />Generate a static HTML gallery from a directory tree of images
 * **[a2-foia-rss](https://github.com/cdzombak/a2-foia-rss)**: [v1.0.2](https://github.com/cdzombak/a2-foia-rss/releases/tag/v1.0.2) *(2025-02-17; [3 releases total](https://github.com/cdzombak/a2-foia-rss/releases) )* 
 <br />Feed generator for Ann Arbor's online FOIA database
-* **[runner](https://github.com/cdzombak/runner)**: [v2.10.0](https://github.com/cdzombak/runner/releases/tag/v2.10.0) *(2025-01-31; [32 releases total](https://github.com/cdzombak/runner/releases) )* 
-<br />Lightweight wrapper for better cron jobs and containers
 * **[dns-do-to-namecom](https://github.com/cdzombak/dns-do-to-namecom)**: [v1.0.0: Initial release](https://github.com/cdzombak/dns-do-to-namecom/releases/tag/v1.0.0) *(2025-01-23; )* 
 <br />Copy DNS records from DigitalOcean to Name.com
 * **[dns-do-to-porkbun](https://github.com/cdzombak/dns-do-to-porkbun)**: [v1.0.0: Initial Release](https://github.com/cdzombak/dns-do-to-porkbun/releases/tag/v1.0.0) *(2025-01-21; )* 
