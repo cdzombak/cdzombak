@@ -27,6 +27,8 @@
 ### Recently Blogged
 
 <!-- blog starts -->
+[#latergram: Wild Birds at the Detroit Zoo, April 2024](https://www.dzombak.com/blog/2025/10/latergram-wild-birds-at-the-detroit-zoo-april-2024/) *(29 Oct 2025)*
+
 [#latergram: Bird Photos from Kensington Metropark, July 2025](https://www.dzombak.com/blog/2025/10/latergram-bird-photos-from-kensington-metropark-july-2025/) *(28 Oct 2025)*
 
 [A Tool for Working with Git Worktrees](https://www.dzombak.com/blog/2025/10/a-tool-for-working-with-git-worktrees/) *(27 Oct 2025)*
@@ -36,8 +38,6 @@
 [Getting Good Results from Claude Code: Writing Good Prompts](https://www.dzombak.com/blog/2025/10/getting-good-results-from-claude-code-writing-good-prompts/) *(09 Oct 2025)*
 
 [New Derivative of my Ubiquiti Cloud Key 3.5" HDD Adapter](https://www.dzombak.com/blog/2025/10/new-derivative-of-my-ubiquiti-cloud-key-3-5-hdd-adapter/) *(05 Oct 2025)*
-
-[LLM + MCP Use Case: GitHub Actions Workflow Updates](https://www.dzombak.com/blog/2025/10/llm-mcp-use-case-github-actions-workflow-updates/) *(03 Oct 2025)*
 <!-- blog ends -->
 🌐 **More on [dzombak.com](https://www.dzombak.com/blog)**
 <br />
