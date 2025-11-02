@@ -1,9 +1,9 @@
 # Releases
 
-Listing <!-- releases_count starts -->443<!-- releases_count ends --> releases across <!-- project_count starts -->80<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->444<!-- releases_count ends --> releases across <!-- project_count starts -->80<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
-* **[runner](https://github.com/cdzombak/runner)**: [v2.9.3](https://github.com/cdzombak/runner/releases/tag/v2.9.3) *(2025-10-29; [33 releases total](https://github.com/cdzombak/runner/releases) )* 
+* **[runner](https://github.com/cdzombak/runner)**: [v2.11.0](https://github.com/cdzombak/runner/releases/tag/v2.11.0) *(2025-11-02; [34 releases total](https://github.com/cdzombak/runner/releases) )* 
 <br />Lightweight wrapper for better cron jobs and containers
 * **[gha-secrets-setup](https://github.com/cdzombak/gha-secrets-setup)**: [v0.0.1](https://github.com/cdzombak/gha-secrets-setup/releases/tag/v0.0.1) *(2025-10-27; )* 
 <br />Interactive setup for GitHub Actions secrets
