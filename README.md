@@ -3,6 +3,10 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[lychee-ai-organizer v1.1.1](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.1.1) *(2025-11-04)*
+
+[lychee-meta-tool v1.1.1](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.1.1) *(2025-11-04)*
+
 [runner v2.11.2](https://github.com/cdzombak/runner/releases/tag/v2.11.2) *(2025-11-03)*
 
 [gha-secrets-setup v0.0.1](https://github.com/cdzombak/gha-secrets-setup/releases/tag/v0.0.1) *(2025-10-27)*
@@ -14,10 +18,6 @@
 [gmail-uptimekuma-alert-cleaner v1.0.0](https://github.com/cdzombak/gmail-uptimekuma-alert-cleaner/releases/tag/v1.0.0) *(2025-10-25)*
 
 [shop-sonos-noise-control v1.1.3](https://github.com/cdzombak/shop-sonos-noise-control/releases/tag/v1.1.3) *(2025-10-22)*
-
-[dzsolarized-vscode Release v0.0.17](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.17) *(2025-10-22)*
-
-[git-ac v1.0.4](https://github.com/cdzombak/git-ac/releases/tag/v1.0.4) *(2025-10-16)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />
