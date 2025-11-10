@@ -3,11 +3,11 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[runner v2.11.3](https://github.com/cdzombak/runner/releases/tag/v2.11.3) *(2025-11-10)*
+
 [lychee-ai-organizer v1.1.1](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.1.1) *(2025-11-04)*
 
 [lychee-meta-tool v1.1.1](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.1.1) *(2025-11-04)*
-
-[runner v2.11.2](https://github.com/cdzombak/runner/releases/tag/v2.11.2) *(2025-11-03)*
 
 [gha-secrets-setup v0.0.1](https://github.com/cdzombak/gha-secrets-setup/releases/tag/v0.0.1) *(2025-10-27)*
 

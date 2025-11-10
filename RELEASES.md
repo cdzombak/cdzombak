@@ -1,14 +1,14 @@
 # Releases
 
-Listing <!-- releases_count starts -->448<!-- releases_count ends --> releases across <!-- project_count starts -->80<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->449<!-- releases_count ends --> releases across <!-- project_count starts -->80<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[runner](https://github.com/cdzombak/runner)**: [v2.11.3](https://github.com/cdzombak/runner/releases/tag/v2.11.3) *(2025-11-10; [37 releases total](https://github.com/cdzombak/runner/releases) )* 
+<br />Lightweight wrapper for better cron jobs and containers
 * **[lychee-ai-organizer](https://github.com/cdzombak/lychee-ai-organizer)**: [v1.1.1](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.1.1) *(2025-11-04; [6 releases total](https://github.com/cdzombak/lychee-ai-organizer/releases) )* 
 <br />Use local LLMs to organize your unsorted photos in Lychee
 * **[lychee-meta-tool](https://github.com/cdzombak/lychee-meta-tool)**: [v1.1.1](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.1.1) *(2025-11-04; [6 releases total](https://github.com/cdzombak/lychee-meta-tool/releases) )* 
 <br />Quickly find & edit untitled photos in your Lychee photo library
-* **[runner](https://github.com/cdzombak/runner)**: [v2.11.2](https://github.com/cdzombak/runner/releases/tag/v2.11.2) *(2025-11-03; [36 releases total](https://github.com/cdzombak/runner/releases) )* 
-<br />Lightweight wrapper for better cron jobs and containers
 * **[gha-secrets-setup](https://github.com/cdzombak/gha-secrets-setup)**: [v0.0.1](https://github.com/cdzombak/gha-secrets-setup/releases/tag/v0.0.1) *(2025-10-27; )* 
 <br />Interactive setup for GitHub Actions secrets
 * **[newt](https://github.com/cdzombak/newt)**: [v0.0.5](https://github.com/cdzombak/newt/releases/tag/v0.0.5) *(2025-10-27; [5 releases total](https://github.com/cdzombak/newt/releases) )* 
