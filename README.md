@@ -27,6 +27,8 @@
 ### Recently Blogged
 
 <!-- blog starts -->
+[Not everything in your todo list needs to be a proper GTD Next Action](https://www.dzombak.com/blog/2025/11/not-everything-in-your-todo-list-needs-to-be-a-proper-gtd-next-action/) *(12 Nov 2025)*
+
 [pdate: Date/Time Parsing for Programmers, DevOps, and SRE](https://www.dzombak.com/blog/2025/11/pdate-date-time-parsing-cli/) *(10 Nov 2025)*
 
 [AlfredSwitchWindows now supports Ghostty tabs](https://www.dzombak.com/blog/2025/11/alfredswitchwindows-now-supports-ghostty-tabs/) *(08 Nov 2025)*
@@ -36,8 +38,6 @@
 [#latergram: Bird Photos from Kensington Metropark, July 2025](https://www.dzombak.com/blog/2025/10/latergram-bird-photos-from-kensington-metropark-july-2025/) *(28 Oct 2025)*
 
 [A Tool for Working with Git Worktrees](https://www.dzombak.com/blog/2025/10/a-tool-for-working-with-git-worktrees/) *(27 Oct 2025)*
-
-[Setting Up & Testing Spotlight + Samba + Elasticsearch](https://www.dzombak.com/blog/2025/10/setting-up-testing-spotlight-samba-elasticsearch/) *(09 Oct 2025)*
 <!-- blog ends -->
 🌐 **More on [dzombak.com](https://www.dzombak.com/blog)**
 <br />
