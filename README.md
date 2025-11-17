@@ -27,6 +27,8 @@
 ### Recently Blogged
 
 <!-- blog starts -->
+[pdate.dzdz.cz: A website for pdate](https://www.dzombak.com/blog/2025/11/pdate-dzdz-cz-aa-website-for-pdate/) *(17 Nov 2025)*
+
 [Not everything in your todo list needs to be a proper GTD Next Action](https://www.dzombak.com/blog/2025/11/not-everything-in-your-todo-list-needs-to-be-a-proper-gtd-next-action/) *(12 Nov 2025)*
 
 [pdate: Date/Time Parsing for Programmers, DevOps, and SRE](https://www.dzombak.com/blog/2025/11/pdate-date-time-parsing-cli/) *(10 Nov 2025)*
@@ -36,8 +38,6 @@
 [#latergram: Wild Birds at the Detroit Zoo, April 2024](https://www.dzombak.com/blog/2025/10/latergram-wild-birds-at-the-detroit-zoo-april-2024/) *(29 Oct 2025)*
 
 [#latergram: Bird Photos from Kensington Metropark, July 2025](https://www.dzombak.com/blog/2025/10/latergram-bird-photos-from-kensington-metropark-july-2025/) *(28 Oct 2025)*
-
-[A Tool for Working with Git Worktrees](https://www.dzombak.com/blog/2025/10/a-tool-for-working-with-git-worktrees/) *(27 Oct 2025)*
 <!-- blog ends -->
 🌐 **More on [dzombak.com](https://www.dzombak.com/blog)**
 <br />
