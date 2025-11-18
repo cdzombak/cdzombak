@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[trailcamai v1.1.0](https://github.com/cdzombak/trailcamai/releases/tag/v1.1.0) *(2025-11-17)*
+
 [runner v2.11.3](https://github.com/cdzombak/runner/releases/tag/v2.11.3) *(2025-11-10)*
 
 [lychee-ai-organizer v1.1.1](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.1.1) *(2025-11-04)*
@@ -16,8 +18,6 @@
 [humidity-reminder v1.0.1](https://github.com/cdzombak/humidity-reminder/releases/tag/v1.0.1) *(2025-10-26)*
 
 [gmail-uptimekuma-alert-cleaner v1.0.0](https://github.com/cdzombak/gmail-uptimekuma-alert-cleaner/releases/tag/v1.0.0) *(2025-10-25)*
-
-[shop-sonos-noise-control v1.1.3](https://github.com/cdzombak/shop-sonos-noise-control/releases/tag/v1.1.3) *(2025-10-22)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />
@@ -27,6 +27,8 @@
 ### Recently Blogged
 
 <!-- blog starts -->
+[Automatically sort trail camera images with trailcamai](https://www.dzombak.com/blog/2025/11/automatically-sort-trail-camera-images-with-trailcamai/) *(17 Nov 2025)*
+
 [pdate.dzdz.cz: A website for pdate](https://www.dzombak.com/blog/2025/11/pdate-dzdz-cz-aa-website-for-pdate/) *(17 Nov 2025)*
 
 [Not everything in your todo list needs to be a proper GTD Next Action](https://www.dzombak.com/blog/2025/11/not-everything-in-your-todo-list-needs-to-be-a-proper-gtd-next-action/) *(12 Nov 2025)*
@@ -36,8 +38,6 @@
 [AlfredSwitchWindows now supports Ghostty tabs](https://www.dzombak.com/blog/2025/11/alfredswitchwindows-now-supports-ghostty-tabs/) *(08 Nov 2025)*
 
 [#latergram: Wild Birds at the Detroit Zoo, April 2024](https://www.dzombak.com/blog/2025/10/latergram-wild-birds-at-the-detroit-zoo-april-2024/) *(29 Oct 2025)*
-
-[#latergram: Bird Photos from Kensington Metropark, July 2025](https://www.dzombak.com/blog/2025/10/latergram-bird-photos-from-kensington-metropark-july-2025/) *(28 Oct 2025)*
 <!-- blog ends -->
 🌐 **More on [dzombak.com](https://www.dzombak.com/blog)**
 <br />
