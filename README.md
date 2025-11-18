@@ -27,6 +27,8 @@
 ### Recently Blogged
 
 <!-- blog starts -->
+[Beavers in Dexter, MI](https://www.dzombak.com/blog/2025/11/beavers-in-dexter-mi/) *(18 Nov 2025)*
+
 [Automatically sort trail camera images with trailcamai](https://www.dzombak.com/blog/2025/11/automatically-sort-trail-camera-images-with-trailcamai/) *(17 Nov 2025)*
 
 [pdate.dzdz.cz: A website for pdate](https://www.dzombak.com/blog/2025/11/pdate-dzdz-cz-aa-website-for-pdate/) *(17 Nov 2025)*
@@ -36,8 +38,6 @@
 [pdate: Date/Time Parsing for Programmers, DevOps, and SRE](https://www.dzombak.com/blog/2025/11/pdate-date-time-parsing-cli/) *(10 Nov 2025)*
 
 [AlfredSwitchWindows now supports Ghostty tabs](https://www.dzombak.com/blog/2025/11/alfredswitchwindows-now-supports-ghostty-tabs/) *(08 Nov 2025)*
-
-[#latergram: Wild Birds at the Detroit Zoo, April 2024](https://www.dzombak.com/blog/2025/10/latergram-wild-birds-at-the-detroit-zoo-april-2024/) *(29 Oct 2025)*
 <!-- blog ends -->
 🌐 **More on [dzombak.com](https://www.dzombak.com/blog)**
 <br />
