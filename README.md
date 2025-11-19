@@ -27,6 +27,8 @@
 ### Recently Blogged
 
 <!-- blog starts -->
+[Using systemd to run a Docker container only when an SMB mount is mounted](https://www.dzombak.com/blog/2025/11/using-systemd-to-run-a-docker-container-only-when-an-smb-mount-is-mounted/) *(19 Nov 2025)*
+
 [Beavers in Dexter, MI](https://www.dzombak.com/blog/2025/11/beavers-in-dexter-mi/) *(18 Nov 2025)*
 
 [Automatically sort trail camera images with trailcamai](https://www.dzombak.com/blog/2025/11/automatically-sort-trail-camera-images-with-trailcamai/) *(17 Nov 2025)*
@@ -36,8 +38,6 @@
 [Not everything in your todo list needs to be a proper GTD Next Action](https://www.dzombak.com/blog/2025/11/not-everything-in-your-todo-list-needs-to-be-a-proper-gtd-next-action/) *(12 Nov 2025)*
 
 [pdate: Date/Time Parsing for Programmers, DevOps, and SRE](https://www.dzombak.com/blog/2025/11/pdate-date-time-parsing-cli/) *(10 Nov 2025)*
-
-[AlfredSwitchWindows now supports Ghostty tabs](https://www.dzombak.com/blog/2025/11/alfredswitchwindows-now-supports-ghostty-tabs/) *(08 Nov 2025)*
 <!-- blog ends -->
 🌐 **More on [dzombak.com](https://www.dzombak.com/blog)**
 <br />
