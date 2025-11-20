@@ -27,6 +27,8 @@
 ### Recently Blogged
 
 <!-- blog starts -->
+[Neat Image noise profiles for the Leica X1](https://www.dzombak.com/blog/2025/11/neat-image-noise-profiles-for-the-leica-x1/) *(20 Nov 2025)*
+
 [Beavers at work in West Lake Nature Preserve](https://www.dzombak.com/blog/2025/11/beavers-at-west-lake-nature-preserve/) *(20 Nov 2025)*
 
 [Using systemd to keep an SMB share mounted](https://www.dzombak.com/blog/2025/11/using-systemd-to-keep-an-smb-share-mounted/) *(19 Nov 2025)*
@@ -36,8 +38,6 @@
 [Beavers in Dexter, MI](https://www.dzombak.com/blog/2025/11/beavers-in-dexter-mi/) *(18 Nov 2025)*
 
 [Automatically sort trail camera images with trailcamai](https://www.dzombak.com/blog/2025/11/automatically-sort-trail-camera-images-with-trailcamai/) *(17 Nov 2025)*
-
-[pdate.dzdz.cz: A website for pdate](https://www.dzombak.com/blog/2025/11/pdate-dzdz-cz-aa-website-for-pdate/) *(17 Nov 2025)*
 <!-- blog ends -->
 🌐 **More on [dzombak.com](https://www.dzombak.com/blog)**
 <br />
