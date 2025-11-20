@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->450<!-- releases_count ends --> releases across <!-- project_count starts -->80<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->451<!-- releases_count ends --> releases across <!-- project_count starts -->80<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[lychee-bw-tagger](https://github.com/cdzombak/lychee-bw-tagger)**: [v1.0.0](https://github.com/cdzombak/lychee-bw-tagger/releases/tag/v1.0.0) *(2025-11-20; [2 releases total](https://github.com/cdzombak/lychee-bw-tagger/releases) )* 
+<br />Tag the black & white photos in your Lychee photo library
 * **[trailcamai](https://github.com/cdzombak/trailcamai)**: [v1.1.0](https://github.com/cdzombak/trailcamai/releases/tag/v1.1.0) *(2025-11-17; [3 releases total](https://github.com/cdzombak/trailcamai/releases) )* 
 <br />AI-powered trail camera image and video organizer
 * **[runner](https://github.com/cdzombak/runner)**: [v2.11.3](https://github.com/cdzombak/runner/releases/tag/v2.11.3) *(2025-11-10; [37 releases total](https://github.com/cdzombak/runner/releases) )* 
@@ -31,8 +33,6 @@ Listing <!-- releases_count starts -->450<!-- releases_count ends --> releases a
 <br />Raspberry Pi FM transmitter that plays music forever from the local filesystem.
 * **[pdate](https://github.com/cdzombak/pdate)**: [v1.1.1](https://github.com/cdzombak/pdate/releases/tag/v1.1.1) *(2025-10-02; [5 releases total](https://github.com/cdzombak/pdate/releases) )* 
 <br />Date/time parsing on the CLI
-* **[lychee-bw-tagger](https://github.com/cdzombak/lychee-bw-tagger)**: [v0.0.1](https://github.com/cdzombak/lychee-bw-tagger/releases/tag/v0.0.1) *(2025-10-01; )* 
-<br />Tag the black & white photos in your Lychee photo library
 * **[driveway-monitor](https://github.com/cdzombak/driveway-monitor)**: [v1.4.1](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.4.1) *(2025-09-30; [22 releases total](https://github.com/cdzombak/driveway-monitor/releases) )* 
 <br />Receive customizable, AI-powered notifications when someone arrives in your driveway.
 * **[image-analyzer-go](https://github.com/cdzombak/image-analyzer-go)**: [v0.0.1](https://github.com/cdzombak/image-analyzer-go/releases/tag/v0.0.1) *(2025-09-30; )* 

@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[lychee-bw-tagger v1.0.0](https://github.com/cdzombak/lychee-bw-tagger/releases/tag/v1.0.0) *(2025-11-20)*
+
 [trailcamai v1.1.0](https://github.com/cdzombak/trailcamai/releases/tag/v1.1.0) *(2025-11-17)*
 
 [runner v2.11.3](https://github.com/cdzombak/runner/releases/tag/v2.11.3) *(2025-11-10)*
@@ -16,8 +18,6 @@
 [newt v0.0.5](https://github.com/cdzombak/newt/releases/tag/v0.0.5) *(2025-10-27)*
 
 [humidity-reminder v1.0.1](https://github.com/cdzombak/humidity-reminder/releases/tag/v1.0.1) *(2025-10-26)*
-
-[gmail-uptimekuma-alert-cleaner v1.0.0](https://github.com/cdzombak/gmail-uptimekuma-alert-cleaner/releases/tag/v1.0.0) *(2025-10-25)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />
@@ -27,6 +27,8 @@
 ### Recently Blogged
 
 <!-- blog starts -->
+[Beavers at work in West Lake Nature Preserve](https://www.dzombak.com/blog/2025/11/beavers-at-west-lake-nature-preserve/) *(20 Nov 2025)*
+
 [Using systemd to keep an SMB share mounted](https://www.dzombak.com/blog/2025/11/using-systemd-to-keep-an-smb-share-mounted/) *(19 Nov 2025)*
 
 [Using systemd to run a Docker container only when an SMB mount is mounted](https://www.dzombak.com/blog/2025/11/using-systemd-to-run-a-docker-container-only-when-an-smb-mount-is-mounted/) *(19 Nov 2025)*
@@ -36,8 +38,6 @@
 [Automatically sort trail camera images with trailcamai](https://www.dzombak.com/blog/2025/11/automatically-sort-trail-camera-images-with-trailcamai/) *(17 Nov 2025)*
 
 [pdate.dzdz.cz: A website for pdate](https://www.dzombak.com/blog/2025/11/pdate-dzdz-cz-aa-website-for-pdate/) *(17 Nov 2025)*
-
-[Not everything in your todo list needs to be a proper GTD Next Action](https://www.dzombak.com/blog/2025/11/not-everything-in-your-todo-list-needs-to-be-a-proper-gtd-next-action/) *(12 Nov 2025)*
 <!-- blog ends -->
 🌐 **More on [dzombak.com](https://www.dzombak.com/blog)**
 <br />
