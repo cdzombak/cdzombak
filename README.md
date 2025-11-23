@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[ipcam-browser v0.0.1](https://github.com/cdzombak/ipcam-browser/releases/tag/v0.0.1) *(2025-11-23)*
+
 [lychee-bw-tagger v1.0.0](https://github.com/cdzombak/lychee-bw-tagger/releases/tag/v1.0.0) *(2025-11-20)*
 
 [trailcamai v1.1.0](https://github.com/cdzombak/trailcamai/releases/tag/v1.1.0) *(2025-11-17)*
@@ -16,8 +18,6 @@
 [gha-secrets-setup v0.0.1](https://github.com/cdzombak/gha-secrets-setup/releases/tag/v0.0.1) *(2025-10-27)*
 
 [newt v0.0.5](https://github.com/cdzombak/newt/releases/tag/v0.0.5) *(2025-10-27)*
-
-[humidity-reminder v1.0.1](https://github.com/cdzombak/humidity-reminder/releases/tag/v1.0.1) *(2025-10-26)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />
