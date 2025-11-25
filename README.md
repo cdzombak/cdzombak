@@ -27,6 +27,8 @@
 ### Recently Blogged
 
 <!-- blog starts -->
+[Linux server migration planning](https://www.dzombak.com/blog/2025/11/linux-server-migration-planning/) *(25 Nov 2025)*
+
 [Neat Image noise profiles for the Ricoh WG6](https://www.dzombak.com/blog/2025/11/neat-image-noise-profiles-for-the-ricoh-wg6/) *(21 Nov 2025)*
 
 [Neat Image noise profiles for the Leica X1](https://www.dzombak.com/blog/2025/11/neat-image-noise-profiles-for-the-leica-x1/) *(20 Nov 2025)*
@@ -36,8 +38,6 @@
 [Using systemd to keep an SMB share mounted](https://www.dzombak.com/blog/2025/11/using-systemd-to-keep-an-smb-share-mounted/) *(19 Nov 2025)*
 
 [Using systemd to run a Docker container only when an SMB mount is mounted](https://www.dzombak.com/blog/2025/11/using-systemd-to-run-a-docker-container-only-when-an-smb-mount-is-mounted/) *(19 Nov 2025)*
-
-[Beavers in Dexter, MI](https://www.dzombak.com/blog/2025/11/beavers-in-dexter-mi/) *(18 Nov 2025)*
 <!-- blog ends -->
 🌐 **More on [dzombak.com](https://www.dzombak.com/blog)**
 <br />
