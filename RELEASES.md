@@ -1,9 +1,9 @@
 # Releases
 
-Listing <!-- releases_count starts -->452<!-- releases_count ends --> releases across <!-- project_count starts -->81<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->453<!-- releases_count ends --> releases across <!-- project_count starts -->81<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
-* **[ipcam-browser](https://github.com/cdzombak/ipcam-browser)**: [v0.0.1](https://github.com/cdzombak/ipcam-browser/releases/tag/v0.0.1) *(2025-11-23; )* 
+* **[ipcam-browser](https://github.com/cdzombak/ipcam-browser)**: [v0.0.2](https://github.com/cdzombak/ipcam-browser/releases/tag/v0.0.2) *(2025-11-26; [2 releases total](https://github.com/cdzombak/ipcam-browser/releases) )* 
 <br />Improved media browser for SD card storage on SV3C/CamHiPro compatible IP webcams
 * **[lychee-bw-tagger](https://github.com/cdzombak/lychee-bw-tagger)**: [v1.0.0](https://github.com/cdzombak/lychee-bw-tagger/releases/tag/v1.0.0) *(2025-11-20; [2 releases total](https://github.com/cdzombak/lychee-bw-tagger/releases) )* 
 <br />Tag the black & white photos in your Lychee photo library
