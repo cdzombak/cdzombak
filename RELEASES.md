@@ -1,10 +1,12 @@
 # Releases
 
-Listing <!-- releases_count starts -->453<!-- releases_count ends --> releases across <!-- project_count starts -->81<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->473<!-- releases_count ends --> releases across <!-- project_count starts -->88<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
 * **[ipcam-browser](https://github.com/cdzombak/ipcam-browser)**: [v0.0.2](https://github.com/cdzombak/ipcam-browser/releases/tag/v0.0.2) *(2025-11-26; [2 releases total](https://github.com/cdzombak/ipcam-browser/releases) )* 
 <br />Improved media browser for SD card storage on SV3C/CamHiPro compatible IP webcams
+* **[AlfredSwitchWindows](https://github.com/cdzombak/AlfredSwitchWindows)**: [v0.6.0](https://github.com/cdzombak/AlfredSwitchWindows/releases/tag/v0.6.0) *(2025-11-26; [5 releases total](https://github.com/cdzombak/AlfredSwitchWindows/releases) )* 
+<br />Alfred (macOS) workflow to search for & switch to open windows or browser/iTerm tabs by title.
 * **[lychee-bw-tagger](https://github.com/cdzombak/lychee-bw-tagger)**: [v1.0.0](https://github.com/cdzombak/lychee-bw-tagger/releases/tag/v1.0.0) *(2025-11-20; [2 releases total](https://github.com/cdzombak/lychee-bw-tagger/releases) )* 
 <br />Tag the black & white photos in your Lychee photo library
 * **[trailcamai](https://github.com/cdzombak/trailcamai)**: [v1.1.0](https://github.com/cdzombak/trailcamai/releases/tag/v1.1.0) *(2025-11-17; [3 releases total](https://github.com/cdzombak/trailcamai/releases) )* 
@@ -77,6 +79,8 @@ Listing <!-- releases_count starts -->453<!-- releases_count ends --> releases a
 <br />A tool for collecting videos from YouTube & similar sites
 * **[xrp](https://github.com/cdzombak/xrp)**: [v0.0.1-beta.8](https://github.com/cdzombak/xrp/releases/tag/v0.0.1-beta.8) *(2025-08-09; [4 releases total](https://github.com/cdzombak/xrp/releases) )* 
 <br />HTML/XML aware reverse proxy
+* **[nginx_ensite](https://github.com/cdzombak/nginx_ensite)**: [v1.1.0](https://github.com/cdzombak/nginx_ensite/releases/tag/v1.1.0) *(2025-08-07; [2 releases total](https://github.com/cdzombak/nginx_ensite/releases) )* 
+<br />Quickly enable/disable nginx sites
 * **[flickr-rss](https://github.com/cdzombak/flickr-rss)**: [v1.0.4](https://github.com/cdzombak/flickr-rss/releases/tag/v1.0.4) *(2025-08-06; [9 releases total](https://github.com/cdzombak/flickr-rss/releases) )* 
 <br />Generate an RSS feed of a Flickr photostream or your Friends & Family feed
 * **[lychee-birb-title](https://github.com/cdzombak/lychee-birb-title)**: [v1.0.0](https://github.com/cdzombak/lychee-birb-title/releases/tag/v1.0.0) *(2025-08-04; )* 
@@ -95,6 +99,8 @@ Listing <!-- releases_count starts -->453<!-- releases_count ends --> releases a
 <br />Ship your Ecobee runtime, sensor and weather data to InfluxDB or MQTT.
 * **[gallerygen](https://github.com/cdzombak/gallerygen)**: [v1.0.5](https://github.com/cdzombak/gallerygen/releases/tag/v1.0.5) *(2025-05-29; [10 releases total](https://github.com/cdzombak/gallerygen/releases) )* 
 <br />Generate a static HTML gallery from a directory tree of images
+* **[NetSpeedMonitor](https://github.com/cdzombak/NetSpeedMonitor)**: [v1.0](https://github.com/cdzombak/NetSpeedMonitor/releases/tag/v1.0.0) *(2025-05-27; )* 
+<br />A minimal menu bar macOS app to monitor network speed
 * **[a2-foia-rss](https://github.com/cdzombak/a2-foia-rss)**: [v1.0.2](https://github.com/cdzombak/a2-foia-rss/releases/tag/v1.0.2) *(2025-02-17; [3 releases total](https://github.com/cdzombak/a2-foia-rss/releases) )* 
 <br />Feed generator for Ann Arbor's online FOIA database
 * **[dns-do-to-namecom](https://github.com/cdzombak/dns-do-to-namecom)**: [v1.0.0: Initial release](https://github.com/cdzombak/dns-do-to-namecom/releases/tag/v1.0.0) *(2025-01-23; )* 
@@ -123,6 +129,8 @@ Listing <!-- releases_count starts -->453<!-- releases_count ends --> releases a
 <br />Ship basic UPS stats from macOS to InfluxDB
 * **[netdata-sidekiq-chart](https://github.com/cdzombak/netdata-sidekiq-chart)**: [v0.0.1](https://github.com/cdzombak/netdata-sidekiq-chart/releases/tag/v0.0.1) *(2024-06-07; [2 releases total](https://github.com/cdzombak/netdata-sidekiq-chart/releases) )* 
 <br />Displays some basic Sidekiq metrics in Netdata
+* **[alfred-bear](https://github.com/cdzombak/alfred-bear)**: [v4.0.0](https://github.com/cdzombak/alfred-bear/releases/tag/v4.0.0) *(2024-04-30; [2 releases total](https://github.com/cdzombak/alfred-bear/releases) )* 
+<br />Search and open Bear notes using Alfred
 * **[lofiapp](https://github.com/cdzombak/lofiapp)**: [v1.1.8](https://github.com/cdzombak/lofiapp/releases/tag/v1.1.8) *(2024-04-11; [9 releases total](https://github.com/cdzombak/lofiapp/releases) )* 
 <br />electron wrapper for lofi.cafe and other lofi/focus music I like
 * **[periodic-docker-pull](https://github.com/cdzombak/periodic-docker-pull)**: [v1.1.0](https://github.com/cdzombak/periodic-docker-pull/releases/tag/v1.1.0) *(2023-12-28; [9 releases total](https://github.com/cdzombak/periodic-docker-pull/releases) )* 
@@ -145,6 +153,10 @@ Listing <!-- releases_count starts -->453<!-- releases_count ends --> releases a
 <br />Produce sharded path fragments from a filename
 * **[apply-crontab](https://github.com/cdzombak/apply-crontab)**: [v1.0.3](https://github.com/cdzombak/apply-crontab/releases/tag/v1.0.3) *(2023-10-25; [5 releases total](https://github.com/cdzombak/apply-crontab/releases) )* 
 <br />Better crontab management
+* **[docker-hub.alfredworkflow](https://github.com/cdzombak/docker-hub.alfredworkflow)**: [v1.1.0](https://github.com/cdzombak/docker-hub.alfredworkflow/releases/tag/v1.1.0) *(2023-10-17; [2 releases total](https://github.com/cdzombak/docker-hub.alfredworkflow/releases) )* 
+<br />Alfred workflow for searching Docker Hub
+* **[urlwatch-docker](https://github.com/cdzombak/urlwatch-docker)**: [v2.0.0](https://github.com/cdzombak/urlwatch-docker/releases/tag/v2.0.0) *(2023-10-16; )* 
+<br />Run urlwatch in a Docker container or as a Docker compose service
 * **[instapaper-auto-archiver](https://github.com/cdzombak/instapaper-auto-archiver)**: [v1.0.0](https://github.com/cdzombak/instapaper-auto-archiver/releases/tag/v1.0.0) *(2023-10-15; )* 
 <br />Avoid stress: Automatically archive older unread Instapaper bookmarks
 * **[feedbin-stars-to-email](https://github.com/cdzombak/feedbin-stars-to-email)**: [v1.0.0](https://github.com/cdzombak/feedbin-stars-to-email/releases/tag/v1.0.0) *(2023-10-15; [2 releases total](https://github.com/cdzombak/feedbin-stars-to-email/releases) )* 
@@ -155,6 +167,8 @@ Listing <!-- releases_count starts -->453<!-- releases_count ends --> releases a
 <br />“wait, what was I doing?”
 * **[fastscripts-alfred](https://github.com/cdzombak/fastscripts-alfred)**: [](https://github.com/cdzombak/fastscripts-alfred/releases/tag/v1.0) *(2023-04-23; )* 
 <br />Invoke FastScripts workflow for Alfred
+* **[TransmissionRemote](https://github.com/cdzombak/TransmissionRemote)**: [v2.1.5 (build 12) - Notarized Build](https://github.com/cdzombak/TransmissionRemote/releases/tag/v2.1.5-12) *(2022-08-18; [7 releases total](https://github.com/cdzombak/TransmissionRemote/releases) )* 
+<br />macOS client for transmission-daemon (using RPC API)
 * **[do-ddns](https://github.com/cdzombak/do-ddns)**: [v0.0.6](https://github.com/cdzombak/do-ddns/releases/tag/v0.0.6) *(2022-04-18; [6 releases total](https://github.com/cdzombak/do-ddns/releases) )* 
 <br />DigitalOcean-based Dynamic DNS server and client
 * **[fix-secure-input](https://github.com/cdzombak/fix-secure-input)**: [Alfred Workflow v1.0.0](https://github.com/cdzombak/fix-secure-input/releases/tag/v1.0.0) *(2020-11-20; )* 
