@@ -29,7 +29,7 @@ def replace_chunk(content, marker, chunk, inline=False):
 
 GRAPHQL_SEARCH_QUERY = """
 query {
-  search(first: 100, type:REPOSITORY, query:"is:public owner:cdzombak sort:updated", after: AFTER) {
+  search(first: 100, type:REPOSITORY, query:"is:public owner:cdzombak fork:true sort:updated", after: AFTER) {
     pageInfo {
       hasNextPage
       endCursor
