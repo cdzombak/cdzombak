@@ -5,6 +5,8 @@
 <!-- recent_releases starts -->
 [ipcam-browser v0.0.2](https://github.com/cdzombak/ipcam-browser/releases/tag/v0.0.2) *(2025-11-26)*
 
+[AlfredSwitchWindows v0.6.0](https://github.com/cdzombak/AlfredSwitchWindows/releases/tag/v0.6.0) *(2025-11-26)*
+
 [lychee-bw-tagger v1.0.0](https://github.com/cdzombak/lychee-bw-tagger/releases/tag/v1.0.0) *(2025-11-20)*
 
 [trailcamai v1.1.0](https://github.com/cdzombak/trailcamai/releases/tag/v1.1.0) *(2025-11-17)*
@@ -16,8 +18,6 @@
 [lychee-meta-tool v1.1.1](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.1.1) *(2025-11-04)*
 
 [gha-secrets-setup v0.0.1](https://github.com/cdzombak/gha-secrets-setup/releases/tag/v0.0.1) *(2025-10-27)*
-
-[newt v0.0.5](https://github.com/cdzombak/newt/releases/tag/v0.0.5) *(2025-10-27)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />
@@ -27,6 +27,8 @@
 ### Recently Blogged
 
 <!-- blog starts -->
+[Streamlining my user-level CLAUDE.md](https://www.dzombak.com/blog/2025/12/streamlining-my-user-level-claude-md/) *(02 Dec 2025)*
+
 [Linux server migration planning](https://www.dzombak.com/blog/2025/11/linux-server-migration-planning/) *(25 Nov 2025)*
 
 [Neat Image noise profiles for the Ricoh WG6](https://www.dzombak.com/blog/2025/11/neat-image-noise-profiles-for-the-ricoh-wg6/) *(21 Nov 2025)*
@@ -36,8 +38,6 @@
 [Beavers at work in West Lake Nature Preserve](https://www.dzombak.com/blog/2025/11/beavers-at-west-lake-nature-preserve/) *(20 Nov 2025)*
 
 [Using systemd to keep an SMB share mounted](https://www.dzombak.com/blog/2025/11/using-systemd-to-keep-an-smb-share-mounted/) *(19 Nov 2025)*
-
-[Using systemd to run a Docker container only when an SMB mount is mounted](https://www.dzombak.com/blog/2025/11/using-systemd-to-run-a-docker-container-only-when-an-smb-mount-is-mounted/) *(19 Nov 2025)*
 <!-- blog ends -->
 🌐 **More on [dzombak.com](https://www.dzombak.com/blog)**
 <br />
