@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->473<!-- releases_count ends --> releases across <!-- project_count starts -->88<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->475<!-- releases_count ends --> releases across <!-- project_count starts -->89<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[purpleair2mqtt](https://github.com/cdzombak/purpleair2mqtt)**: [v1.0.0](https://github.com/cdzombak/purpleair2mqtt/releases/tag/v1.0.0) *(2025-12-04; [2 releases total](https://github.com/cdzombak/purpleair2mqtt/releases) )* 
+<br />Pull sensor data from your local PurpleAir sensors - no cloud needed.
 * **[ipcam-browser](https://github.com/cdzombak/ipcam-browser)**: [v0.0.2](https://github.com/cdzombak/ipcam-browser/releases/tag/v0.0.2) *(2025-11-26; [2 releases total](https://github.com/cdzombak/ipcam-browser/releases) )* 
 <br />Improved media browser for SD card storage on SV3C/CamHiPro compatible IP webcams
 * **[AlfredSwitchWindows](https://github.com/cdzombak/AlfredSwitchWindows)**: [v0.6.0](https://github.com/cdzombak/AlfredSwitchWindows/releases/tag/v0.6.0) *(2025-11-26; [5 releases total](https://github.com/cdzombak/AlfredSwitchWindows/releases) )* 

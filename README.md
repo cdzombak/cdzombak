@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[purpleair2mqtt v1.0.0](https://github.com/cdzombak/purpleair2mqtt/releases/tag/v1.0.0) *(2025-12-04)*
+
 [ipcam-browser v0.0.2](https://github.com/cdzombak/ipcam-browser/releases/tag/v0.0.2) *(2025-11-26)*
 
 [AlfredSwitchWindows v0.6.0](https://github.com/cdzombak/AlfredSwitchWindows/releases/tag/v0.6.0) *(2025-11-26)*
@@ -16,8 +18,6 @@
 [lychee-ai-organizer v1.1.1](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.1.1) *(2025-11-04)*
 
 [lychee-meta-tool v1.1.1](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.1.1) *(2025-11-04)*
-
-[gha-secrets-setup v0.0.1](https://github.com/cdzombak/gha-secrets-setup/releases/tag/v0.0.1) *(2025-10-27)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />
