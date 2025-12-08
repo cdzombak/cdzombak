@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[dzsolarized-vscode Release v0.0.18](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.18) *(2025-12-08)*
+
 [purpleair2mqtt v1.0.0](https://github.com/cdzombak/purpleair2mqtt/releases/tag/v1.0.0) *(2025-12-04)*
 
 [ipcam-browser v0.0.2](https://github.com/cdzombak/ipcam-browser/releases/tag/v0.0.2) *(2025-11-26)*
@@ -16,8 +18,6 @@
 [runner v2.11.3](https://github.com/cdzombak/runner/releases/tag/v2.11.3) *(2025-11-10)*
 
 [lychee-ai-organizer v1.1.1](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.1.1) *(2025-11-04)*
-
-[lychee-meta-tool v1.1.1](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.1.1) *(2025-11-04)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />

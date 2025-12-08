@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->475<!-- releases_count ends --> releases across <!-- project_count starts -->89<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->476<!-- releases_count ends --> releases across <!-- project_count starts -->89<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[dzsolarized-vscode](https://github.com/cdzombak/dzsolarized-vscode)**: [Release v0.0.18](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.18) *(2025-12-08; [17 releases total](https://github.com/cdzombak/dzsolarized-vscode/releases) )* 
+<br />Solarized variant for VS Code (light + dark modes supported)
 * **[purpleair2mqtt](https://github.com/cdzombak/purpleair2mqtt)**: [v1.0.0](https://github.com/cdzombak/purpleair2mqtt/releases/tag/v1.0.0) *(2025-12-04; [2 releases total](https://github.com/cdzombak/purpleair2mqtt/releases) )* 
 <br />Pull sensor data from your local PurpleAir sensors - no cloud needed.
 * **[ipcam-browser](https://github.com/cdzombak/ipcam-browser)**: [v0.0.2](https://github.com/cdzombak/ipcam-browser/releases/tag/v0.0.2) *(2025-11-26; [2 releases total](https://github.com/cdzombak/ipcam-browser/releases) )* 
@@ -29,8 +31,6 @@ Listing <!-- releases_count starts -->475<!-- releases_count ends --> releases a
 <br />Automatically cleanup resolved Uptime Kuma alert pairs from my Gmail inbox
 * **[shop-sonos-noise-control](https://github.com/cdzombak/shop-sonos-noise-control)**: [v1.1.3](https://github.com/cdzombak/shop-sonos-noise-control/releases/tag/v1.1.3) *(2025-10-22; [6 releases total](https://github.com/cdzombak/shop-sonos-noise-control/releases) )* 
 <br />pause Sonos during loud noises, and resume playing afterward
-* **[dzsolarized-vscode](https://github.com/cdzombak/dzsolarized-vscode)**: [Release v0.0.17](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.17) *(2025-10-22; [16 releases total](https://github.com/cdzombak/dzsolarized-vscode/releases) )* 
-<br />Solarized variant for VS Code (light + dark modes supported)
 * **[git-ac](https://github.com/cdzombak/git-ac)**: [v1.0.4](https://github.com/cdzombak/git-ac/releases/tag/v1.0.4) *(2025-10-16; [6 releases total](https://github.com/cdzombak/git-ac/releases) )* 
 <br />Git autocommit: commit staged changes with LLM-written commit messages
 * **[samba-docker](https://github.com/cdzombak/samba-docker)**: [v4.23.1](https://github.com/cdzombak/samba-docker/releases/tag/v4.23.1) *(2025-10-09; [2 releases total](https://github.com/cdzombak/samba-docker/releases) )* 
