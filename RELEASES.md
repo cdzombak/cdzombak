@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->476<!-- releases_count ends --> releases across <!-- project_count starts -->89<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->477<!-- releases_count ends --> releases across <!-- project_count starts -->89<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[humidity-reminder](https://github.com/cdzombak/humidity-reminder)**: [v1.0.2](https://github.com/cdzombak/humidity-reminder/releases/tag/v1.0.2) *(2025-12-09; [3 releases total](https://github.com/cdzombak/humidity-reminder/releases) )* 
+<br />Get email reminders when the ideal indoor humidity changes.
 * **[dzsolarized-vscode](https://github.com/cdzombak/dzsolarized-vscode)**: [Release v0.0.18](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.18) *(2025-12-08; [17 releases total](https://github.com/cdzombak/dzsolarized-vscode/releases) )* 
 <br />Solarized variant for VS Code (light + dark modes supported)
 * **[purpleair2mqtt](https://github.com/cdzombak/purpleair2mqtt)**: [v1.0.0](https://github.com/cdzombak/purpleair2mqtt/releases/tag/v1.0.0) *(2025-12-04; [2 releases total](https://github.com/cdzombak/purpleair2mqtt/releases) )* 
@@ -25,8 +27,6 @@ Listing <!-- releases_count starts -->476<!-- releases_count ends --> releases a
 <br />Interactive setup for GitHub Actions secrets
 * **[newt](https://github.com/cdzombak/newt)**: [v0.0.5](https://github.com/cdzombak/newt/releases/tag/v0.0.5) *(2025-10-27; [5 releases total](https://github.com/cdzombak/newt/releases) )* 
 <br />Git worktree manager
-* **[humidity-reminder](https://github.com/cdzombak/humidity-reminder)**: [v1.0.1](https://github.com/cdzombak/humidity-reminder/releases/tag/v1.0.1) *(2025-10-26; [2 releases total](https://github.com/cdzombak/humidity-reminder/releases) )* 
-<br />Get email reminders when the ideal indoor humidity changes.
 * **[gmail-uptimekuma-alert-cleaner](https://github.com/cdzombak/gmail-uptimekuma-alert-cleaner)**: [v1.0.0](https://github.com/cdzombak/gmail-uptimekuma-alert-cleaner/releases/tag/v1.0.0) *(2025-10-25; )* 
 <br />Automatically cleanup resolved Uptime Kuma alert pairs from my Gmail inbox
 * **[shop-sonos-noise-control](https://github.com/cdzombak/shop-sonos-noise-control)**: [v1.1.3](https://github.com/cdzombak/shop-sonos-noise-control/releases/tag/v1.1.3) *(2025-10-22; [6 releases total](https://github.com/cdzombak/shop-sonos-noise-control/releases) )* 
