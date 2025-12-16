@@ -27,6 +27,8 @@
 ### Recently Blogged
 
 <!-- blog starts -->
+[Letter of Recommendation: Simon Willison's Weblog](https://www.dzombak.com/blog/2025/12/letter-of-recommendation-simon-willisons-weblog/) *(16 Dec 2025)*
+
 [noclobber breaks JetBrains IDEs’ ability to read your shell environment](https://www.dzombak.com/blog/2025/12/noclobber-breaks-jetbrains-ides-ability-to-read-your-shell-environment/) *(11 Dec 2025)*
 
 [Streamlining my user-level CLAUDE.md](https://www.dzombak.com/blog/2025/12/streamlining-my-user-level-claude-md/) *(02 Dec 2025)*
@@ -36,8 +38,6 @@
 [Neat Image noise profiles for the Ricoh WG6](https://www.dzombak.com/blog/2025/11/neat-image-noise-profiles-for-the-ricoh-wg6/) *(21 Nov 2025)*
 
 [Neat Image noise profiles for the Leica X1](https://www.dzombak.com/blog/2025/11/neat-image-noise-profiles-for-the-leica-x1/) *(20 Nov 2025)*
-
-[Beavers at work in West Lake Nature Preserve](https://www.dzombak.com/blog/2025/11/beavers-at-west-lake-nature-preserve/) *(20 Nov 2025)*
 <!-- blog ends -->
 🌐 **More on [dzombak.com](https://www.dzombak.com/blog)**
 <br />
