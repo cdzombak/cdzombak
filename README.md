@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[plex-meta-migrator v0.0.1](https://github.com/cdzombak/plex-meta-migrator/releases/tag/v0.0.1) *(2025-12-17)*
+
 [humidity-reminder v1.0.2](https://github.com/cdzombak/humidity-reminder/releases/tag/v1.0.2) *(2025-12-09)*
 
 [dzsolarized-vscode Release v0.0.18](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.18) *(2025-12-08)*
@@ -16,8 +18,6 @@
 [lychee-bw-tagger v1.0.0](https://github.com/cdzombak/lychee-bw-tagger/releases/tag/v1.0.0) *(2025-11-20)*
 
 [trailcamai v1.1.0](https://github.com/cdzombak/trailcamai/releases/tag/v1.1.0) *(2025-11-17)*
-
-[runner v2.11.3](https://github.com/cdzombak/runner/releases/tag/v2.11.3) *(2025-11-10)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />
