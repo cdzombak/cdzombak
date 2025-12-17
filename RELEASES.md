@@ -1,9 +1,9 @@
 # Releases
 
-Listing <!-- releases_count starts -->478<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->479<!-- releases_count ends --> releases across <!-- project_count starts -->90<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
-* **[plex-meta-migrator](https://github.com/cdzombak/plex-meta-migrator)**: [v0.0.1](https://github.com/cdzombak/plex-meta-migrator/releases/tag/v0.0.1) *(2025-12-17; )* 
+* **[plex-meta-migrator](https://github.com/cdzombak/plex-meta-migrator)**: [v0.0.2](https://github.com/cdzombak/plex-meta-migrator/releases/tag/v0.0.2) *(2025-12-17; [2 releases total](https://github.com/cdzombak/plex-meta-migrator/releases) )* 
 <br />Migrate media metadata from one Plex library to another
 * **[humidity-reminder](https://github.com/cdzombak/humidity-reminder)**: [v1.0.2](https://github.com/cdzombak/humidity-reminder/releases/tag/v1.0.2) *(2025-12-09; [3 releases total](https://github.com/cdzombak/humidity-reminder/releases) )* 
 <br />Get email reminders when the ideal indoor humidity changes.

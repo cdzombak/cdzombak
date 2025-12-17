@@ -3,7 +3,7 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
-[plex-meta-migrator v0.0.1](https://github.com/cdzombak/plex-meta-migrator/releases/tag/v0.0.1) *(2025-12-17)*
+[plex-meta-migrator v0.0.2](https://github.com/cdzombak/plex-meta-migrator/releases/tag/v0.0.2) *(2025-12-17)*
 
 [humidity-reminder v1.0.2](https://github.com/cdzombak/humidity-reminder/releases/tag/v1.0.2) *(2025-12-09)*
 
