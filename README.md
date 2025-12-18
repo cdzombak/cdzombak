@@ -27,6 +27,8 @@
 ### Recently Blogged
 
 <!-- blog starts -->
+["Your job is to deliver code you have proven to work"](https://www.dzombak.com/blog/2025/12/your-job-is-to-deliver-code-you-have-proven-to-work/) *(18 Dec 2025)*
+
 [Why tech companies encourage their software engineers to use LLMs](https://www.dzombak.com/blog/2025/12/why-tech-companies-encourage-their-software-engineers-to-use-llms/) *(18 Dec 2025)*
 
 [Introducing two tools for working with Plex media libraries](https://www.dzombak.com/blog/2025/12/introducing-two-tools-for-working-with-plex-media-libraries/) *(17 Dec 2025)*
@@ -36,8 +38,6 @@
 [noclobber breaks JetBrains IDEs’ ability to read your shell environment](https://www.dzombak.com/blog/2025/12/noclobber-breaks-jetbrains-ides-ability-to-read-your-shell-environment/) *(11 Dec 2025)*
 
 [Streamlining my user-level CLAUDE.md](https://www.dzombak.com/blog/2025/12/streamlining-my-user-level-claude-md/) *(02 Dec 2025)*
-
-[Linux server migration planning](https://www.dzombak.com/blog/2025/11/linux-server-migration-planning/) *(25 Nov 2025)*
 <!-- blog ends -->
 🌐 **More on [dzombak.com](https://www.dzombak.com/blog)**
 <br />
