@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->480<!-- releases_count ends --> releases across <!-- project_count starts -->91<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->481<!-- releases_count ends --> releases across <!-- project_count starts -->91<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[AlfredSwitchWindows](https://github.com/cdzombak/AlfredSwitchWindows)**: [v0.6.3](https://github.com/cdzombak/AlfredSwitchWindows/releases/tag/v0.6.3) *(2025-12-19; [6 releases total](https://github.com/cdzombak/AlfredSwitchWindows/releases) )* 
+<br />Alfred (macOS) workflow to search for & switch to open windows or browser/iTerm tabs by title.
 * **[plex-ai-titler](https://github.com/cdzombak/plex-ai-titler)**: [v0.0.1](https://github.com/cdzombak/plex-ai-titler/releases/tag/v0.0.1) *(2025-12-17; )* 
 <br />Use an LLM to derive titles for Plex videos from filenames
 * **[plex-meta-migrator](https://github.com/cdzombak/plex-meta-migrator)**: [v0.0.2](https://github.com/cdzombak/plex-meta-migrator/releases/tag/v0.0.2) *(2025-12-17; [2 releases total](https://github.com/cdzombak/plex-meta-migrator/releases) )* 
@@ -15,8 +17,6 @@ Listing <!-- releases_count starts -->480<!-- releases_count ends --> releases a
 <br />Pull sensor data from your local PurpleAir sensors - no cloud needed.
 * **[ipcam-browser](https://github.com/cdzombak/ipcam-browser)**: [v0.0.2](https://github.com/cdzombak/ipcam-browser/releases/tag/v0.0.2) *(2025-11-26; [2 releases total](https://github.com/cdzombak/ipcam-browser/releases) )* 
 <br />Improved media browser for SD card storage on SV3C/CamHiPro compatible IP webcams
-* **[AlfredSwitchWindows](https://github.com/cdzombak/AlfredSwitchWindows)**: [v0.6.0](https://github.com/cdzombak/AlfredSwitchWindows/releases/tag/v0.6.0) *(2025-11-26; [5 releases total](https://github.com/cdzombak/AlfredSwitchWindows/releases) )* 
-<br />Alfred (macOS) workflow to search for & switch to open windows or browser/iTerm tabs by title.
 * **[lychee-bw-tagger](https://github.com/cdzombak/lychee-bw-tagger)**: [v1.0.0](https://github.com/cdzombak/lychee-bw-tagger/releases/tag/v1.0.0) *(2025-11-20; [2 releases total](https://github.com/cdzombak/lychee-bw-tagger/releases) )* 
 <br />Tag the black & white photos in your Lychee photo library
 * **[trailcamai](https://github.com/cdzombak/trailcamai)**: [v1.1.0](https://github.com/cdzombak/trailcamai/releases/tag/v1.1.0) *(2025-11-17; [3 releases total](https://github.com/cdzombak/trailcamai/releases) )* 

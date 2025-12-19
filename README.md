@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[AlfredSwitchWindows v0.6.3](https://github.com/cdzombak/AlfredSwitchWindows/releases/tag/v0.6.3) *(2025-12-19)*
+
 [plex-ai-titler v0.0.1](https://github.com/cdzombak/plex-ai-titler/releases/tag/v0.0.1) *(2025-12-17)*
 
 [plex-meta-migrator v0.0.2](https://github.com/cdzombak/plex-meta-migrator/releases/tag/v0.0.2) *(2025-12-17)*
@@ -14,8 +16,6 @@
 [purpleair2mqtt v1.0.0](https://github.com/cdzombak/purpleair2mqtt/releases/tag/v1.0.0) *(2025-12-04)*
 
 [ipcam-browser v0.0.2](https://github.com/cdzombak/ipcam-browser/releases/tag/v0.0.2) *(2025-11-26)*
-
-[AlfredSwitchWindows v0.6.0](https://github.com/cdzombak/AlfredSwitchWindows/releases/tag/v0.6.0) *(2025-11-26)*
 
 [lychee-bw-tagger v1.0.0](https://github.com/cdzombak/lychee-bw-tagger/releases/tag/v1.0.0) *(2025-11-20)*
 <!-- recent_releases ends -->
