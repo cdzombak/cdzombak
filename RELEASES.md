@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->481<!-- releases_count ends --> releases across <!-- project_count starts -->91<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->482<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[ipcam-bird-detection](https://github.com/cdzombak/ipcam-bird-detection)**: [v0.0.1](https://github.com/cdzombak/ipcam-bird-detection/releases/tag/v0.0.1) *(2025-12-28; )* 
+<br />Detect birds in videos from your ipcam-browser compatible webcam
 * **[AlfredSwitchWindows](https://github.com/cdzombak/AlfredSwitchWindows)**: [v0.6.3](https://github.com/cdzombak/AlfredSwitchWindows/releases/tag/v0.6.3) *(2025-12-19; [6 releases total](https://github.com/cdzombak/AlfredSwitchWindows/releases) )* 
 <br />Alfred (macOS) workflow to search for & switch to open windows or browser/iTerm tabs by title.
 * **[plex-ai-titler](https://github.com/cdzombak/plex-ai-titler)**: [v0.0.1](https://github.com/cdzombak/plex-ai-titler/releases/tag/v0.0.1) *(2025-12-17; )* 
