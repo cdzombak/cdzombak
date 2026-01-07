@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->482<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->483<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[driveway-monitor](https://github.com/cdzombak/driveway-monitor)**: [v1.5.0-rc.2](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.5.0-rc.2) *(2026-01-07; [23 releases total](https://github.com/cdzombak/driveway-monitor/releases) )* 
+<br />Receive customizable, AI-powered notifications when someone arrives in your driveway.
 * **[ipcam-bird-detection](https://github.com/cdzombak/ipcam-bird-detection)**: [v0.0.1](https://github.com/cdzombak/ipcam-bird-detection/releases/tag/v0.0.1) *(2025-12-28; )* 
 <br />Detect birds in videos from your ipcam-browser compatible webcam
 * **[AlfredSwitchWindows](https://github.com/cdzombak/AlfredSwitchWindows)**: [v0.6.3](https://github.com/cdzombak/AlfredSwitchWindows/releases/tag/v0.6.3) *(2025-12-19; [6 releases total](https://github.com/cdzombak/AlfredSwitchWindows/releases) )* 
@@ -45,8 +47,6 @@ Listing <!-- releases_count starts -->482<!-- releases_count ends --> releases a
 <br />Raspberry Pi FM transmitter that plays music forever from the local filesystem.
 * **[pdate](https://github.com/cdzombak/pdate)**: [v1.1.1](https://github.com/cdzombak/pdate/releases/tag/v1.1.1) *(2025-10-02; [5 releases total](https://github.com/cdzombak/pdate/releases) )* 
 <br />Date/time parsing on the CLI
-* **[driveway-monitor](https://github.com/cdzombak/driveway-monitor)**: [v1.4.1](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.4.1) *(2025-09-30; [22 releases total](https://github.com/cdzombak/driveway-monitor/releases) )* 
-<br />Receive customizable, AI-powered notifications when someone arrives in your driveway.
 * **[image-analyzer-go](https://github.com/cdzombak/image-analyzer-go)**: [v0.0.1](https://github.com/cdzombak/image-analyzer-go/releases/tag/v0.0.1) *(2025-09-30; )* 
 <br />Photo/image analysis functions for Golang
 * **[eztag](https://github.com/cdzombak/eztag)**: [v0.0.3](https://github.com/cdzombak/eztag/releases/tag/v0.0.3) *(2025-09-26; [3 releases total](https://github.com/cdzombak/eztag/releases) )* 
