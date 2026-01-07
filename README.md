@@ -3,7 +3,7 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
-[driveway-monitor v1.5.0-rc.2](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.5.0-rc.2) *(2026-01-07)*
+[driveway-monitor v1.5.0](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.5.0) *(2026-01-07)*
 
 [ipcam-bird-detection v0.0.1](https://github.com/cdzombak/ipcam-bird-detection/releases/tag/v0.0.1) *(2025-12-28)*
 

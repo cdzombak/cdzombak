@@ -1,9 +1,9 @@
 # Releases
 
-Listing <!-- releases_count starts -->483<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->484<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
-* **[driveway-monitor](https://github.com/cdzombak/driveway-monitor)**: [v1.5.0-rc.2](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.5.0-rc.2) *(2026-01-07; [23 releases total](https://github.com/cdzombak/driveway-monitor/releases) )* 
+* **[driveway-monitor](https://github.com/cdzombak/driveway-monitor)**: [v1.5.0](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.5.0) *(2026-01-07; [24 releases total](https://github.com/cdzombak/driveway-monitor/releases) )* 
 <br />Receive customizable, AI-powered notifications when someone arrives in your driveway.
 * **[ipcam-bird-detection](https://github.com/cdzombak/ipcam-bird-detection)**: [v0.0.1](https://github.com/cdzombak/ipcam-bird-detection/releases/tag/v0.0.1) *(2025-12-28; )* 
 <br />Detect birds in videos from your ipcam-browser compatible webcam
