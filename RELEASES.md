@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->484<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->485<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[runner](https://github.com/cdzombak/runner)**: [v2.11.4](https://github.com/cdzombak/runner/releases/tag/v2.11.4) *(2026-01-27; [38 releases total](https://github.com/cdzombak/runner/releases) )* 
+<br />Lightweight wrapper for better cron jobs and containers
 * **[driveway-monitor](https://github.com/cdzombak/driveway-monitor)**: [v1.5.0](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.5.0) *(2026-01-07; [24 releases total](https://github.com/cdzombak/driveway-monitor/releases) )* 
 <br />Receive customizable, AI-powered notifications when someone arrives in your driveway.
 * **[ipcam-bird-detection](https://github.com/cdzombak/ipcam-bird-detection)**: [v0.0.1](https://github.com/cdzombak/ipcam-bird-detection/releases/tag/v0.0.1) *(2025-12-28; )* 
@@ -25,8 +27,6 @@ Listing <!-- releases_count starts -->484<!-- releases_count ends --> releases a
 <br />Tag the black & white photos in your Lychee photo library
 * **[trailcamai](https://github.com/cdzombak/trailcamai)**: [v1.1.0](https://github.com/cdzombak/trailcamai/releases/tag/v1.1.0) *(2025-11-17; [3 releases total](https://github.com/cdzombak/trailcamai/releases) )* 
 <br />AI-powered trail camera image and video organizer
-* **[runner](https://github.com/cdzombak/runner)**: [v2.11.3](https://github.com/cdzombak/runner/releases/tag/v2.11.3) *(2025-11-10; [37 releases total](https://github.com/cdzombak/runner/releases) )* 
-<br />Lightweight wrapper for better cron jobs and containers
 * **[lychee-ai-organizer](https://github.com/cdzombak/lychee-ai-organizer)**: [v1.1.1](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.1.1) *(2025-11-04; [6 releases total](https://github.com/cdzombak/lychee-ai-organizer/releases) )* 
 <br />Use local LLMs to organize your unsorted photos in Lychee
 * **[lychee-meta-tool](https://github.com/cdzombak/lychee-meta-tool)**: [v1.1.1](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.1.1) *(2025-11-04; [6 releases total](https://github.com/cdzombak/lychee-meta-tool/releases) )* 
