@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->485<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->487<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[washmon](https://github.com/cdzombak/washmon)**: [v1.0.1](https://github.com/cdzombak/washmon/releases/tag/v1.0.1) *(2026-02-10; [5 releases total](https://github.com/cdzombak/washmon/releases) )* 
+<br />washmon figures out when your laundry is done and reminds you periodically until you affirm that you've emptied the machine
 * **[runner](https://github.com/cdzombak/runner)**: [v2.11.4](https://github.com/cdzombak/runner/releases/tag/v2.11.4) *(2026-01-27; [38 releases total](https://github.com/cdzombak/runner/releases) )* 
 <br />Lightweight wrapper for better cron jobs and containers
 * **[driveway-monitor](https://github.com/cdzombak/driveway-monitor)**: [v1.5.0](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.5.0) *(2026-01-07; [24 releases total](https://github.com/cdzombak/driveway-monitor/releases) )* 
@@ -93,8 +95,6 @@ Listing <!-- releases_count starts -->485<!-- releases_count ends --> releases a
 <br />Generate an RSS feed of a Flickr photostream or your Friends & Family feed
 * **[lychee-birb-title](https://github.com/cdzombak/lychee-birb-title)**: [v1.0.0](https://github.com/cdzombak/lychee-birb-title/releases/tag/v1.0.0) *(2025-08-04; )* 
 <br />Set titles for Bird Buddy photos in your Lychee photo library
-* **[washmon](https://github.com/cdzombak/washmon)**: [v1.0.0](https://github.com/cdzombak/washmon/releases/tag/v1.0.0) *(2025-07-28; [3 releases total](https://github.com/cdzombak/washmon/releases) )* 
-<br />washmon figures out when your laundry is done and reminds you periodically until you affirm that you've emptied the machine
 * **[macos-screenlock-mqtt](https://github.com/cdzombak/macos-screenlock-mqtt)**: [v1.0.0](https://github.com/cdzombak/macos-screenlock-mqtt/releases/tag/v1.0.0) *(2025-07-28; )* 
 <br />Report macOS screen lock status to an MQTT broker
 * **[midea2influx](https://github.com/cdzombak/midea2influx)**: [v1.2.0](https://github.com/cdzombak/midea2influx/releases/tag/v1.2.0) *(2025-07-23; [5 releases total](https://github.com/cdzombak/midea2influx/releases) )* 
