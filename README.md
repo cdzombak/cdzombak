@@ -27,6 +27,8 @@
 ### Recently Blogged
 
 <!-- blog starts -->
+[Things to try if you're new to Claude Code](https://www.dzombak.com/blog/2026/03/things-to-try-if-youre-new-to-claude-code/) *(10 Mar 2026)*
+
 [Birds of Sanibel Island](https://www.dzombak.com/blog/2026/02/birds-of-sanibel-island/) *(02 Feb 2026)*
 
 ["Why Does Test-Driven Development Work So Well In 'AI'-assisted Programming?"](https://www.dzombak.com/blog/2026/01/why-does-test-driven-development-work-so-well-in-ai-assisted-programming/) *(09 Jan 2026)*
@@ -36,8 +38,6 @@
 [What software engineers bring to AI-assisted software development](https://www.dzombak.com/blog/2026/01/what-software-engineers-bring-to-ai-assisted-software-development/) *(07 Jan 2026)*
 
 [Never use Apple gift cards](https://www.dzombak.com/blog/2025/12/never-use-apple-gift-cards/) *(19 Dec 2025)*
-
-["Your job is to deliver code you have proven to work"](https://www.dzombak.com/blog/2025/12/your-job-is-to-deliver-code-you-have-proven-to-work/) *(18 Dec 2025)*
 <!-- blog ends -->
 🌐 **More on [dzombak.com](https://www.dzombak.com/blog)**
 <br />
