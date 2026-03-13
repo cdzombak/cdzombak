@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->487<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->488<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[lychee-meta-tool](https://github.com/cdzombak/lychee-meta-tool)**: [v1.1.2](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.1.2) *(2026-03-13; [7 releases total](https://github.com/cdzombak/lychee-meta-tool/releases) )* 
+<br />Quickly find & edit untitled photos in your Lychee photo library
 * **[washmon](https://github.com/cdzombak/washmon)**: [v1.0.1](https://github.com/cdzombak/washmon/releases/tag/v1.0.1) *(2026-02-10; [5 releases total](https://github.com/cdzombak/washmon/releases) )* 
 <br />washmon figures out when your laundry is done and reminds you periodically until you affirm that you've emptied the machine
 * **[runner](https://github.com/cdzombak/runner)**: [v2.11.4](https://github.com/cdzombak/runner/releases/tag/v2.11.4) *(2026-01-27; [38 releases total](https://github.com/cdzombak/runner/releases) )* 
@@ -31,8 +33,6 @@ Listing <!-- releases_count starts -->487<!-- releases_count ends --> releases a
 <br />AI-powered trail camera image and video organizer
 * **[lychee-ai-organizer](https://github.com/cdzombak/lychee-ai-organizer)**: [v1.1.1](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.1.1) *(2025-11-04; [6 releases total](https://github.com/cdzombak/lychee-ai-organizer/releases) )* 
 <br />Use local LLMs to organize your unsorted photos in Lychee
-* **[lychee-meta-tool](https://github.com/cdzombak/lychee-meta-tool)**: [v1.1.1](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.1.1) *(2025-11-04; [6 releases total](https://github.com/cdzombak/lychee-meta-tool/releases) )* 
-<br />Quickly find & edit untitled photos in your Lychee photo library
 * **[gha-secrets-setup](https://github.com/cdzombak/gha-secrets-setup)**: [v0.0.1](https://github.com/cdzombak/gha-secrets-setup/releases/tag/v0.0.1) *(2025-10-27; )* 
 <br />Interactive setup for GitHub Actions secrets
 * **[newt](https://github.com/cdzombak/newt)**: [v0.0.5](https://github.com/cdzombak/newt/releases/tag/v0.0.5) *(2025-10-27; [5 releases total](https://github.com/cdzombak/newt/releases) )* 
