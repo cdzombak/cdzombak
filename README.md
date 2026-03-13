@@ -3,7 +3,9 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
-[lychee-meta-tool v1.1.2](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.1.2) *(2026-03-13)*
+[lychee-meta-tool v1.1.3](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.1.3) *(2026-03-13)*
+
+[lychee-ai-organizer v1.1.2](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.1.2) *(2026-03-13)*
 
 [washmon v1.0.1](https://github.com/cdzombak/washmon/releases/tag/v1.0.1) *(2026-02-10)*
 
@@ -16,8 +18,6 @@
 [AlfredSwitchWindows v0.6.3](https://github.com/cdzombak/AlfredSwitchWindows/releases/tag/v0.6.3) *(2025-12-19)*
 
 [plex-ai-titler v0.0.1](https://github.com/cdzombak/plex-ai-titler/releases/tag/v0.0.1) *(2025-12-17)*
-
-[plex-meta-migrator v0.0.2](https://github.com/cdzombak/plex-meta-migrator/releases/tag/v0.0.2) *(2025-12-17)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />
