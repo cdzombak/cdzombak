@@ -3,9 +3,9 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
-[lychee-meta-tool v1.1.3](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.1.3) *(2026-03-13)*
+[lychee-ai-organizer v1.1.3](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.1.3) *(2026-03-13)*
 
-[lychee-ai-organizer v1.1.2](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.1.2) *(2026-03-13)*
+[lychee-meta-tool v1.1.3](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.1.3) *(2026-03-13)*
 
 [washmon v1.0.1](https://github.com/cdzombak/washmon/releases/tag/v1.0.1) *(2026-02-10)*
 

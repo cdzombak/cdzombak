@@ -1,12 +1,12 @@
 # Releases
 
-Listing <!-- releases_count starts -->490<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->491<!-- releases_count ends --> releases across <!-- project_count starts -->92<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[lychee-ai-organizer](https://github.com/cdzombak/lychee-ai-organizer)**: [v1.1.3](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.1.3) *(2026-03-13; [8 releases total](https://github.com/cdzombak/lychee-ai-organizer/releases) )* 
+<br />Use local LLMs to organize your unsorted photos in Lychee
 * **[lychee-meta-tool](https://github.com/cdzombak/lychee-meta-tool)**: [v1.1.3](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.1.3) *(2026-03-13; [8 releases total](https://github.com/cdzombak/lychee-meta-tool/releases) )* 
 <br />Quickly find & edit untitled photos in your Lychee photo library
-* **[lychee-ai-organizer](https://github.com/cdzombak/lychee-ai-organizer)**: [v1.1.2](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.1.2) *(2026-03-13; [7 releases total](https://github.com/cdzombak/lychee-ai-organizer/releases) )* 
-<br />Use local LLMs to organize your unsorted photos in Lychee
 * **[washmon](https://github.com/cdzombak/washmon)**: [v1.0.1](https://github.com/cdzombak/washmon/releases/tag/v1.0.1) *(2026-02-10; [5 releases total](https://github.com/cdzombak/washmon/releases) )* 
 <br />washmon figures out when your laundry is done and reminds you periodically until you affirm that you've emptied the machine
 * **[runner](https://github.com/cdzombak/runner)**: [v2.11.4](https://github.com/cdzombak/runner/releases/tag/v2.11.4) *(2026-01-27; [38 releases total](https://github.com/cdzombak/runner/releases) )* 
