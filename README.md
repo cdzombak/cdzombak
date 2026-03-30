@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[bandwidther v0.0.1](https://github.com/cdzombak/bandwidther/releases/tag/v0.0.1) *(2026-03-30)*
+
 [lychee-ai-organizer v1.1.3](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.1.3) *(2026-03-13)*
 
 [lychee-meta-tool v1.1.3](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.1.3) *(2026-03-13)*
@@ -16,8 +18,6 @@
 [ipcam-bird-detection v0.0.1](https://github.com/cdzombak/ipcam-bird-detection/releases/tag/v0.0.1) *(2025-12-28)*
 
 [AlfredSwitchWindows v0.6.3](https://github.com/cdzombak/AlfredSwitchWindows/releases/tag/v0.6.3) *(2025-12-19)*
-
-[plex-ai-titler v0.0.1](https://github.com/cdzombak/plex-ai-titler/releases/tag/v0.0.1) *(2025-12-17)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />
