@@ -1,9 +1,9 @@
 # Releases
 
-Listing <!-- releases_count starts -->492<!-- releases_count ends --> releases across <!-- project_count starts -->93<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->493<!-- releases_count ends --> releases across <!-- project_count starts -->93<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
-* **[bandwidther](https://github.com/cdzombak/bandwidther)**: [v0.0.1](https://github.com/cdzombak/bandwidther/releases/tag/v0.0.1) *(2026-03-30; )* 
+* **[bandwidther](https://github.com/cdzombak/bandwidther)**: [v0.0.2](https://github.com/cdzombak/bandwidther/releases/tag/v0.0.2) *(2026-03-30; [2 releases total](https://github.com/cdzombak/bandwidther/releases) )* 
 <br />SwiftUI menu bar app for monitoring application bandwidth use
 * **[lychee-ai-organizer](https://github.com/cdzombak/lychee-ai-organizer)**: [v1.1.3](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.1.3) *(2026-03-13; [8 releases total](https://github.com/cdzombak/lychee-ai-organizer/releases) )* 
 <br />Use local LLMs to organize your unsorted photos in Lychee
