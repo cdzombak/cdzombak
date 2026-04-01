@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->493<!-- releases_count ends --> releases across <!-- project_count starts -->93<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->494<!-- releases_count ends --> releases across <!-- project_count starts -->93<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[mqtt2influxdb](https://github.com/cdzombak/mqtt2influxdb)**: [v1.0.0](https://github.com/cdzombak/mqtt2influxdb/releases/tag/v1.0.0) *(2026-04-01; [20 releases total](https://github.com/cdzombak/mqtt2influxdb/releases) )* 
+<br />An opinionated and intentionally scope-limited MQTT to InfluxDB bridge
 * **[bandwidther](https://github.com/cdzombak/bandwidther)**: [v0.0.2](https://github.com/cdzombak/bandwidther/releases/tag/v0.0.2) *(2026-03-30; [2 releases total](https://github.com/cdzombak/bandwidther/releases) )* 
 <br />SwiftUI menu bar app for monitoring application bandwidth use
 * **[lychee-ai-organizer](https://github.com/cdzombak/lychee-ai-organizer)**: [v1.1.3](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.1.3) *(2026-03-13; [8 releases total](https://github.com/cdzombak/lychee-ai-organizer/releases) )* 
@@ -119,8 +121,6 @@ Listing <!-- releases_count starts -->493<!-- releases_count ends --> releases a
 <br />Copy DNS records from DigitalOcean to Porkbun
 * **[libwx](https://github.com/cdzombak/libwx)**: [](https://github.com/cdzombak/libwx/releases/tag/v1.3.0) *(2025-01-13; [5 releases total](https://github.com/cdzombak/libwx/releases) )* 
 <br />Weather-related types and calculations for Golang
-* **[mqtt2influxdb](https://github.com/cdzombak/mqtt2influxdb)**: [v0.0.10](https://github.com/cdzombak/mqtt2influxdb/releases/tag/v0.0.10) *(2025-01-07; [19 releases total](https://github.com/cdzombak/mqtt2influxdb/releases) )* 
-<br />An opinionated and intentionally scope-limited MQTT to InfluxDB bridge
 * **[xtool](https://github.com/cdzombak/xtool)**: [v1.0.1](https://github.com/cdzombak/xtool/releases/tag/v1.0.1) *(2024-10-18; [4 releases total](https://github.com/cdzombak/xtool/releases) )* 
 <br />A photography workflow helper, mainly focused on EXIF operations.
 * **[macos-ups-mqtt-connector](https://github.com/cdzombak/macos-ups-mqtt-connector)**: [v0.0.4](https://github.com/cdzombak/macos-ups-mqtt-connector/releases/tag/v0.0.4) *(2024-10-09; [5 releases total](https://github.com/cdzombak/macos-ups-mqtt-connector/releases) )* 
