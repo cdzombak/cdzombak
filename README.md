@@ -3,7 +3,7 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
-[mqtt2influxdb v1.0.0](https://github.com/cdzombak/mqtt2influxdb/releases/tag/v1.0.0) *(2026-04-01)*
+[mqtt2influxdb v1.0.1](https://github.com/cdzombak/mqtt2influxdb/releases/tag/v1.0.1) *(2026-04-02)*
 
 [bandwidther v0.0.2](https://github.com/cdzombak/bandwidther/releases/tag/v0.0.2) *(2026-03-30)*
 
