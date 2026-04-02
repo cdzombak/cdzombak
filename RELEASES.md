@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->496<!-- releases_count ends --> releases across <!-- project_count starts -->93<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->497<!-- releases_count ends --> releases across <!-- project_count starts -->94<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[flickr-exporter](https://github.com/cdzombak/flickr-exporter)**: [v1.0.0-rc.1](https://github.com/cdzombak/flickr-exporter/releases/tag/v1.0.0-rc.1) *(2026-04-02; )* 
+<br />Export all your Flickr photos, or a selected set or collection, preserving title/description/tags and other metadata.
 * **[bandwidther](https://github.com/cdzombak/bandwidther)**: [v0.0.3](https://github.com/cdzombak/bandwidther/releases/tag/v0.0.3) *(2026-04-02; [3 releases total](https://github.com/cdzombak/bandwidther/releases) )* 
 <br />SwiftUI menu bar app for monitoring application bandwidth use
 * **[mqtt2influxdb](https://github.com/cdzombak/mqtt2influxdb)**: [v1.0.1](https://github.com/cdzombak/mqtt2influxdb/releases/tag/v1.0.1) *(2026-04-02; [21 releases total](https://github.com/cdzombak/mqtt2influxdb/releases) )* 
