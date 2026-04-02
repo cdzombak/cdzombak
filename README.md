@@ -3,7 +3,7 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
-[flickr-exporter v1.0.0-rc.1](https://github.com/cdzombak/flickr-exporter/releases/tag/v1.0.0-rc.1) *(2026-04-02)*
+[flickr-exporter v1.0.0](https://github.com/cdzombak/flickr-exporter/releases/tag/v1.0.0) *(2026-04-02)*
 
 [bandwidther v0.0.3](https://github.com/cdzombak/bandwidther/releases/tag/v0.0.3) *(2026-04-02)*
 
