@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[wx-sta-agg-influx v1.0.1](https://github.com/cdzombak/wx-sta-agg-influx/releases/tag/v1.0.1) *(2026-04-04)*
+
 [shop-sonos-noise-control ](https://github.com/cdzombak/shop-sonos-noise-control/releases/tag/v1.2.0) *(2026-04-04)*
 
 [flickr-exporter v1.0.0](https://github.com/cdzombak/flickr-exporter/releases/tag/v1.0.0) *(2026-04-02)*
@@ -16,8 +18,6 @@
 [lychee-meta-tool v1.1.3](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.1.3) *(2026-03-13)*
 
 [washmon v1.0.1](https://github.com/cdzombak/washmon/releases/tag/v1.0.1) *(2026-02-10)*
-
-[runner v2.11.4](https://github.com/cdzombak/runner/releases/tag/v2.11.4) *(2026-01-27)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />

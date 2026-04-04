@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->499<!-- releases_count ends --> releases across <!-- project_count starts -->94<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->500<!-- releases_count ends --> releases across <!-- project_count starts -->95<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[wx-sta-agg-influx](https://github.com/cdzombak/wx-sta-agg-influx)**: [v1.0.1](https://github.com/cdzombak/wx-sta-agg-influx/releases/tag/v1.0.1) *(2026-04-04; )* 
+<br />Aggregator for wind and rain data stored in InfluxDB
 * **[shop-sonos-noise-control](https://github.com/cdzombak/shop-sonos-noise-control)**: [](https://github.com/cdzombak/shop-sonos-noise-control/releases/tag/v1.2.0) *(2026-04-04; [7 releases total](https://github.com/cdzombak/shop-sonos-noise-control/releases) )* 
 <br />pause Sonos during loud noises, and resume playing afterward
 * **[flickr-exporter](https://github.com/cdzombak/flickr-exporter)**: [v1.0.0](https://github.com/cdzombak/flickr-exporter/releases/tag/v1.0.0) *(2026-04-02; [2 releases total](https://github.com/cdzombak/flickr-exporter/releases) )* 
