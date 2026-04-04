@@ -3,21 +3,7 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
-[flickr-exporter v1.0.0](https://github.com/cdzombak/flickr-exporter/releases/tag/v1.0.0) *(2026-04-02)*
 
-[bandwidther v0.0.3](https://github.com/cdzombak/bandwidther/releases/tag/v0.0.3) *(2026-04-02)*
-
-[mqtt2influxdb v1.0.1](https://github.com/cdzombak/mqtt2influxdb/releases/tag/v1.0.1) *(2026-04-02)*
-
-[lychee-ai-organizer v1.1.3](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.1.3) *(2026-03-13)*
-
-[lychee-meta-tool v1.1.3](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.1.3) *(2026-03-13)*
-
-[washmon v1.0.1](https://github.com/cdzombak/washmon/releases/tag/v1.0.1) *(2026-02-10)*
-
-[runner v2.11.4](https://github.com/cdzombak/runner/releases/tag/v2.11.4) *(2026-01-27)*
-
-[driveway-monitor v1.5.0](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.5.0) *(2026-01-07)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />
