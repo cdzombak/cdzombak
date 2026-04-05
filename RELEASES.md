@@ -4,7 +4,7 @@ Listing <!-- releases_count starts -->503<!-- releases_count ends --> releases a
 
 <!-- recent_releases starts -->
 * **[hosts-timer](https://github.com/cdzombak/hosts-timer)**: [v1.0.0](https://github.com/cdzombak/hosts-timer/releases/tag/v1.0.0) *(2026-04-05; [2 releases total](https://github.com/cdzombak/hosts-timer/releases) )* 
-<br />None
+<br />Block websites on your system with /etc/hosts, and re-enable them on demand for a specified amount of time
 * **[wx-sta-agg-influx](https://github.com/cdzombak/wx-sta-agg-influx)**: [v1.0.2](https://github.com/cdzombak/wx-sta-agg-influx/releases/tag/v1.0.2) *(2026-04-05; [2 releases total](https://github.com/cdzombak/wx-sta-agg-influx/releases) )* 
 <br />Aggregator for wind and rain data stored in InfluxDB
 * **[shop-sonos-noise-control](https://github.com/cdzombak/shop-sonos-noise-control)**: [](https://github.com/cdzombak/shop-sonos-noise-control/releases/tag/v1.2.0) *(2026-04-04; [7 releases total](https://github.com/cdzombak/shop-sonos-noise-control/releases) )* 
