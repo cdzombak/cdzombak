@@ -3,7 +3,9 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
-[wx-sta-agg-influx v1.0.1](https://github.com/cdzombak/wx-sta-agg-influx/releases/tag/v1.0.1) *(2026-04-04)*
+[hosts-timer v1.0.0](https://github.com/cdzombak/hosts-timer/releases/tag/v1.0.0) *(2026-04-05)*
+
+[wx-sta-agg-influx v1.0.2](https://github.com/cdzombak/wx-sta-agg-influx/releases/tag/v1.0.2) *(2026-04-05)*
 
 [shop-sonos-noise-control ](https://github.com/cdzombak/shop-sonos-noise-control/releases/tag/v1.2.0) *(2026-04-04)*
 
@@ -16,8 +18,6 @@
 [lychee-ai-organizer v1.1.3](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.1.3) *(2026-03-13)*
 
 [lychee-meta-tool v1.1.3](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.1.3) *(2026-03-13)*
-
-[washmon v1.0.1](https://github.com/cdzombak/washmon/releases/tag/v1.0.1) *(2026-02-10)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />
