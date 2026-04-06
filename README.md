@@ -3,9 +3,9 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
-[hosts-timer v1.0.0](https://github.com/cdzombak/hosts-timer/releases/tag/v1.0.0) *(2026-04-05)*
+[wx-sta-agg-influx v1.0.3](https://github.com/cdzombak/wx-sta-agg-influx/releases/tag/v1.0.3) *(2026-04-06)*
 
-[wx-sta-agg-influx v1.0.2](https://github.com/cdzombak/wx-sta-agg-influx/releases/tag/v1.0.2) *(2026-04-05)*
+[hosts-timer v1.0.0](https://github.com/cdzombak/hosts-timer/releases/tag/v1.0.0) *(2026-04-05)*
 
 [shop-sonos-noise-control ](https://github.com/cdzombak/shop-sonos-noise-control/releases/tag/v1.2.0) *(2026-04-04)*
 
