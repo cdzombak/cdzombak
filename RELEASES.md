@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->504<!-- releases_count ends --> releases across <!-- project_count starts -->96<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->505<!-- releases_count ends --> releases across <!-- project_count starts -->96<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[gallerygen](https://github.com/cdzombak/gallerygen)**: [v1.0.6](https://github.com/cdzombak/gallerygen/releases/tag/v1.0.6) *(2026-04-07; [11 releases total](https://github.com/cdzombak/gallerygen/releases) )* 
+<br />Generate a static HTML gallery from a directory tree of images
 * **[wx-sta-agg-influx](https://github.com/cdzombak/wx-sta-agg-influx)**: [v1.0.3](https://github.com/cdzombak/wx-sta-agg-influx/releases/tag/v1.0.3) *(2026-04-06; [3 releases total](https://github.com/cdzombak/wx-sta-agg-influx/releases) )* 
 <br />Aggregator for wind and rain data stored in InfluxDB
 * **[hosts-timer](https://github.com/cdzombak/hosts-timer)**: [v1.0.0](https://github.com/cdzombak/hosts-timer/releases/tag/v1.0.0) *(2026-04-05; [2 releases total](https://github.com/cdzombak/hosts-timer/releases) )* 
@@ -115,8 +117,6 @@ Listing <!-- releases_count starts -->504<!-- releases_count ends --> releases a
 <br />Write current weather OpenWeatherMap conditions to InfluxDB or MQTT
 * **[ecobee_influx_connector](https://github.com/cdzombak/ecobee_influx_connector)**: [v1.2.0](https://github.com/cdzombak/ecobee_influx_connector/releases/tag/v1.2.0) *(2025-07-07; [8 releases total](https://github.com/cdzombak/ecobee_influx_connector/releases) )* 
 <br />Ship your Ecobee runtime, sensor and weather data to InfluxDB or MQTT.
-* **[gallerygen](https://github.com/cdzombak/gallerygen)**: [v1.0.5](https://github.com/cdzombak/gallerygen/releases/tag/v1.0.5) *(2025-05-29; [10 releases total](https://github.com/cdzombak/gallerygen/releases) )* 
-<br />Generate a static HTML gallery from a directory tree of images
 * **[NetSpeedMonitor](https://github.com/cdzombak/NetSpeedMonitor)**: [v1.0](https://github.com/cdzombak/NetSpeedMonitor/releases/tag/v1.0.0) *(2025-05-27; )* 
 <br />A minimal menu bar macOS app to monitor network speed
 * **[a2-foia-rss](https://github.com/cdzombak/a2-foia-rss)**: [v1.0.2](https://github.com/cdzombak/a2-foia-rss/releases/tag/v1.0.2) *(2025-02-17; [3 releases total](https://github.com/cdzombak/a2-foia-rss/releases) )* 
