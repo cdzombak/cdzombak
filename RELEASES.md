@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->505<!-- releases_count ends --> releases across <!-- project_count starts -->96<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->507<!-- releases_count ends --> releases across <!-- project_count starts -->96<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[bandwidther](https://github.com/cdzombak/bandwidther)**: [v1.0.0](https://github.com/cdzombak/bandwidther/releases/tag/v1.0.0) *(2026-04-09; [5 releases total](https://github.com/cdzombak/bandwidther/releases) )* 
+<br />SwiftUI menu bar app for monitoring application bandwidth use
 * **[gallerygen](https://github.com/cdzombak/gallerygen)**: [v1.0.6](https://github.com/cdzombak/gallerygen/releases/tag/v1.0.6) *(2026-04-07; [11 releases total](https://github.com/cdzombak/gallerygen/releases) )* 
 <br />Generate a static HTML gallery from a directory tree of images
 * **[wx-sta-agg-influx](https://github.com/cdzombak/wx-sta-agg-influx)**: [v1.0.3](https://github.com/cdzombak/wx-sta-agg-influx/releases/tag/v1.0.3) *(2026-04-06; [3 releases total](https://github.com/cdzombak/wx-sta-agg-influx/releases) )* 
@@ -13,8 +15,6 @@ Listing <!-- releases_count starts -->505<!-- releases_count ends --> releases a
 <br />pause Sonos during loud noises, and resume playing afterward
 * **[flickr-exporter](https://github.com/cdzombak/flickr-exporter)**: [v1.0.0](https://github.com/cdzombak/flickr-exporter/releases/tag/v1.0.0) *(2026-04-02; [2 releases total](https://github.com/cdzombak/flickr-exporter/releases) )* 
 <br />Export all your Flickr photos, or a selected set or collection, preserving title/description/tags and other metadata.
-* **[bandwidther](https://github.com/cdzombak/bandwidther)**: [v0.0.3](https://github.com/cdzombak/bandwidther/releases/tag/v0.0.3) *(2026-04-02; [3 releases total](https://github.com/cdzombak/bandwidther/releases) )* 
-<br />SwiftUI menu bar app for monitoring application bandwidth use
 * **[mqtt2influxdb](https://github.com/cdzombak/mqtt2influxdb)**: [v1.0.1](https://github.com/cdzombak/mqtt2influxdb/releases/tag/v1.0.1) *(2026-04-02; [21 releases total](https://github.com/cdzombak/mqtt2influxdb/releases) )* 
 <br />An opinionated and intentionally scope-limited MQTT to InfluxDB bridge
 * **[lychee-ai-organizer](https://github.com/cdzombak/lychee-ai-organizer)**: [v1.1.3](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.1.3) *(2026-03-13; [8 releases total](https://github.com/cdzombak/lychee-ai-organizer/releases) )* 

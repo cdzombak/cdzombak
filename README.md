@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[bandwidther v1.0.0](https://github.com/cdzombak/bandwidther/releases/tag/v1.0.0) *(2026-04-09)*
+
 [gallerygen v1.0.6](https://github.com/cdzombak/gallerygen/releases/tag/v1.0.6) *(2026-04-07)*
 
 [wx-sta-agg-influx v1.0.3](https://github.com/cdzombak/wx-sta-agg-influx/releases/tag/v1.0.3) *(2026-04-06)*
@@ -12,8 +14,6 @@
 [shop-sonos-noise-control ](https://github.com/cdzombak/shop-sonos-noise-control/releases/tag/v1.2.0) *(2026-04-04)*
 
 [flickr-exporter v1.0.0](https://github.com/cdzombak/flickr-exporter/releases/tag/v1.0.0) *(2026-04-02)*
-
-[bandwidther v0.0.3](https://github.com/cdzombak/bandwidther/releases/tag/v0.0.3) *(2026-04-02)*
 
 [mqtt2influxdb v1.0.1](https://github.com/cdzombak/mqtt2influxdb/releases/tag/v1.0.1) *(2026-04-02)*
 
