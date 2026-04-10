@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[purpleair2mqtt v1.1.0](https://github.com/cdzombak/purpleair2mqtt/releases/tag/v1.1.0) *(2026-04-10)*
+
 [bandwidther v1.0.0](https://github.com/cdzombak/bandwidther/releases/tag/v1.0.0) *(2026-04-09)*
 
 [gallerygen v1.0.6](https://github.com/cdzombak/gallerygen/releases/tag/v1.0.6) *(2026-04-07)*
@@ -16,8 +18,6 @@
 [flickr-exporter v1.0.0](https://github.com/cdzombak/flickr-exporter/releases/tag/v1.0.0) *(2026-04-02)*
 
 [mqtt2influxdb v1.0.1](https://github.com/cdzombak/mqtt2influxdb/releases/tag/v1.0.1) *(2026-04-02)*
-
-[lychee-ai-organizer v1.1.3](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.1.3) *(2026-03-13)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />

@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->507<!-- releases_count ends --> releases across <!-- project_count starts -->96<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->508<!-- releases_count ends --> releases across <!-- project_count starts -->96<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[purpleair2mqtt](https://github.com/cdzombak/purpleair2mqtt)**: [v1.1.0](https://github.com/cdzombak/purpleair2mqtt/releases/tag/v1.1.0) *(2026-04-10; [3 releases total](https://github.com/cdzombak/purpleair2mqtt/releases) )* 
+<br />Pull sensor data from your local PurpleAir sensors - no cloud needed.
 * **[bandwidther](https://github.com/cdzombak/bandwidther)**: [v1.0.0](https://github.com/cdzombak/bandwidther/releases/tag/v1.0.0) *(2026-04-09; [5 releases total](https://github.com/cdzombak/bandwidther/releases) )* 
 <br />SwiftUI menu bar app for monitoring application bandwidth use
 * **[gallerygen](https://github.com/cdzombak/gallerygen)**: [v1.0.6](https://github.com/cdzombak/gallerygen/releases/tag/v1.0.6) *(2026-04-07; [11 releases total](https://github.com/cdzombak/gallerygen/releases) )* 
@@ -39,8 +41,6 @@ Listing <!-- releases_count starts -->507<!-- releases_count ends --> releases a
 <br />Get email reminders when the ideal indoor humidity changes.
 * **[dzsolarized-vscode](https://github.com/cdzombak/dzsolarized-vscode)**: [Release v0.0.18](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.18) *(2025-12-08; [17 releases total](https://github.com/cdzombak/dzsolarized-vscode/releases) )* 
 <br />Solarized variant for VS Code (light + dark modes supported)
-* **[purpleair2mqtt](https://github.com/cdzombak/purpleair2mqtt)**: [v1.0.0](https://github.com/cdzombak/purpleair2mqtt/releases/tag/v1.0.0) *(2025-12-04; [2 releases total](https://github.com/cdzombak/purpleair2mqtt/releases) )* 
-<br />Pull sensor data from your local PurpleAir sensors - no cloud needed.
 * **[ipcam-browser](https://github.com/cdzombak/ipcam-browser)**: [v0.0.2](https://github.com/cdzombak/ipcam-browser/releases/tag/v0.0.2) *(2025-11-26; [2 releases total](https://github.com/cdzombak/ipcam-browser/releases) )* 
 <br />Improved media browser for SD card storage on SV3C/CamHiPro compatible IP webcams
 * **[lychee-bw-tagger](https://github.com/cdzombak/lychee-bw-tagger)**: [v1.0.0](https://github.com/cdzombak/lychee-bw-tagger/releases/tag/v1.0.0) *(2025-11-20; [2 releases total](https://github.com/cdzombak/lychee-bw-tagger/releases) )* 
