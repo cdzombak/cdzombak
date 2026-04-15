@@ -1,16 +1,16 @@
 # Releases
 
-Listing <!-- releases_count starts -->508<!-- releases_count ends --> releases across <!-- project_count starts -->96<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->509<!-- releases_count ends --> releases across <!-- project_count starts -->96<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[wx-sta-agg-influx](https://github.com/cdzombak/wx-sta-agg-influx)**: [v1.0.4](https://github.com/cdzombak/wx-sta-agg-influx/releases/tag/v1.0.4) *(2026-04-15; [4 releases total](https://github.com/cdzombak/wx-sta-agg-influx/releases) )* 
+<br />Aggregator for wind and rain data stored in InfluxDB
 * **[purpleair2mqtt](https://github.com/cdzombak/purpleair2mqtt)**: [v1.1.0](https://github.com/cdzombak/purpleair2mqtt/releases/tag/v1.1.0) *(2026-04-10; [3 releases total](https://github.com/cdzombak/purpleair2mqtt/releases) )* 
 <br />Pull sensor data from your local PurpleAir sensors - no cloud needed.
 * **[bandwidther](https://github.com/cdzombak/bandwidther)**: [v1.0.0](https://github.com/cdzombak/bandwidther/releases/tag/v1.0.0) *(2026-04-09; [5 releases total](https://github.com/cdzombak/bandwidther/releases) )* 
 <br />SwiftUI menu bar app for monitoring application bandwidth use
 * **[gallerygen](https://github.com/cdzombak/gallerygen)**: [v1.0.6](https://github.com/cdzombak/gallerygen/releases/tag/v1.0.6) *(2026-04-07; [11 releases total](https://github.com/cdzombak/gallerygen/releases) )* 
 <br />Generate a static HTML gallery from a directory tree of images
-* **[wx-sta-agg-influx](https://github.com/cdzombak/wx-sta-agg-influx)**: [v1.0.3](https://github.com/cdzombak/wx-sta-agg-influx/releases/tag/v1.0.3) *(2026-04-06; [3 releases total](https://github.com/cdzombak/wx-sta-agg-influx/releases) )* 
-<br />Aggregator for wind and rain data stored in InfluxDB
 * **[hosts-timer](https://github.com/cdzombak/hosts-timer)**: [v1.0.0](https://github.com/cdzombak/hosts-timer/releases/tag/v1.0.0) *(2026-04-05; [2 releases total](https://github.com/cdzombak/hosts-timer/releases) )* 
 <br />Block websites on your system with /etc/hosts, and re-enable them on demand for a specified amount of time
 * **[shop-sonos-noise-control](https://github.com/cdzombak/shop-sonos-noise-control)**: [](https://github.com/cdzombak/shop-sonos-noise-control/releases/tag/v1.2.0) *(2026-04-04; [7 releases total](https://github.com/cdzombak/shop-sonos-noise-control/releases) )* 
