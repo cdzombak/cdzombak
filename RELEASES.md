@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->509<!-- releases_count ends --> releases across <!-- project_count starts -->96<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->510<!-- releases_count ends --> releases across <!-- project_count starts -->96<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[runner](https://github.com/cdzombak/runner)**: [v2.11.5](https://github.com/cdzombak/runner/releases/tag/v2.11.5) *(2026-04-22; [39 releases total](https://github.com/cdzombak/runner/releases) )* 
+<br />Lightweight wrapper for better cron jobs and containers
 * **[wx-sta-agg-influx](https://github.com/cdzombak/wx-sta-agg-influx)**: [v1.0.4](https://github.com/cdzombak/wx-sta-agg-influx/releases/tag/v1.0.4) *(2026-04-15; [4 releases total](https://github.com/cdzombak/wx-sta-agg-influx/releases) )* 
 <br />Aggregator for wind and rain data stored in InfluxDB
 * **[purpleair2mqtt](https://github.com/cdzombak/purpleair2mqtt)**: [v1.1.0](https://github.com/cdzombak/purpleair2mqtt/releases/tag/v1.1.0) *(2026-04-10; [3 releases total](https://github.com/cdzombak/purpleair2mqtt/releases) )* 
@@ -25,8 +27,6 @@ Listing <!-- releases_count starts -->509<!-- releases_count ends --> releases a
 <br />Quickly find & edit untitled photos in your Lychee photo library
 * **[washmon](https://github.com/cdzombak/washmon)**: [v1.0.1](https://github.com/cdzombak/washmon/releases/tag/v1.0.1) *(2026-02-10; [5 releases total](https://github.com/cdzombak/washmon/releases) )* 
 <br />washmon figures out when your laundry is done and reminds you periodically until you affirm that you've emptied the machine
-* **[runner](https://github.com/cdzombak/runner)**: [v2.11.4](https://github.com/cdzombak/runner/releases/tag/v2.11.4) *(2026-01-27; [38 releases total](https://github.com/cdzombak/runner/releases) )* 
-<br />Lightweight wrapper for better cron jobs and containers
 * **[driveway-monitor](https://github.com/cdzombak/driveway-monitor)**: [v1.5.0](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.5.0) *(2026-01-07; [24 releases total](https://github.com/cdzombak/driveway-monitor/releases) )* 
 <br />Receive customizable, AI-powered notifications when someone arrives in your driveway.
 * **[ipcam-bird-detection](https://github.com/cdzombak/ipcam-bird-detection)**: [v0.0.1](https://github.com/cdzombak/ipcam-bird-detection/releases/tag/v0.0.1) *(2025-12-28; )* 
