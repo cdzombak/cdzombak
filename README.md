@@ -3,13 +3,13 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[bandwidther v1.0.1](https://github.com/cdzombak/bandwidther/releases/tag/v1.0.1) *(2026-04-23)*
+
 [runner v2.11.5](https://github.com/cdzombak/runner/releases/tag/v2.11.5) *(2026-04-22)*
 
 [wx-sta-agg-influx v1.0.4](https://github.com/cdzombak/wx-sta-agg-influx/releases/tag/v1.0.4) *(2026-04-15)*
 
 [purpleair2mqtt v1.1.0](https://github.com/cdzombak/purpleair2mqtt/releases/tag/v1.1.0) *(2026-04-10)*
-
-[bandwidther v1.0.0](https://github.com/cdzombak/bandwidther/releases/tag/v1.0.0) *(2026-04-09)*
 
 [gallerygen v1.0.6](https://github.com/cdzombak/gallerygen/releases/tag/v1.0.6) *(2026-04-07)*
 
