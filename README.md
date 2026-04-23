@@ -3,9 +3,9 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
-[bandwidther v1.0.1](https://github.com/cdzombak/bandwidther/releases/tag/v1.0.1) *(2026-04-23)*
+[runner v2.11.6](https://github.com/cdzombak/runner/releases/tag/v2.11.6) *(2026-04-23)*
 
-[runner v2.11.5](https://github.com/cdzombak/runner/releases/tag/v2.11.5) *(2026-04-22)*
+[bandwidther v1.0.1](https://github.com/cdzombak/bandwidther/releases/tag/v1.0.1) *(2026-04-23)*
 
 [wx-sta-agg-influx v1.0.4](https://github.com/cdzombak/wx-sta-agg-influx/releases/tag/v1.0.4) *(2026-04-15)*
 

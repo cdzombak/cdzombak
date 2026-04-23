@@ -1,12 +1,12 @@
 # Releases
 
-Listing <!-- releases_count starts -->511<!-- releases_count ends --> releases across <!-- project_count starts -->96<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->512<!-- releases_count ends --> releases across <!-- project_count starts -->96<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[runner](https://github.com/cdzombak/runner)**: [v2.11.6](https://github.com/cdzombak/runner/releases/tag/v2.11.6) *(2026-04-23; [40 releases total](https://github.com/cdzombak/runner/releases) )* 
+<br />Lightweight wrapper for better cron jobs and containers
 * **[bandwidther](https://github.com/cdzombak/bandwidther)**: [v1.0.1](https://github.com/cdzombak/bandwidther/releases/tag/v1.0.1) *(2026-04-23; [6 releases total](https://github.com/cdzombak/bandwidther/releases) )* 
 <br />SwiftUI menu bar app for monitoring application bandwidth use
-* **[runner](https://github.com/cdzombak/runner)**: [v2.11.5](https://github.com/cdzombak/runner/releases/tag/v2.11.5) *(2026-04-22; [39 releases total](https://github.com/cdzombak/runner/releases) )* 
-<br />Lightweight wrapper for better cron jobs and containers
 * **[wx-sta-agg-influx](https://github.com/cdzombak/wx-sta-agg-influx)**: [v1.0.4](https://github.com/cdzombak/wx-sta-agg-influx/releases/tag/v1.0.4) *(2026-04-15; [4 releases total](https://github.com/cdzombak/wx-sta-agg-influx/releases) )* 
 <br />Aggregator for wind and rain data stored in InfluxDB
 * **[purpleair2mqtt](https://github.com/cdzombak/purpleair2mqtt)**: [v1.1.0](https://github.com/cdzombak/purpleair2mqtt/releases/tag/v1.1.0) *(2026-04-10; [3 releases total](https://github.com/cdzombak/purpleair2mqtt/releases) )* 
