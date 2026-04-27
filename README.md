@@ -27,6 +27,8 @@
 ### Recently Blogged
 
 <!-- blog starts -->
+[A vLLM Docker Compose recipe for running Qwen 3.6 27B on dual RTX 3090s (+OpenCode configuration)](https://www.dzombak.com/blog/2026/04/a-vllm-docker-compose-recipe-for-running-qwen-3-6-27b-on-dual-rtx-3090s-opencode-configuration/) *(27 Apr 2026)*
+
 [eztag: GitHub Tag Creator](https://www.dzombak.com/blog/2026/04/eztag-github-tag-creator/) *(10 Apr 2026)*
 
 [Linux Desktop Amenities](https://www.dzombak.com/blog/2026/03/linux-desktop-amenities/) *(23 Mar 2026)*
@@ -36,8 +38,6 @@
 [Birds of Sanibel Island](https://www.dzombak.com/blog/2026/02/birds-of-sanibel-island/) *(02 Feb 2026)*
 
 ["Why Does Test-Driven Development Work So Well In 'AI'-assisted Programming?"](https://www.dzombak.com/blog/2026/01/why-does-test-driven-development-work-so-well-in-ai-assisted-programming/) *(09 Jan 2026)*
-
-[A pipeline for getting bird videos from an IP webcam](https://www.dzombak.com/blog/2026/01/a-pipeline-for-getting-bird-videos-from-an-ip-webcam/) *(08 Jan 2026)*
 <!-- blog ends -->
 🌐 **More on [dzombak.com](https://www.dzombak.com/blog)**
 <br />
