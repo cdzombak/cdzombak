@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->513<!-- releases_count ends --> releases across <!-- project_count starts -->96<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->514<!-- releases_count ends --> releases across <!-- project_count starts -->96<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[eztag](https://github.com/cdzombak/eztag)**: [v1.0.0](https://github.com/cdzombak/eztag/releases/tag/v1.0.0) *(2026-05-01; [4 releases total](https://github.com/cdzombak/eztag/releases) )* 
+<br />Quickly & easily create tags in your GitHub repositories
 * **[ghfeed](https://github.com/cdzombak/ghfeed)**: [v1.4.4](https://github.com/cdzombak/ghfeed/releases/tag/v1.4.4) *(2026-05-01; [11 releases total](https://github.com/cdzombak/ghfeed/releases) )* 
 <br />GitHub activity feed consolidator
 * **[runner](https://github.com/cdzombak/runner)**: [v2.11.6](https://github.com/cdzombak/runner/releases/tag/v2.11.6) *(2026-04-23; [40 releases total](https://github.com/cdzombak/runner/releases) )* 
@@ -65,8 +67,6 @@ Listing <!-- releases_count starts -->513<!-- releases_count ends --> releases a
 <br />Date/time parsing on the CLI
 * **[image-analyzer-go](https://github.com/cdzombak/image-analyzer-go)**: [v0.0.1](https://github.com/cdzombak/image-analyzer-go/releases/tag/v0.0.1) *(2025-09-30; )* 
 <br />Photo/image analysis functions for Golang
-* **[eztag](https://github.com/cdzombak/eztag)**: [v0.0.3](https://github.com/cdzombak/eztag/releases/tag/v0.0.3) *(2025-09-26; [3 releases total](https://github.com/cdzombak/eztag/releases) )* 
-<br />Quickly & easily create tags in your GitHub repositories
 * **[bt-env-mqtt](https://github.com/cdzombak/bt-env-mqtt)**: [v0.0.2](https://github.com/cdzombak/bt-env-mqtt/releases/tag/v0.0.2) *(2025-09-25; [2 releases total](https://github.com/cdzombak/bt-env-mqtt/releases) )* 
 <br />macOS tool that publishes details about nearby Bluetooth devices to MQTT
 * **[aclaude](https://github.com/cdzombak/aclaude)**: [v1.0.2](https://github.com/cdzombak/aclaude/releases/tag/v1.0.2) *(2025-09-23; [4 releases total](https://github.com/cdzombak/aclaude/releases) )* 
