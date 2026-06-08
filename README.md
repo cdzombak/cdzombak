@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[ipcam-browser v0.0.3](https://github.com/cdzombak/ipcam-browser/releases/tag/v0.0.3) *(2026-06-08)*
+
 [eztag v1.0.0](https://github.com/cdzombak/eztag/releases/tag/v1.0.0) *(2026-05-01)*
 
 [ghfeed v1.4.4](https://github.com/cdzombak/ghfeed/releases/tag/v1.4.4) *(2026-05-01)*
@@ -16,8 +18,6 @@
 [purpleair2mqtt v1.1.0](https://github.com/cdzombak/purpleair2mqtt/releases/tag/v1.1.0) *(2026-04-10)*
 
 [gallerygen v1.0.6](https://github.com/cdzombak/gallerygen/releases/tag/v1.0.6) *(2026-04-07)*
-
-[hosts-timer v1.0.0](https://github.com/cdzombak/hosts-timer/releases/tag/v1.0.0) *(2026-04-05)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />

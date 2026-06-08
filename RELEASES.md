@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->514<!-- releases_count ends --> releases across <!-- project_count starts -->96<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->515<!-- releases_count ends --> releases across <!-- project_count starts -->96<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[ipcam-browser](https://github.com/cdzombak/ipcam-browser)**: [v0.0.3](https://github.com/cdzombak/ipcam-browser/releases/tag/v0.0.3) *(2026-06-08; [3 releases total](https://github.com/cdzombak/ipcam-browser/releases) )* 
+<br />Improved media browser for SD card storage on SV3C/CamHiPro compatible IP webcams
 * **[eztag](https://github.com/cdzombak/eztag)**: [v1.0.0](https://github.com/cdzombak/eztag/releases/tag/v1.0.0) *(2026-05-01; [4 releases total](https://github.com/cdzombak/eztag/releases) )* 
 <br />Quickly & easily create tags in your GitHub repositories
 * **[ghfeed](https://github.com/cdzombak/ghfeed)**: [v1.4.4](https://github.com/cdzombak/ghfeed/releases/tag/v1.4.4) *(2026-05-01; [11 releases total](https://github.com/cdzombak/ghfeed/releases) )* 
@@ -45,8 +47,6 @@ Listing <!-- releases_count starts -->514<!-- releases_count ends --> releases a
 <br />Get email reminders when the ideal indoor humidity changes.
 * **[dzsolarized-vscode](https://github.com/cdzombak/dzsolarized-vscode)**: [Release v0.0.18](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.18) *(2025-12-08; [17 releases total](https://github.com/cdzombak/dzsolarized-vscode/releases) )* 
 <br />Solarized variant for VS Code (light + dark modes supported)
-* **[ipcam-browser](https://github.com/cdzombak/ipcam-browser)**: [v0.0.2](https://github.com/cdzombak/ipcam-browser/releases/tag/v0.0.2) *(2025-11-26; [2 releases total](https://github.com/cdzombak/ipcam-browser/releases) )* 
-<br />Improved media browser for SD card storage on SV3C/CamHiPro compatible IP webcams
 * **[lychee-bw-tagger](https://github.com/cdzombak/lychee-bw-tagger)**: [v1.0.0](https://github.com/cdzombak/lychee-bw-tagger/releases/tag/v1.0.0) *(2025-11-20; [2 releases total](https://github.com/cdzombak/lychee-bw-tagger/releases) )* 
 <br />Tag the black & white photos in your Lychee photo library
 * **[trailcamai](https://github.com/cdzombak/trailcamai)**: [v1.1.0](https://github.com/cdzombak/trailcamai/releases/tag/v1.1.0) *(2025-11-17; [3 releases total](https://github.com/cdzombak/trailcamai/releases) )* 
