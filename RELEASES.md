@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->515<!-- releases_count ends --> releases across <!-- project_count starts -->96<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->516<!-- releases_count ends --> releases across <!-- project_count starts -->96<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[restic-deb](https://github.com/cdzombak/restic-deb)**: [v0.19.0](https://github.com/cdzombak/restic-deb/releases/tag/v0.19.0) *(2026-06-10; [13 releases total](https://github.com/cdzombak/restic-deb/releases) )* 
+<br />Automatic builds of Debian packages for the Restic backup program
 * **[ipcam-browser](https://github.com/cdzombak/ipcam-browser)**: [v0.0.3](https://github.com/cdzombak/ipcam-browser/releases/tag/v0.0.3) *(2026-06-08; [3 releases total](https://github.com/cdzombak/ipcam-browser/releases) )* 
 <br />Improved media browser for SD card storage on SV3C/CamHiPro compatible IP webcams
 * **[eztag](https://github.com/cdzombak/eztag)**: [v1.0.0](https://github.com/cdzombak/eztag/releases/tag/v1.0.0) *(2026-05-01; [4 releases total](https://github.com/cdzombak/eztag/releases) )* 
@@ -75,8 +77,6 @@ Listing <!-- releases_count starts -->515<!-- releases_count ends --> releases a
 <br />A portable command line interface for fetching METARs
 * **[mqtt2ntfy](https://github.com/cdzombak/mqtt2ntfy)**: [v0.0.1](https://github.com/cdzombak/mqtt2ntfy/releases/tag/v0.0.1) *(2025-09-22; )* 
 <br />mqtt to Ntfy bridge
-* **[restic-deb](https://github.com/cdzombak/restic-deb)**: [v0.18.1](https://github.com/cdzombak/restic-deb/releases/tag/v0.18.1) *(2025-09-22; [12 releases total](https://github.com/cdzombak/restic-deb/releases) )* 
-<br />Automatic builds of Debian packages for the Restic backup program
 * **[exitcode_py](https://github.com/cdzombak/exitcode_py)**: [v0.0.2](https://github.com/cdzombak/exitcode_py/releases/tag/v0.0.2) *(2025-09-19; [2 releases total](https://github.com/cdzombak/exitcode_py/releases) )* 
 <br />Codegenerated Python constants for libc, LSB, BSD, and systemd exit codes
 * **[exitcode_go](https://github.com/cdzombak/exitcode_go)**: [v0.0.2](https://github.com/cdzombak/exitcode_go/releases/tag/v0.0.2) *(2025-09-19; [2 releases total](https://github.com/cdzombak/exitcode_go/releases) )* 
