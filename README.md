@@ -3,7 +3,7 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
-[restic-deb v0.19.0](https://github.com/cdzombak/restic-deb/releases/tag/v0.19.0) *(2026-06-10)*
+[restic-deb v0.19.1](https://github.com/cdzombak/restic-deb/releases/tag/v0.19.1) *(2026-07-06)*
 
 [ipcam-browser v0.0.3](https://github.com/cdzombak/ipcam-browser/releases/tag/v0.0.3) *(2026-06-08)*
 

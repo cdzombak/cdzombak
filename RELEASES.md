@@ -1,9 +1,9 @@
 # Releases
 
-Listing <!-- releases_count starts -->516<!-- releases_count ends --> releases across <!-- project_count starts -->96<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->517<!-- releases_count ends --> releases across <!-- project_count starts -->96<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
-* **[restic-deb](https://github.com/cdzombak/restic-deb)**: [v0.19.0](https://github.com/cdzombak/restic-deb/releases/tag/v0.19.0) *(2026-06-10; [13 releases total](https://github.com/cdzombak/restic-deb/releases) )* 
+* **[restic-deb](https://github.com/cdzombak/restic-deb)**: [v0.19.1](https://github.com/cdzombak/restic-deb/releases/tag/v0.19.1) *(2026-07-06; [14 releases total](https://github.com/cdzombak/restic-deb/releases) )* 
 <br />Automatic builds of Debian packages for the Restic backup program
 * **[ipcam-browser](https://github.com/cdzombak/ipcam-browser)**: [v0.0.3](https://github.com/cdzombak/ipcam-browser/releases/tag/v0.0.3) *(2026-06-08; [3 releases total](https://github.com/cdzombak/ipcam-browser/releases) )* 
 <br />Improved media browser for SD card storage on SV3C/CamHiPro compatible IP webcams
