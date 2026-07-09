@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[ytdlbot v1.0.6](https://github.com/cdzombak/ytdlbot/releases/tag/v1.0.6) *(2026-07-09)*
+
 [restic-deb v0.19.1](https://github.com/cdzombak/restic-deb/releases/tag/v0.19.1) *(2026-07-06)*
 
 [ipcam-browser v0.0.3](https://github.com/cdzombak/ipcam-browser/releases/tag/v0.0.3) *(2026-06-08)*
@@ -16,8 +18,6 @@
 [bandwidther v1.0.1](https://github.com/cdzombak/bandwidther/releases/tag/v1.0.1) *(2026-04-23)*
 
 [wx-sta-agg-influx v1.0.4](https://github.com/cdzombak/wx-sta-agg-influx/releases/tag/v1.0.4) *(2026-04-15)*
-
-[purpleair2mqtt v1.1.0](https://github.com/cdzombak/purpleair2mqtt/releases/tag/v1.1.0) *(2026-04-10)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />

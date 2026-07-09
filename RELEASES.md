@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->517<!-- releases_count ends --> releases across <!-- project_count starts -->96<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->518<!-- releases_count ends --> releases across <!-- project_count starts -->96<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[ytdlbot](https://github.com/cdzombak/ytdlbot)**: [v1.0.6](https://github.com/cdzombak/ytdlbot/releases/tag/v1.0.6) *(2026-07-09; [11 releases total](https://github.com/cdzombak/ytdlbot/releases) )* 
+<br />A tool for collecting videos from YouTube & similar sites
 * **[restic-deb](https://github.com/cdzombak/restic-deb)**: [v0.19.1](https://github.com/cdzombak/restic-deb/releases/tag/v0.19.1) *(2026-07-06; [14 releases total](https://github.com/cdzombak/restic-deb/releases) )* 
 <br />Automatic builds of Debian packages for the Restic backup program
 * **[ipcam-browser](https://github.com/cdzombak/ipcam-browser)**: [v0.0.3](https://github.com/cdzombak/ipcam-browser/releases/tag/v0.0.3) *(2026-06-08; [3 releases total](https://github.com/cdzombak/ipcam-browser/releases) )* 
@@ -97,8 +99,6 @@ Listing <!-- releases_count starts -->517<!-- releases_count ends --> releases a
 <br />Ship energy usage data & UPS stats from Network-UPS-Tools to InfluxDB/MQTT
 * **[feedfilter](https://github.com/cdzombak/feedfilter)**: [v1.1.0](https://github.com/cdzombak/feedfilter/releases/tag/v1.1.0) *(2025-08-21; [3 releases total](https://github.com/cdzombak/feedfilter/releases) )* 
 <br />RSS feed filtering tool
-* **[ytdlbot](https://github.com/cdzombak/ytdlbot)**: [v1.0.5](https://github.com/cdzombak/ytdlbot/releases/tag/v1.0.5) *(2025-08-21; [10 releases total](https://github.com/cdzombak/ytdlbot/releases) )* 
-<br />A tool for collecting videos from YouTube & similar sites
 * **[xrp](https://github.com/cdzombak/xrp)**: [v0.0.1-beta.8](https://github.com/cdzombak/xrp/releases/tag/v0.0.1-beta.8) *(2025-08-09; [4 releases total](https://github.com/cdzombak/xrp/releases) )* 
 <br />HTML/XML aware reverse proxy
 * **[nginx_ensite](https://github.com/cdzombak/nginx_ensite)**: [v1.1.0](https://github.com/cdzombak/nginx_ensite/releases/tag/v1.1.0) *(2025-08-07; [2 releases total](https://github.com/cdzombak/nginx_ensite/releases) )* 
