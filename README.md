@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[ipcam-browser v1.0.0](https://github.com/cdzombak/ipcam-browser/releases/tag/v1.0.0) *(2026-07-09)*
+
 [openweather-influxdb-connector v1.5.0](https://github.com/cdzombak/openweather-influxdb-connector/releases/tag/v1.5.0) *(2026-07-09)*
 
 [libwx v1.5.0](https://github.com/cdzombak/libwx/releases/tag/v1.5.0) *(2026-07-09)*
@@ -10,8 +12,6 @@
 [ytdlbot v1.0.6](https://github.com/cdzombak/ytdlbot/releases/tag/v1.0.6) *(2026-07-09)*
 
 [restic-deb v0.19.1](https://github.com/cdzombak/restic-deb/releases/tag/v0.19.1) *(2026-07-06)*
-
-[ipcam-browser v0.0.3](https://github.com/cdzombak/ipcam-browser/releases/tag/v0.0.3) *(2026-06-08)*
 
 [eztag v1.0.0](https://github.com/cdzombak/eztag/releases/tag/v1.0.0) *(2026-05-01)*
 

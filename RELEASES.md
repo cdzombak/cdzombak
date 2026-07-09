@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->522<!-- releases_count ends --> releases across <!-- project_count starts -->96<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->524<!-- releases_count ends --> releases across <!-- project_count starts -->96<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[ipcam-browser](https://github.com/cdzombak/ipcam-browser)**: [v1.0.0](https://github.com/cdzombak/ipcam-browser/releases/tag/v1.0.0) *(2026-07-09; [5 releases total](https://github.com/cdzombak/ipcam-browser/releases) )* 
+<br />Improved media browser for SD card storage on SV3C/CamHiPro compatible IP webcams
 * **[openweather-influxdb-connector](https://github.com/cdzombak/openweather-influxdb-connector)**: [v1.5.0](https://github.com/cdzombak/openweather-influxdb-connector/releases/tag/v1.5.0) *(2026-07-09; [14 releases total](https://github.com/cdzombak/openweather-influxdb-connector/releases) )* 
 <br />Write current weather OpenWeatherMap conditions to InfluxDB or MQTT
 * **[libwx](https://github.com/cdzombak/libwx)**: [v1.5.0](https://github.com/cdzombak/libwx/releases/tag/v1.5.0) *(2026-07-09; [8 releases total](https://github.com/cdzombak/libwx/releases) )* 
@@ -11,8 +13,6 @@ Listing <!-- releases_count starts -->522<!-- releases_count ends --> releases a
 <br />A tool for collecting videos from YouTube & similar sites
 * **[restic-deb](https://github.com/cdzombak/restic-deb)**: [v0.19.1](https://github.com/cdzombak/restic-deb/releases/tag/v0.19.1) *(2026-07-06; [14 releases total](https://github.com/cdzombak/restic-deb/releases) )* 
 <br />Automatic builds of Debian packages for the Restic backup program
-* **[ipcam-browser](https://github.com/cdzombak/ipcam-browser)**: [v0.0.3](https://github.com/cdzombak/ipcam-browser/releases/tag/v0.0.3) *(2026-06-08; [3 releases total](https://github.com/cdzombak/ipcam-browser/releases) )* 
-<br />Improved media browser for SD card storage on SV3C/CamHiPro compatible IP webcams
 * **[eztag](https://github.com/cdzombak/eztag)**: [v1.0.0](https://github.com/cdzombak/eztag/releases/tag/v1.0.0) *(2026-05-01; [4 releases total](https://github.com/cdzombak/eztag/releases) )* 
 <br />Quickly & easily create tags in your GitHub repositories
 * **[ghfeed](https://github.com/cdzombak/ghfeed)**: [v1.4.4](https://github.com/cdzombak/ghfeed/releases/tag/v1.4.4) *(2026-05-01; [11 releases total](https://github.com/cdzombak/ghfeed/releases) )* 
