@@ -1,8 +1,12 @@
 # Releases
 
-Listing <!-- releases_count starts -->518<!-- releases_count ends --> releases across <!-- project_count starts -->96<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->522<!-- releases_count ends --> releases across <!-- project_count starts -->96<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[openweather-influxdb-connector](https://github.com/cdzombak/openweather-influxdb-connector)**: [v1.5.0](https://github.com/cdzombak/openweather-influxdb-connector/releases/tag/v1.5.0) *(2026-07-09; [14 releases total](https://github.com/cdzombak/openweather-influxdb-connector/releases) )* 
+<br />Write current weather OpenWeatherMap conditions to InfluxDB or MQTT
+* **[libwx](https://github.com/cdzombak/libwx)**: [v1.5.0](https://github.com/cdzombak/libwx/releases/tag/v1.5.0) *(2026-07-09; [8 releases total](https://github.com/cdzombak/libwx/releases) )* 
+<br />Weather-related types and calculations for Golang
 * **[ytdlbot](https://github.com/cdzombak/ytdlbot)**: [v1.0.6](https://github.com/cdzombak/ytdlbot/releases/tag/v1.0.6) *(2026-07-09; [11 releases total](https://github.com/cdzombak/ytdlbot/releases) )* 
 <br />A tool for collecting videos from YouTube & similar sites
 * **[restic-deb](https://github.com/cdzombak/restic-deb)**: [v0.19.1](https://github.com/cdzombak/restic-deb/releases/tag/v0.19.1) *(2026-07-06; [14 releases total](https://github.com/cdzombak/restic-deb/releases) )* 
@@ -113,8 +117,6 @@ Listing <!-- releases_count starts -->518<!-- releases_count ends --> releases a
 <br />Write status of Midea dehumidifers to InfluxDB/MQTT
 * **[an4mon](https://github.com/cdzombak/an4mon)**: [v1.2.0](https://github.com/cdzombak/an4mon/releases/tag/v1.2.0) *(2025-07-20; [8 releases total](https://github.com/cdzombak/an4mon/releases) )* 
 <br />CO2 level notifications + MQTT and InfluxDB logging for Aranet4 sensors
-* **[openweather-influxdb-connector](https://github.com/cdzombak/openweather-influxdb-connector)**: [v1.4.1](https://github.com/cdzombak/openweather-influxdb-connector/releases/tag/v1.4.1) *(2025-07-07; [13 releases total](https://github.com/cdzombak/openweather-influxdb-connector/releases) )* 
-<br />Write current weather OpenWeatherMap conditions to InfluxDB or MQTT
 * **[ecobee_influx_connector](https://github.com/cdzombak/ecobee_influx_connector)**: [v1.2.0](https://github.com/cdzombak/ecobee_influx_connector/releases/tag/v1.2.0) *(2025-07-07; [8 releases total](https://github.com/cdzombak/ecobee_influx_connector/releases) )* 
 <br />Ship your Ecobee runtime, sensor and weather data to InfluxDB or MQTT.
 * **[NetSpeedMonitor](https://github.com/cdzombak/NetSpeedMonitor)**: [v1.0](https://github.com/cdzombak/NetSpeedMonitor/releases/tag/v1.0.0) *(2025-05-27; )* 
@@ -125,8 +127,6 @@ Listing <!-- releases_count starts -->518<!-- releases_count ends --> releases a
 <br />Copy DNS records from DigitalOcean to Name.com
 * **[dns-do-to-porkbun](https://github.com/cdzombak/dns-do-to-porkbun)**: [v1.0.0: Initial Release](https://github.com/cdzombak/dns-do-to-porkbun/releases/tag/v1.0.0) *(2025-01-21; )* 
 <br />Copy DNS records from DigitalOcean to Porkbun
-* **[libwx](https://github.com/cdzombak/libwx)**: [](https://github.com/cdzombak/libwx/releases/tag/v1.3.0) *(2025-01-13; [5 releases total](https://github.com/cdzombak/libwx/releases) )* 
-<br />Weather-related types and calculations for Golang
 * **[xtool](https://github.com/cdzombak/xtool)**: [v1.0.1](https://github.com/cdzombak/xtool/releases/tag/v1.0.1) *(2024-10-18; [4 releases total](https://github.com/cdzombak/xtool/releases) )* 
 <br />A photography workflow helper, mainly focused on EXIF operations.
 * **[macos-ups-mqtt-connector](https://github.com/cdzombak/macos-ups-mqtt-connector)**: [v0.0.4](https://github.com/cdzombak/macos-ups-mqtt-connector/releases/tag/v0.0.4) *(2024-10-09; [5 releases total](https://github.com/cdzombak/macos-ups-mqtt-connector/releases) )* 

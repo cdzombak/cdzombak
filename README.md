@@ -3,6 +3,10 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[openweather-influxdb-connector v1.5.0](https://github.com/cdzombak/openweather-influxdb-connector/releases/tag/v1.5.0) *(2026-07-09)*
+
+[libwx v1.5.0](https://github.com/cdzombak/libwx/releases/tag/v1.5.0) *(2026-07-09)*
+
 [ytdlbot v1.0.6](https://github.com/cdzombak/ytdlbot/releases/tag/v1.0.6) *(2026-07-09)*
 
 [restic-deb v0.19.1](https://github.com/cdzombak/restic-deb/releases/tag/v0.19.1) *(2026-07-06)*
@@ -14,10 +18,6 @@
 [ghfeed v1.4.4](https://github.com/cdzombak/ghfeed/releases/tag/v1.4.4) *(2026-05-01)*
 
 [runner v2.11.6](https://github.com/cdzombak/runner/releases/tag/v2.11.6) *(2026-04-23)*
-
-[bandwidther v1.0.1](https://github.com/cdzombak/bandwidther/releases/tag/v1.0.1) *(2026-04-23)*
-
-[wx-sta-agg-influx v1.0.4](https://github.com/cdzombak/wx-sta-agg-influx/releases/tag/v1.0.4) *(2026-04-15)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />
