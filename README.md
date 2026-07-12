@@ -3,7 +3,7 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
-[ipcam-browser v1.0.0](https://github.com/cdzombak/ipcam-browser/releases/tag/v1.0.0) *(2026-07-09)*
+[ipcam-browser v1.1.0](https://github.com/cdzombak/ipcam-browser/releases/tag/v1.1.0) *(2026-07-12)*
 
 [openweather-influxdb-connector v1.5.0](https://github.com/cdzombak/openweather-influxdb-connector/releases/tag/v1.5.0) *(2026-07-09)*
 

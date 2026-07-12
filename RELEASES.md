@@ -1,9 +1,9 @@
 # Releases
 
-Listing <!-- releases_count starts -->524<!-- releases_count ends --> releases across <!-- project_count starts -->96<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->525<!-- releases_count ends --> releases across <!-- project_count starts -->96<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
-* **[ipcam-browser](https://github.com/cdzombak/ipcam-browser)**: [v1.0.0](https://github.com/cdzombak/ipcam-browser/releases/tag/v1.0.0) *(2026-07-09; [5 releases total](https://github.com/cdzombak/ipcam-browser/releases) )* 
+* **[ipcam-browser](https://github.com/cdzombak/ipcam-browser)**: [v1.1.0](https://github.com/cdzombak/ipcam-browser/releases/tag/v1.1.0) *(2026-07-12; [6 releases total](https://github.com/cdzombak/ipcam-browser/releases) )* 
 <br />Improved media browser for SD card storage on SV3C/CamHiPro compatible IP webcams
 * **[openweather-influxdb-connector](https://github.com/cdzombak/openweather-influxdb-connector)**: [v1.5.0](https://github.com/cdzombak/openweather-influxdb-connector/releases/tag/v1.5.0) *(2026-07-09; [14 releases total](https://github.com/cdzombak/openweather-influxdb-connector/releases) )* 
 <br />Write current weather OpenWeatherMap conditions to InfluxDB or MQTT
