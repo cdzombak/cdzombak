@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[raindrop-public-rss-feed v0.0.1](https://github.com/cdzombak/raindrop-public-rss-feed/releases/tag/v0.0.1) *(2026-07-23)*
+
 [ipcam-browser v1.1.0](https://github.com/cdzombak/ipcam-browser/releases/tag/v1.1.0) *(2026-07-12)*
 
 [openweather-influxdb-connector v1.5.0](https://github.com/cdzombak/openweather-influxdb-connector/releases/tag/v1.5.0) *(2026-07-09)*
@@ -16,8 +18,6 @@
 [eztag v1.0.0](https://github.com/cdzombak/eztag/releases/tag/v1.0.0) *(2026-05-01)*
 
 [ghfeed v1.4.4](https://github.com/cdzombak/ghfeed/releases/tag/v1.4.4) *(2026-05-01)*
-
-[runner v2.11.6](https://github.com/cdzombak/runner/releases/tag/v2.11.6) *(2026-04-23)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />

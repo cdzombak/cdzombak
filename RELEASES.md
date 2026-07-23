@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->525<!-- releases_count ends --> releases across <!-- project_count starts -->96<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->526<!-- releases_count ends --> releases across <!-- project_count starts -->97<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[raindrop-public-rss-feed](https://github.com/cdzombak/raindrop-public-rss-feed)**: [v0.0.1](https://github.com/cdzombak/raindrop-public-rss-feed/releases/tag/v0.0.1) *(2026-07-23; )* 
+<br />Generate a public RSS, Atom, or JSON feed from your Raindrop.io bookmarks tagged _public
 * **[ipcam-browser](https://github.com/cdzombak/ipcam-browser)**: [v1.1.0](https://github.com/cdzombak/ipcam-browser/releases/tag/v1.1.0) *(2026-07-12; [6 releases total](https://github.com/cdzombak/ipcam-browser/releases) )* 
 <br />Improved media browser for SD card storage on SV3C/CamHiPro compatible IP webcams
 * **[openweather-influxdb-connector](https://github.com/cdzombak/openweather-influxdb-connector)**: [v1.5.0](https://github.com/cdzombak/openweather-influxdb-connector/releases/tag/v1.5.0) *(2026-07-09; [14 releases total](https://github.com/cdzombak/openweather-influxdb-connector/releases) )* 
