@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[msync v0.7.0](https://github.com/cdzombak/msync/releases/tag/v0.7.0) *(2026-07-24)*
+
 [raindrop-public-rss-feed v0.0.1](https://github.com/cdzombak/raindrop-public-rss-feed/releases/tag/v0.0.1) *(2026-07-23)*
 
 [ipcam-browser v1.1.0](https://github.com/cdzombak/ipcam-browser/releases/tag/v1.1.0) *(2026-07-12)*
@@ -16,8 +18,6 @@
 [restic-deb v0.19.1](https://github.com/cdzombak/restic-deb/releases/tag/v0.19.1) *(2026-07-06)*
 
 [eztag v1.0.0](https://github.com/cdzombak/eztag/releases/tag/v1.0.0) *(2026-05-01)*
-
-[ghfeed v1.4.4](https://github.com/cdzombak/ghfeed/releases/tag/v1.4.4) *(2026-05-01)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />
