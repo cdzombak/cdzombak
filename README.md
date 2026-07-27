@@ -3,7 +3,7 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
-[ebird-rss v0.0.1](https://github.com/cdzombak/ebird-rss/releases/tag/v0.0.1) *(2026-07-24)*
+[ebird-rss v0.0.2](https://github.com/cdzombak/ebird-rss/releases/tag/v0.0.2) *(2026-07-27)*
 
 [msync v0.7.0](https://github.com/cdzombak/msync/releases/tag/v0.7.0) *(2026-07-24)*
 

@@ -1,9 +1,9 @@
 # Releases
 
-Listing <!-- releases_count starts -->528<!-- releases_count ends --> releases across <!-- project_count starts -->99<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->529<!-- releases_count ends --> releases across <!-- project_count starts -->99<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
-* **[ebird-rss](https://github.com/cdzombak/ebird-rss)**: [v0.0.1](https://github.com/cdzombak/ebird-rss/releases/tag/v0.0.1) *(2026-07-24; )* 
+* **[ebird-rss](https://github.com/cdzombak/ebird-rss)**: [v0.0.2](https://github.com/cdzombak/ebird-rss/releases/tag/v0.0.2) *(2026-07-27; [2 releases total](https://github.com/cdzombak/ebird-rss/releases) )* 
 <br />Generate an RSS, Atom, or JSON feed of your most recent bird sightings from an eBird CSV export
 * **[msync](https://github.com/cdzombak/msync)**: [v0.7.0](https://github.com/cdzombak/msync/releases/tag/v0.7.0) *(2026-07-24; )* 
 <br />Maintain a lower-bitrate copy of a music library in sync with the main copy.
