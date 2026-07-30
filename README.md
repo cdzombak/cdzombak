@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[raindrop-public-browser v0.0.1](https://github.com/cdzombak/raindrop-public-browser/releases/tag/v0.0.1) *(2026-07-29)*
+
 [ebird-rss v0.0.2](https://github.com/cdzombak/ebird-rss/releases/tag/v0.0.2) *(2026-07-27)*
 
 [msync v0.7.0](https://github.com/cdzombak/msync/releases/tag/v0.7.0) *(2026-07-24)*
@@ -16,8 +18,6 @@
 [libwx v1.5.0](https://github.com/cdzombak/libwx/releases/tag/v1.5.0) *(2026-07-09)*
 
 [ytdlbot v1.0.6](https://github.com/cdzombak/ytdlbot/releases/tag/v1.0.6) *(2026-07-09)*
-
-[restic-deb v0.19.1](https://github.com/cdzombak/restic-deb/releases/tag/v0.19.1) *(2026-07-06)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />
