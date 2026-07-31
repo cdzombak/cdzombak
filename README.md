@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[ghfeed v1.4.5](https://github.com/cdzombak/ghfeed/releases/tag/v1.4.5) *(2026-07-31)*
+
 [raindrop-public-browser v0.0.1](https://github.com/cdzombak/raindrop-public-browser/releases/tag/v0.0.1) *(2026-07-29)*
 
 [ebird-rss v0.0.2](https://github.com/cdzombak/ebird-rss/releases/tag/v0.0.2) *(2026-07-27)*
@@ -16,8 +18,6 @@
 [openweather-influxdb-connector v1.5.0](https://github.com/cdzombak/openweather-influxdb-connector/releases/tag/v1.5.0) *(2026-07-09)*
 
 [libwx v1.5.0](https://github.com/cdzombak/libwx/releases/tag/v1.5.0) *(2026-07-09)*
-
-[ytdlbot v1.0.6](https://github.com/cdzombak/ytdlbot/releases/tag/v1.0.6) *(2026-07-09)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />

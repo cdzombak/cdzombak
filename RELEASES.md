@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->530<!-- releases_count ends --> releases across <!-- project_count starts -->100<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->531<!-- releases_count ends --> releases across <!-- project_count starts -->100<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[ghfeed](https://github.com/cdzombak/ghfeed)**: [v1.4.5](https://github.com/cdzombak/ghfeed/releases/tag/v1.4.5) *(2026-07-31; [12 releases total](https://github.com/cdzombak/ghfeed/releases) )* 
+<br />GitHub activity feed consolidator
 * **[raindrop-public-browser](https://github.com/cdzombak/raindrop-public-browser)**: [v0.0.1](https://github.com/cdzombak/raindrop-public-browser/releases/tag/v0.0.1) *(2026-07-29; )* 
 <br />Web-based browser for bookmarks from a Raindrop account tagged with "_public"
 * **[ebird-rss](https://github.com/cdzombak/ebird-rss)**: [v0.0.2](https://github.com/cdzombak/ebird-rss/releases/tag/v0.0.2) *(2026-07-27; [2 releases total](https://github.com/cdzombak/ebird-rss/releases) )* 
@@ -23,8 +25,6 @@ Listing <!-- releases_count starts -->530<!-- releases_count ends --> releases a
 <br />Automatic builds of Debian packages for the Restic backup program
 * **[eztag](https://github.com/cdzombak/eztag)**: [v1.0.0](https://github.com/cdzombak/eztag/releases/tag/v1.0.0) *(2026-05-01; [4 releases total](https://github.com/cdzombak/eztag/releases) )* 
 <br />Quickly & easily create tags in your GitHub repositories
-* **[ghfeed](https://github.com/cdzombak/ghfeed)**: [v1.4.4](https://github.com/cdzombak/ghfeed/releases/tag/v1.4.4) *(2026-05-01; [11 releases total](https://github.com/cdzombak/ghfeed/releases) )* 
-<br />GitHub activity feed consolidator
 * **[runner](https://github.com/cdzombak/runner)**: [v2.11.6](https://github.com/cdzombak/runner/releases/tag/v2.11.6) *(2026-04-23; [40 releases total](https://github.com/cdzombak/runner/releases) )* 
 <br />Lightweight wrapper for better cron jobs and containers
 * **[bandwidther](https://github.com/cdzombak/bandwidther)**: [v1.0.1](https://github.com/cdzombak/bandwidther/releases/tag/v1.0.1) *(2026-04-23; [6 releases total](https://github.com/cdzombak/bandwidther/releases) )* 
