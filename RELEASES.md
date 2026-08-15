@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->531<!-- releases_count ends --> releases across <!-- project_count starts -->100<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->532<!-- releases_count ends --> releases across <!-- project_count starts -->100<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[an4mon](https://github.com/cdzombak/an4mon)**: [v2.0.0](https://github.com/cdzombak/an4mon/releases/tag/v2.0.0) *(2026-08-15; [9 releases total](https://github.com/cdzombak/an4mon/releases) )* 
+<br />CO2 level notifications + MQTT and InfluxDB logging for Aranet4 sensors
 * **[ghfeed](https://github.com/cdzombak/ghfeed)**: [v1.4.5](https://github.com/cdzombak/ghfeed/releases/tag/v1.4.5) *(2026-07-31; [12 releases total](https://github.com/cdzombak/ghfeed/releases) )* 
 <br />GitHub activity feed consolidator
 * **[raindrop-public-browser](https://github.com/cdzombak/raindrop-public-browser)**: [v0.0.1](https://github.com/cdzombak/raindrop-public-browser/releases/tag/v0.0.1) *(2026-07-29; )* 
@@ -123,8 +125,6 @@ Listing <!-- releases_count starts -->531<!-- releases_count ends --> releases a
 <br />Report macOS screen lock status to an MQTT broker
 * **[midea2influx](https://github.com/cdzombak/midea2influx)**: [v1.2.0](https://github.com/cdzombak/midea2influx/releases/tag/v1.2.0) *(2025-07-23; [5 releases total](https://github.com/cdzombak/midea2influx/releases) )* 
 <br />Write status of Midea dehumidifers to InfluxDB/MQTT
-* **[an4mon](https://github.com/cdzombak/an4mon)**: [v1.2.0](https://github.com/cdzombak/an4mon/releases/tag/v1.2.0) *(2025-07-20; [8 releases total](https://github.com/cdzombak/an4mon/releases) )* 
-<br />CO2 level notifications + MQTT and InfluxDB logging for Aranet4 sensors
 * **[ecobee_influx_connector](https://github.com/cdzombak/ecobee_influx_connector)**: [v1.2.0](https://github.com/cdzombak/ecobee_influx_connector/releases/tag/v1.2.0) *(2025-07-07; [8 releases total](https://github.com/cdzombak/ecobee_influx_connector/releases) )* 
 <br />Ship your Ecobee runtime, sensor and weather data to InfluxDB or MQTT.
 * **[NetSpeedMonitor](https://github.com/cdzombak/NetSpeedMonitor)**: [v1.0](https://github.com/cdzombak/NetSpeedMonitor/releases/tag/v1.0.0) *(2025-05-27; )* 
