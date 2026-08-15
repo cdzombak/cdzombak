@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->532<!-- releases_count ends --> releases across <!-- project_count starts -->100<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->533<!-- releases_count ends --> releases across <!-- project_count starts -->100<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[driveway-monitor](https://github.com/cdzombak/driveway-monitor)**: [v1.6.0](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.6.0) *(2026-08-15; [25 releases total](https://github.com/cdzombak/driveway-monitor/releases) )* 
+<br />Receive customizable, AI-powered notifications when someone arrives in your driveway.
 * **[an4mon](https://github.com/cdzombak/an4mon)**: [v2.0.0](https://github.com/cdzombak/an4mon/releases/tag/v2.0.0) *(2026-08-15; [9 releases total](https://github.com/cdzombak/an4mon/releases) )* 
 <br />CO2 level notifications + MQTT and InfluxDB logging for Aranet4 sensors
 * **[ghfeed](https://github.com/cdzombak/ghfeed)**: [v1.4.5](https://github.com/cdzombak/ghfeed/releases/tag/v1.4.5) *(2026-07-31; [12 releases total](https://github.com/cdzombak/ghfeed/releases) )* 
@@ -51,8 +53,6 @@ Listing <!-- releases_count starts -->532<!-- releases_count ends --> releases a
 <br />Quickly find & edit untitled photos in your Lychee photo library
 * **[washmon](https://github.com/cdzombak/washmon)**: [v1.0.1](https://github.com/cdzombak/washmon/releases/tag/v1.0.1) *(2026-02-10; [5 releases total](https://github.com/cdzombak/washmon/releases) )* 
 <br />washmon figures out when your laundry is done and reminds you periodically until you affirm that you've emptied the machine
-* **[driveway-monitor](https://github.com/cdzombak/driveway-monitor)**: [v1.5.0](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.5.0) *(2026-01-07; [24 releases total](https://github.com/cdzombak/driveway-monitor/releases) )* 
-<br />Receive customizable, AI-powered notifications when someone arrives in your driveway.
 * **[ipcam-bird-detection](https://github.com/cdzombak/ipcam-bird-detection)**: [v0.0.1](https://github.com/cdzombak/ipcam-bird-detection/releases/tag/v0.0.1) *(2025-12-28; )* 
 <br />Detect birds in videos from your ipcam-browser compatible webcam
 * **[AlfredSwitchWindows](https://github.com/cdzombak/AlfredSwitchWindows)**: [v0.6.3](https://github.com/cdzombak/AlfredSwitchWindows/releases/tag/v0.6.3) *(2025-12-19; [6 releases total](https://github.com/cdzombak/AlfredSwitchWindows/releases) )* 
