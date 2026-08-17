@@ -1,6 +1,6 @@
 # Releases
 
-Listing <!-- releases_count starts -->533<!-- releases_count ends --> releases across <!-- project_count starts -->100<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->531<!-- releases_count ends --> releases across <!-- project_count starts -->99<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
 * **[driveway-monitor](https://github.com/cdzombak/driveway-monitor)**: [v1.6.0](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.6.0) *(2026-08-15; [25 releases total](https://github.com/cdzombak/driveway-monitor/releases) )* 
@@ -97,8 +97,6 @@ Listing <!-- releases_count starts -->533<!-- releases_count ends --> releases a
 <br />Codegenerated Python constants for libc, LSB, BSD, and systemd exit codes
 * **[exitcode_go](https://github.com/cdzombak/exitcode_go)**: [v0.0.2](https://github.com/cdzombak/exitcode_go/releases/tag/v0.0.2) *(2025-09-19; [2 releases total](https://github.com/cdzombak/exitcode_go/releases) )* 
 <br />Codegenerated Golang constants for libc, LSB, BSD, and systemd exit codes
-* **[exitcodes](https://github.com/cdzombak/exitcodes)**: [v0.0.2](https://github.com/cdzombak/exitcodes/releases/tag/v0.0.2) *(2025-09-19; [2 releases total](https://github.com/cdzombak/exitcodes/releases) )* 
-<br />Code generator for libc, LSB, BSD, and systemd exit code constants
 * **[mac-install](https://github.com/cdzombak/mac-install)**: [v0.0.1](https://github.com/cdzombak/mac-install/releases/tag/v0.0.1) *(2025-09-16; )* 
 <br />Idempotent software suite installer for macOS
 * **[things2md](https://github.com/cdzombak/things2md)**: [v0.0.1](https://github.com/cdzombak/things2md/releases/tag/v0.0.1) *(2025-09-14; [2 releases total](https://github.com/cdzombak/things2md/releases) )* 
