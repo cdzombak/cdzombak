@@ -3,6 +3,10 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[exitcode_py v1.0.0](https://github.com/cdzombak/exitcode_py/releases/tag/v1.0.0) *(2026-08-17)*
+
+[exitcode_go v1.0.0](https://github.com/cdzombak/exitcode_go/releases/tag/v1.0.0) *(2026-08-17)*
+
 [driveway-monitor v1.6.0](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.6.0) *(2026-08-15)*
 
 [an4mon v2.0.0](https://github.com/cdzombak/an4mon/releases/tag/v2.0.0) *(2026-08-15)*
@@ -14,10 +18,6 @@
 [ebird-rss v0.0.2](https://github.com/cdzombak/ebird-rss/releases/tag/v0.0.2) *(2026-07-27)*
 
 [msync v0.7.0](https://github.com/cdzombak/msync/releases/tag/v0.7.0) *(2026-07-24)*
-
-[raindrop-public-rss-feed v0.0.1](https://github.com/cdzombak/raindrop-public-rss-feed/releases/tag/v0.0.1) *(2026-07-23)*
-
-[ipcam-browser v1.1.0](https://github.com/cdzombak/ipcam-browser/releases/tag/v1.1.0) *(2026-07-12)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />

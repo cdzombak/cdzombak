@@ -1,8 +1,12 @@
 # Releases
 
-Listing <!-- releases_count starts -->531<!-- releases_count ends --> releases across <!-- project_count starts -->99<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->533<!-- releases_count ends --> releases across <!-- project_count starts -->99<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[exitcode_py](https://github.com/cdzombak/exitcode_py)**: [v1.0.0](https://github.com/cdzombak/exitcode_py/releases/tag/v1.0.0) *(2026-08-17; [3 releases total](https://github.com/cdzombak/exitcode_py/releases) )* 
+<br />Codegenerated Python constants for libc, LSB, BSD, and systemd exit codes
+* **[exitcode_go](https://github.com/cdzombak/exitcode_go)**: [v1.0.0](https://github.com/cdzombak/exitcode_go/releases/tag/v1.0.0) *(2026-08-17; [3 releases total](https://github.com/cdzombak/exitcode_go/releases) )* 
+<br />Codegenerated Golang constants for libc, LSB, BSD, and systemd exit codes
 * **[driveway-monitor](https://github.com/cdzombak/driveway-monitor)**: [v1.6.0](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.6.0) *(2026-08-15; [25 releases total](https://github.com/cdzombak/driveway-monitor/releases) )* 
 <br />Receive customizable, AI-powered notifications when someone arrives in your driveway.
 * **[an4mon](https://github.com/cdzombak/an4mon)**: [v2.0.0](https://github.com/cdzombak/an4mon/releases/tag/v2.0.0) *(2026-08-15; [9 releases total](https://github.com/cdzombak/an4mon/releases) )* 
@@ -93,10 +97,6 @@ Listing <!-- releases_count starts -->531<!-- releases_count ends --> releases a
 <br />A portable command line interface for fetching METARs
 * **[mqtt2ntfy](https://github.com/cdzombak/mqtt2ntfy)**: [v0.0.1](https://github.com/cdzombak/mqtt2ntfy/releases/tag/v0.0.1) *(2025-09-22; )* 
 <br />mqtt to Ntfy bridge
-* **[exitcode_py](https://github.com/cdzombak/exitcode_py)**: [v0.0.2](https://github.com/cdzombak/exitcode_py/releases/tag/v0.0.2) *(2025-09-19; [2 releases total](https://github.com/cdzombak/exitcode_py/releases) )* 
-<br />Codegenerated Python constants for libc, LSB, BSD, and systemd exit codes
-* **[exitcode_go](https://github.com/cdzombak/exitcode_go)**: [v0.0.2](https://github.com/cdzombak/exitcode_go/releases/tag/v0.0.2) *(2025-09-19; [2 releases total](https://github.com/cdzombak/exitcode_go/releases) )* 
-<br />Codegenerated Golang constants for libc, LSB, BSD, and systemd exit codes
 * **[mac-install](https://github.com/cdzombak/mac-install)**: [v0.0.1](https://github.com/cdzombak/mac-install/releases/tag/v0.0.1) *(2025-09-16; )* 
 <br />Idempotent software suite installer for macOS
 * **[things2md](https://github.com/cdzombak/things2md)**: [v0.0.1](https://github.com/cdzombak/things2md/releases/tag/v0.0.1) *(2025-09-14; [2 releases total](https://github.com/cdzombak/things2md/releases) )* 
