@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[mdunwrap v0.0.1](https://github.com/cdzombak/mdunwrap/releases/tag/v0.0.1) *(2026-08-18)*
+
 [exitcode_py v1.0.0](https://github.com/cdzombak/exitcode_py/releases/tag/v1.0.0) *(2026-08-17)*
 
 [exitcode_go v1.0.0](https://github.com/cdzombak/exitcode_go/releases/tag/v1.0.0) *(2026-08-17)*
@@ -16,8 +18,6 @@
 [raindrop-public-browser v0.0.1](https://github.com/cdzombak/raindrop-public-browser/releases/tag/v0.0.1) *(2026-07-29)*
 
 [ebird-rss v0.0.2](https://github.com/cdzombak/ebird-rss/releases/tag/v0.0.2) *(2026-07-27)*
-
-[msync v0.7.0](https://github.com/cdzombak/msync/releases/tag/v0.7.0) *(2026-07-24)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />

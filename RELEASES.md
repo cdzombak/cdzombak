@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->533<!-- releases_count ends --> releases across <!-- project_count starts -->99<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->535<!-- releases_count ends --> releases across <!-- project_count starts -->100<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[mdunwrap](https://github.com/cdzombak/mdunwrap)**: [v0.0.1](https://github.com/cdzombak/mdunwrap/releases/tag/v0.0.1) *(2026-08-18; [2 releases total](https://github.com/cdzombak/mdunwrap/releases) )* 
+<br />Remove unnecessary line breaks from Markdown text
 * **[exitcode_py](https://github.com/cdzombak/exitcode_py)**: [v1.0.0](https://github.com/cdzombak/exitcode_py/releases/tag/v1.0.0) *(2026-08-17; [3 releases total](https://github.com/cdzombak/exitcode_py/releases) )* 
 <br />Codegenerated Python constants for libc, LSB, BSD, and systemd exit codes
 * **[exitcode_go](https://github.com/cdzombak/exitcode_go)**: [v1.0.0](https://github.com/cdzombak/exitcode_go/releases/tag/v1.0.0) *(2026-08-17; [3 releases total](https://github.com/cdzombak/exitcode_go/releases) )* 
