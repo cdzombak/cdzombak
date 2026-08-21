@@ -3,6 +3,10 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[papercast v0.0.1](https://github.com/cdzombak/papercast/releases/tag/v0.0.1) *(2026-08-21)*
+
+[papercast-archiver v0.0.1](https://github.com/cdzombak/papercast-archiver/releases/tag/v0.0.1) *(2026-08-21)*
+
 [wxcal v2.0.0](https://github.com/cdzombak/wxcal/releases/tag/v2.0.0) *(2026-08-21)*
 
 [mdunwrap v0.0.1](https://github.com/cdzombak/mdunwrap/releases/tag/v0.0.1) *(2026-08-18)*
@@ -14,10 +18,6 @@
 [driveway-monitor v1.6.0](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.6.0) *(2026-08-15)*
 
 [an4mon v2.0.0](https://github.com/cdzombak/an4mon/releases/tag/v2.0.0) *(2026-08-15)*
-
-[ghfeed v1.4.5](https://github.com/cdzombak/ghfeed/releases/tag/v1.4.5) *(2026-07-31)*
-
-[raindrop-public-browser v0.0.1](https://github.com/cdzombak/raindrop-public-browser/releases/tag/v0.0.1) *(2026-07-29)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />

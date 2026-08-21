@@ -1,8 +1,12 @@
 # Releases
 
-Listing <!-- releases_count starts -->537<!-- releases_count ends --> releases across <!-- project_count starts -->100<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->541<!-- releases_count ends --> releases across <!-- project_count starts -->102<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[papercast](https://github.com/cdzombak/papercast)**: [v0.0.1](https://github.com/cdzombak/papercast/releases/tag/v0.0.1) *(2026-08-21; [2 releases total](https://github.com/cdzombak/papercast/releases) )* 
+<br />Generate a personal podcast of your Instapaper reading queue
+* **[papercast-archiver](https://github.com/cdzombak/papercast-archiver)**: [v0.0.1](https://github.com/cdzombak/papercast-archiver/releases/tag/v0.0.1) *(2026-08-21; [2 releases total](https://github.com/cdzombak/papercast-archiver/releases) )* 
+<br />Tiny web server with a UI for archiving Instapaper articles. Integrates with cdzombak/papercast
 * **[wxcal](https://github.com/cdzombak/wxcal)**: [v2.0.0](https://github.com/cdzombak/wxcal/releases/tag/v2.0.0) *(2026-08-21; [8 releases total](https://github.com/cdzombak/wxcal/releases) )* 
 <br />Generate an iCal feed from the weather.gov forecast API
 * **[mdunwrap](https://github.com/cdzombak/mdunwrap)**: [v0.0.1](https://github.com/cdzombak/mdunwrap/releases/tag/v0.0.1) *(2026-08-18; [2 releases total](https://github.com/cdzombak/mdunwrap/releases) )* 
