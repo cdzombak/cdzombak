@@ -1,9 +1,9 @@
 # Releases
 
-Listing <!-- releases_count starts -->536<!-- releases_count ends --> releases across <!-- project_count starts -->100<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->537<!-- releases_count ends --> releases across <!-- project_count starts -->100<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
-* **[wxcal](https://github.com/cdzombak/wxcal)**: [v2.0.0-rc.1](https://github.com/cdzombak/wxcal/releases/tag/v2.0.0-rc.1) *(2026-08-21; [7 releases total](https://github.com/cdzombak/wxcal/releases) )* 
+* **[wxcal](https://github.com/cdzombak/wxcal)**: [v2.0.0](https://github.com/cdzombak/wxcal/releases/tag/v2.0.0) *(2026-08-21; [8 releases total](https://github.com/cdzombak/wxcal/releases) )* 
 <br />Generate an iCal feed from the weather.gov forecast API
 * **[mdunwrap](https://github.com/cdzombak/mdunwrap)**: [v0.0.1](https://github.com/cdzombak/mdunwrap/releases/tag/v0.0.1) *(2026-08-18; [2 releases total](https://github.com/cdzombak/mdunwrap/releases) )* 
 <br />Remove unnecessary line breaks from Markdown text

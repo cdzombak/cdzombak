@@ -3,7 +3,7 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
-[wxcal v2.0.0-rc.1](https://github.com/cdzombak/wxcal/releases/tag/v2.0.0-rc.1) *(2026-08-21)*
+[wxcal v2.0.0](https://github.com/cdzombak/wxcal/releases/tag/v2.0.0) *(2026-08-21)*
 
 [mdunwrap v0.0.1](https://github.com/cdzombak/mdunwrap/releases/tag/v0.0.1) *(2026-08-18)*
 
