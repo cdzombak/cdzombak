@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[wxcal v2.0.0-rc.1](https://github.com/cdzombak/wxcal/releases/tag/v2.0.0-rc.1) *(2026-08-21)*
+
 [mdunwrap v0.0.1](https://github.com/cdzombak/mdunwrap/releases/tag/v0.0.1) *(2026-08-18)*
 
 [exitcode_py v1.0.0](https://github.com/cdzombak/exitcode_py/releases/tag/v1.0.0) *(2026-08-17)*
@@ -16,8 +18,6 @@
 [ghfeed v1.4.5](https://github.com/cdzombak/ghfeed/releases/tag/v1.4.5) *(2026-07-31)*
 
 [raindrop-public-browser v0.0.1](https://github.com/cdzombak/raindrop-public-browser/releases/tag/v0.0.1) *(2026-07-29)*
-
-[ebird-rss v0.0.2](https://github.com/cdzombak/ebird-rss/releases/tag/v0.0.2) *(2026-07-27)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />

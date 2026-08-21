@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->535<!-- releases_count ends --> releases across <!-- project_count starts -->100<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->536<!-- releases_count ends --> releases across <!-- project_count starts -->100<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[wxcal](https://github.com/cdzombak/wxcal)**: [v2.0.0-rc.1](https://github.com/cdzombak/wxcal/releases/tag/v2.0.0-rc.1) *(2026-08-21; [7 releases total](https://github.com/cdzombak/wxcal/releases) )* 
+<br />Generate an iCal feed from the weather.gov forecast API
 * **[mdunwrap](https://github.com/cdzombak/mdunwrap)**: [v0.0.1](https://github.com/cdzombak/mdunwrap/releases/tag/v0.0.1) *(2026-08-18; [2 releases total](https://github.com/cdzombak/mdunwrap/releases) )* 
 <br />Remove unnecessary line breaks from Markdown text
 * **[exitcode_py](https://github.com/cdzombak/exitcode_py)**: [v1.0.0](https://github.com/cdzombak/exitcode_py/releases/tag/v1.0.0) *(2026-08-17; [3 releases total](https://github.com/cdzombak/exitcode_py/releases) )* 
@@ -143,8 +145,6 @@ Listing <!-- releases_count starts -->535<!-- releases_count ends --> releases a
 <br />Automatic builds of Debian packages for the Bandwhich terminal bandwidth utilization tool
 * **[mqttshutdownd](https://github.com/cdzombak/mqttshutdownd)**: [v1.1.0](https://github.com/cdzombak/mqttshutdownd/releases/tag/v1.1.0) *(2024-10-03; [9 releases total](https://github.com/cdzombak/mqttshutdownd/releases) )* 
 <br />Shutdown a Linux machine in response to MQTT broadcast messages about utility power loss
-* **[wxcal](https://github.com/cdzombak/wxcal)**: [v1.2.1](https://github.com/cdzombak/wxcal/releases/tag/v1.2.1) *(2024-09-06; [6 releases total](https://github.com/cdzombak/wxcal/releases) )* 
-<br />Generate an iCal feed from the weather.gov forecast API
 * **[energybridge_to_influxdb](https://github.com/cdzombak/energybridge_to_influxdb)**: [v1.1.1](https://github.com/cdzombak/energybridge_to_influxdb/releases/tag/v1.1.1) *(2024-08-16; [10 releases total](https://github.com/cdzombak/energybridge_to_influxdb/releases) )* 
 <br />Pull electricity usage readings from an Energy Bridge via MQTT and ship them to InfluxDB.
 * **[cidrtool](https://github.com/cdzombak/cidrtool)**: [v1.0.2](https://github.com/cdzombak/cidrtool/releases/tag/v1.0.2) *(2024-07-18; [4 releases total](https://github.com/cdzombak/cidrtool/releases) )* 
