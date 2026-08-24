@@ -3,9 +3,9 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
-[purpleair2mqtt v1.1.1](https://github.com/cdzombak/purpleair2mqtt/releases/tag/v1.1.1) *(2026-08-24)*
-
 [feedfilter v1.1.1](https://github.com/cdzombak/feedfilter/releases/tag/v1.1.1) *(2026-08-24)*
+
+[purpleair2mqtt v1.1.1](https://github.com/cdzombak/purpleair2mqtt/releases/tag/v1.1.1) *(2026-08-24)*
 
 [mqttwxenrich v0.0.6](https://github.com/cdzombak/mqttwxenrich/releases/tag/v0.0.6) *(2026-08-24)*
 
