@@ -1,16 +1,18 @@
 # Releases
 
-Listing <!-- releases_count starts -->547<!-- releases_count ends --> releases across <!-- project_count starts -->102<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->551<!-- releases_count ends --> releases across <!-- project_count starts -->103<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[papercast](https://github.com/cdzombak/papercast)**: [v0.0.2](https://github.com/cdzombak/papercast/releases/tag/v0.0.2) *(2026-08-24; [3 releases total](https://github.com/cdzombak/papercast/releases) )* 
+<br />Generate a personal podcast of your Instapaper reading queue
+* **[mqttwxenrich](https://github.com/cdzombak/mqttwxenrich)**: [v0.0.6](https://github.com/cdzombak/mqttwxenrich/releases/tag/v0.0.6) *(2026-08-24; [6 releases total](https://github.com/cdzombak/mqttwxenrich/releases) )* 
+<br />Enrich MQTT messages from weather sensors with unit conversion and supplemental calculations
+* **[wdproc](https://github.com/cdzombak/wdproc)**: [v1.0.1](https://github.com/cdzombak/wdproc/releases/tag/v1.0.1) *(2026-08-24; [3 releases total](https://github.com/cdzombak/wdproc/releases) )* 
+<br />Add files synced from WriterDeck to Day One or Things
 * **[feedfilter](https://github.com/cdzombak/feedfilter)**: [v1.1.1](https://github.com/cdzombak/feedfilter/releases/tag/v1.1.1) *(2026-08-24; [4 releases total](https://github.com/cdzombak/feedfilter/releases) )* 
 <br />RSS feed filtering tool
 * **[purpleair2mqtt](https://github.com/cdzombak/purpleair2mqtt)**: [v1.1.1](https://github.com/cdzombak/purpleair2mqtt/releases/tag/v1.1.1) *(2026-08-24; [4 releases total](https://github.com/cdzombak/purpleair2mqtt/releases) )* 
 <br />Pull sensor data from your local PurpleAir sensors - no cloud needed.
-* **[mqttwxenrich](https://github.com/cdzombak/mqttwxenrich)**: [v0.0.6](https://github.com/cdzombak/mqttwxenrich/releases/tag/v0.0.6) *(2026-08-24; [6 releases total](https://github.com/cdzombak/mqttwxenrich/releases) )* 
-<br />Enrich MQTT messages from weather sensors with unit conversion and supplemental calculations
-* **[papercast](https://github.com/cdzombak/papercast)**: [v0.0.1](https://github.com/cdzombak/papercast/releases/tag/v0.0.1) *(2026-08-21; [2 releases total](https://github.com/cdzombak/papercast/releases) )* 
-<br />Generate a personal podcast of your Instapaper reading queue
 * **[papercast-archiver](https://github.com/cdzombak/papercast-archiver)**: [v0.0.1](https://github.com/cdzombak/papercast-archiver/releases/tag/v0.0.1) *(2026-08-21; [2 releases total](https://github.com/cdzombak/papercast-archiver/releases) )* 
 <br />Tiny web server with a UI for archiving Instapaper articles. Integrates with cdzombak/papercast
 * **[wxcal](https://github.com/cdzombak/wxcal)**: [v2.0.0](https://github.com/cdzombak/wxcal/releases/tag/v2.0.0) *(2026-08-21; [8 releases total](https://github.com/cdzombak/wxcal/releases) )* 

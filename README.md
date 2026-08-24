@@ -3,21 +3,21 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
-[feedfilter v1.1.1](https://github.com/cdzombak/feedfilter/releases/tag/v1.1.1) *(2026-08-24)*
-
-[purpleair2mqtt v1.1.1](https://github.com/cdzombak/purpleair2mqtt/releases/tag/v1.1.1) *(2026-08-24)*
+[papercast v0.0.2](https://github.com/cdzombak/papercast/releases/tag/v0.0.2) *(2026-08-24)*
 
 [mqttwxenrich v0.0.6](https://github.com/cdzombak/mqttwxenrich/releases/tag/v0.0.6) *(2026-08-24)*
 
-[papercast v0.0.1](https://github.com/cdzombak/papercast/releases/tag/v0.0.1) *(2026-08-21)*
+[wdproc v1.0.1](https://github.com/cdzombak/wdproc/releases/tag/v1.0.1) *(2026-08-24)*
+
+[feedfilter v1.1.1](https://github.com/cdzombak/feedfilter/releases/tag/v1.1.1) *(2026-08-24)*
+
+[purpleair2mqtt v1.1.1](https://github.com/cdzombak/purpleair2mqtt/releases/tag/v1.1.1) *(2026-08-24)*
 
 [papercast-archiver v0.0.1](https://github.com/cdzombak/papercast-archiver/releases/tag/v0.0.1) *(2026-08-21)*
 
 [wxcal v2.0.0](https://github.com/cdzombak/wxcal/releases/tag/v2.0.0) *(2026-08-21)*
 
 [mdunwrap v0.0.1](https://github.com/cdzombak/mdunwrap/releases/tag/v0.0.1) *(2026-08-18)*
-
-[exitcode_py v1.0.0](https://github.com/cdzombak/exitcode_py/releases/tag/v1.0.0) *(2026-08-17)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />
