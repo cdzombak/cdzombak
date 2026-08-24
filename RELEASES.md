@@ -1,8 +1,14 @@
 # Releases
 
-Listing <!-- releases_count starts -->541<!-- releases_count ends --> releases across <!-- project_count starts -->102<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->547<!-- releases_count ends --> releases across <!-- project_count starts -->102<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[purpleair2mqtt](https://github.com/cdzombak/purpleair2mqtt)**: [v1.1.1](https://github.com/cdzombak/purpleair2mqtt/releases/tag/v1.1.1) *(2026-08-24; [4 releases total](https://github.com/cdzombak/purpleair2mqtt/releases) )* 
+<br />Pull sensor data from your local PurpleAir sensors - no cloud needed.
+* **[feedfilter](https://github.com/cdzombak/feedfilter)**: [v1.1.1](https://github.com/cdzombak/feedfilter/releases/tag/v1.1.1) *(2026-08-24; [4 releases total](https://github.com/cdzombak/feedfilter/releases) )* 
+<br />RSS feed filtering tool
+* **[mqttwxenrich](https://github.com/cdzombak/mqttwxenrich)**: [v0.0.6](https://github.com/cdzombak/mqttwxenrich/releases/tag/v0.0.6) *(2026-08-24; [6 releases total](https://github.com/cdzombak/mqttwxenrich/releases) )* 
+<br />Enrich MQTT messages from weather sensors with unit conversion and supplemental calculations
 * **[papercast](https://github.com/cdzombak/papercast)**: [v0.0.1](https://github.com/cdzombak/papercast/releases/tag/v0.0.1) *(2026-08-21; [2 releases total](https://github.com/cdzombak/papercast/releases) )* 
 <br />Generate a personal podcast of your Instapaper reading queue
 * **[papercast-archiver](https://github.com/cdzombak/papercast-archiver)**: [v0.0.1](https://github.com/cdzombak/papercast-archiver/releases/tag/v0.0.1) *(2026-08-21; [2 releases total](https://github.com/cdzombak/papercast-archiver/releases) )* 
@@ -47,8 +53,6 @@ Listing <!-- releases_count starts -->541<!-- releases_count ends --> releases a
 <br />SwiftUI menu bar app for monitoring application bandwidth use
 * **[wx-sta-agg-influx](https://github.com/cdzombak/wx-sta-agg-influx)**: [v1.0.4](https://github.com/cdzombak/wx-sta-agg-influx/releases/tag/v1.0.4) *(2026-04-15; [4 releases total](https://github.com/cdzombak/wx-sta-agg-influx/releases) )* 
 <br />Aggregator for wind and rain data stored in InfluxDB
-* **[purpleair2mqtt](https://github.com/cdzombak/purpleair2mqtt)**: [v1.1.0](https://github.com/cdzombak/purpleair2mqtt/releases/tag/v1.1.0) *(2026-04-10; [3 releases total](https://github.com/cdzombak/purpleair2mqtt/releases) )* 
-<br />Pull sensor data from your local PurpleAir sensors - no cloud needed.
 * **[gallerygen](https://github.com/cdzombak/gallerygen)**: [v1.0.6](https://github.com/cdzombak/gallerygen/releases/tag/v1.0.6) *(2026-04-07; [11 releases total](https://github.com/cdzombak/gallerygen/releases) )* 
 <br />Generate a static HTML gallery from a directory tree of images
 * **[hosts-timer](https://github.com/cdzombak/hosts-timer)**: [v1.0.0](https://github.com/cdzombak/hosts-timer/releases/tag/v1.0.0) *(2026-04-05; [2 releases total](https://github.com/cdzombak/hosts-timer/releases) )* 
@@ -113,12 +117,8 @@ Listing <!-- releases_count starts -->541<!-- releases_count ends --> releases a
 <br />Check your DNS records for a variety of potential issues
 * **[feedbin-auto-archiver](https://github.com/cdzombak/feedbin-auto-archiver)**: [v1.2.0](https://github.com/cdzombak/feedbin-auto-archiver/releases/tag/v1.2.0) *(2025-09-13; [5 releases total](https://github.com/cdzombak/feedbin-auto-archiver/releases) )* 
 <br />Avoid stress: Automatically archive old unread entries in Feedbin.
-* **[wdproc](https://github.com/cdzombak/wdproc)**: [v1.0.0](https://github.com/cdzombak/wdproc/releases/tag/v1.0.0) *(2025-09-08; [2 releases total](https://github.com/cdzombak/wdproc/releases) )* 
-<br />Add files synced from WriterDeck to Day One or Things
 * **[nut_influx_connector](https://github.com/cdzombak/nut_influx_connector)**: [v1.2.1](https://github.com/cdzombak/nut_influx_connector/releases/tag/v1.2.1) *(2025-08-24; [9 releases total](https://github.com/cdzombak/nut_influx_connector/releases) )* 
 <br />Ship energy usage data & UPS stats from Network-UPS-Tools to InfluxDB/MQTT
-* **[feedfilter](https://github.com/cdzombak/feedfilter)**: [v1.1.0](https://github.com/cdzombak/feedfilter/releases/tag/v1.1.0) *(2025-08-21; [3 releases total](https://github.com/cdzombak/feedfilter/releases) )* 
-<br />RSS feed filtering tool
 * **[xrp](https://github.com/cdzombak/xrp)**: [v0.0.1-beta.8](https://github.com/cdzombak/xrp/releases/tag/v0.0.1-beta.8) *(2025-08-09; [4 releases total](https://github.com/cdzombak/xrp/releases) )* 
 <br />HTML/XML aware reverse proxy
 * **[nginx_ensite](https://github.com/cdzombak/nginx_ensite)**: [v1.1.0](https://github.com/cdzombak/nginx_ensite/releases/tag/v1.1.0) *(2025-08-07; [2 releases total](https://github.com/cdzombak/nginx_ensite/releases) )* 
