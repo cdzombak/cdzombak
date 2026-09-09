@@ -1,8 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->551<!-- releases_count ends --> releases across <!-- project_count starts -->103<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->553<!-- releases_count ends --> releases across <!-- project_count starts -->103<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
+* **[ebird-rss](https://github.com/cdzombak/ebird-rss)**: [v0.0.3](https://github.com/cdzombak/ebird-rss/releases/tag/v0.0.3) *(2026-09-09; [4 releases total](https://github.com/cdzombak/ebird-rss/releases) )* 
+<br />Generate an RSS, Atom, or JSON feed of your most recent bird sightings from an eBird CSV export
 * **[papercast](https://github.com/cdzombak/papercast)**: [v0.0.2](https://github.com/cdzombak/papercast/releases/tag/v0.0.2) *(2026-08-24; [3 releases total](https://github.com/cdzombak/papercast/releases) )* 
 <br />Generate a personal podcast of your Instapaper reading queue
 * **[mqttwxenrich](https://github.com/cdzombak/mqttwxenrich)**: [v0.0.6](https://github.com/cdzombak/mqttwxenrich/releases/tag/v0.0.6) *(2026-08-24; [6 releases total](https://github.com/cdzombak/mqttwxenrich/releases) )* 
@@ -31,8 +33,6 @@ Listing <!-- releases_count starts -->551<!-- releases_count ends --> releases a
 <br />GitHub activity feed consolidator
 * **[raindrop-public-browser](https://github.com/cdzombak/raindrop-public-browser)**: [v0.0.1](https://github.com/cdzombak/raindrop-public-browser/releases/tag/v0.0.1) *(2026-07-29; )* 
 <br />Web-based browser for bookmarks from a Raindrop account tagged with "_public"
-* **[ebird-rss](https://github.com/cdzombak/ebird-rss)**: [v0.0.2](https://github.com/cdzombak/ebird-rss/releases/tag/v0.0.2) *(2026-07-27; [2 releases total](https://github.com/cdzombak/ebird-rss/releases) )* 
-<br />Generate an RSS, Atom, or JSON feed of your most recent bird sightings from an eBird CSV export
 * **[msync](https://github.com/cdzombak/msync)**: [v0.7.0](https://github.com/cdzombak/msync/releases/tag/v0.7.0) *(2026-07-24; )* 
 <br />Maintain a lower-bitrate copy of a music library in sync with the main copy.
 * **[raindrop-public-rss-feed](https://github.com/cdzombak/raindrop-public-rss-feed)**: [v0.0.1](https://github.com/cdzombak/raindrop-public-rss-feed/releases/tag/v0.0.1) *(2026-07-23; )* 

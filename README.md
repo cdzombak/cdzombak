@@ -3,6 +3,8 @@
 ### Recent Releases
 
 <!-- recent_releases starts -->
+[ebird-rss v0.0.3](https://github.com/cdzombak/ebird-rss/releases/tag/v0.0.3) *(2026-09-09)*
+
 [papercast v0.0.2](https://github.com/cdzombak/papercast/releases/tag/v0.0.2) *(2026-08-24)*
 
 [mqttwxenrich v0.0.6](https://github.com/cdzombak/mqttwxenrich/releases/tag/v0.0.6) *(2026-08-24)*
@@ -16,8 +18,6 @@
 [papercast-archiver v0.0.1](https://github.com/cdzombak/papercast-archiver/releases/tag/v0.0.1) *(2026-08-21)*
 
 [wxcal v2.0.0](https://github.com/cdzombak/wxcal/releases/tag/v2.0.0) *(2026-08-21)*
-
-[mdunwrap v0.0.1](https://github.com/cdzombak/mdunwrap/releases/tag/v0.0.1) *(2026-08-18)*
 <!-- recent_releases ends -->
 🌐 **More [recent releases](https://github.com/cdzombak/cdzombak/blob/main/RELEASES.md)**
 <br />
