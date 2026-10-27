@@ -1,6 +1,6 @@
 # Releases
 
-Listing <!-- releases_count starts -->548<!-- releases_count ends --> releases across <!-- project_count starts -->101<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->553<!-- releases_count ends --> releases across <!-- project_count starts -->103<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
 * **[ebird-rss](https://github.com/cdzombak/ebird-rss)**: [v0.0.3](https://github.com/cdzombak/ebird-rss/releases/tag/v0.0.3) *(2026-09-09; [4 releases total](https://github.com/cdzombak/ebird-rss/releases) )* 
@@ -205,4 +205,8 @@ Listing <!-- releases_count starts -->548<!-- releases_count ends --> releases a
 <br />Script & Alfred workflow to quickly fix Secure Input being stuck on in macOS
 * **[thingshub](https://github.com/cdzombak/thingshub)**: [v1.1.1: Don't create empty projects](https://github.com/cdzombak/thingshub/releases/tag/v1.1.1) *(2020-02-05; [5 releases total](https://github.com/cdzombak/thingshub/releases) )* 
 <br />[UNMAINTAINED] Synchronize issues assigned to you from a Github repo into Things.
+* **[finder-atom](https://github.com/cdzombak/finder-atom)**: [2.0](https://github.com/cdzombak/finder-atom/releases/tag/v2.0) *(2017-09-14; [4 releases total](https://github.com/cdzombak/finder-atom/releases) )* 
+<br />An “Open in Atom“ tool for the Finder.
+* **[CDZUIKitAutoLayoutDebugging](https://github.com/cdzombak/CDZUIKitAutoLayoutDebugging)**: [The First Release](https://github.com/cdzombak/CDZUIKitAutoLayoutDebugging/releases/tag/0.0.7) *(2015-03-14; )* 
+<br />[Unmaintained] Tools for easier Auto Layout debugging
 <!-- recent_releases ends -->
