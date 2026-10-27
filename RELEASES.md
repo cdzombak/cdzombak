@@ -1,6 +1,6 @@
 # Releases
 
-Listing <!-- releases_count starts -->546<!-- releases_count ends --> releases across <!-- project_count starts -->100<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->553<!-- releases_count ends --> releases across <!-- project_count starts -->103<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
 * **[ebird-rss](https://github.com/cdzombak/ebird-rss)**: [v0.0.3](https://github.com/cdzombak/ebird-rss/releases/tag/v0.0.3) *(2026-09-09; [4 releases total](https://github.com/cdzombak/ebird-rss/releases) )* 
@@ -105,12 +105,16 @@ Listing <!-- releases_count starts -->546<!-- releases_count ends --> releases a
 <br />Photo/image analysis functions for Golang
 * **[bt-env-mqtt](https://github.com/cdzombak/bt-env-mqtt)**: [v0.0.2](https://github.com/cdzombak/bt-env-mqtt/releases/tag/v0.0.2) *(2025-09-25; [2 releases total](https://github.com/cdzombak/bt-env-mqtt/releases) )* 
 <br />macOS tool that publishes details about nearby Bluetooth devices to MQTT
+* **[aclaude](https://github.com/cdzombak/aclaude)**: [v1.0.2](https://github.com/cdzombak/aclaude/releases/tag/v1.0.2) *(2025-09-23; [4 releases total](https://github.com/cdzombak/aclaude/releases) )* 
+<br />Claude Code launcher for alternate models/endpoints
 * **[metar-pkg](https://github.com/cdzombak/metar-pkg)**: [metar v2025.09.22.3](https://github.com/cdzombak/metar-pkg/releases/tag/v2025.09.22.3) *(2025-09-22; [3 releases total](https://github.com/cdzombak/metar-pkg/releases) )* 
 <br />A portable command line interface for fetching METARs
 * **[mqtt2ntfy](https://github.com/cdzombak/mqtt2ntfy)**: [v0.0.1](https://github.com/cdzombak/mqtt2ntfy/releases/tag/v0.0.1) *(2025-09-22; )* 
 <br />mqtt to Ntfy bridge
 * **[mac-install](https://github.com/cdzombak/mac-install)**: [v0.0.1](https://github.com/cdzombak/mac-install/releases/tag/v0.0.1) *(2025-09-16; )* 
 <br />Idempotent software suite installer for macOS
+* **[things2md](https://github.com/cdzombak/things2md)**: [v0.0.1](https://github.com/cdzombak/things2md/releases/tag/v0.0.1) *(2025-09-14; [2 releases total](https://github.com/cdzombak/things2md/releases) )* 
+<br />Export a Things project to Markdown
 * **[dns-auditor](https://github.com/cdzombak/dns-auditor)**: [v1.0.0-beta.4](https://github.com/cdzombak/dns-auditor/releases/tag/v1.0.0-beta.4) *(2025-09-13; [5 releases total](https://github.com/cdzombak/dns-auditor/releases) )* 
 <br />Check your DNS records for a variety of potential issues
 * **[feedbin-auto-archiver](https://github.com/cdzombak/feedbin-auto-archiver)**: [v1.2.0](https://github.com/cdzombak/feedbin-auto-archiver/releases/tag/v1.2.0) *(2025-09-13; [5 releases total](https://github.com/cdzombak/feedbin-auto-archiver/releases) )* 
@@ -197,6 +201,8 @@ Listing <!-- releases_count starts -->546<!-- releases_count ends --> releases a
 <br />macOS client for transmission-daemon (using RPC API)
 * **[do-ddns](https://github.com/cdzombak/do-ddns)**: [v0.0.6](https://github.com/cdzombak/do-ddns/releases/tag/v0.0.6) *(2022-04-18; [6 releases total](https://github.com/cdzombak/do-ddns/releases) )* 
 <br />DigitalOcean-based Dynamic DNS server and client
+* **[fix-secure-input](https://github.com/cdzombak/fix-secure-input)**: [Alfred Workflow v1.0.0](https://github.com/cdzombak/fix-secure-input/releases/tag/v1.0.0) *(2020-11-20; )* 
+<br />Script & Alfred workflow to quickly fix Secure Input being stuck on in macOS
 * **[thingshub](https://github.com/cdzombak/thingshub)**: [v1.1.1: Don't create empty projects](https://github.com/cdzombak/thingshub/releases/tag/v1.1.1) *(2020-02-05; [5 releases total](https://github.com/cdzombak/thingshub/releases) )* 
 <br />[UNMAINTAINED] Synchronize issues assigned to you from a Github repo into Things.
 * **[finder-atom](https://github.com/cdzombak/finder-atom)**: [2.0](https://github.com/cdzombak/finder-atom/releases/tag/v2.0) *(2017-09-14; [4 releases total](https://github.com/cdzombak/finder-atom/releases) )* 
