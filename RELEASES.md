@@ -1,6 +1,6 @@
 # Releases
 
-Listing <!-- releases_count starts -->453<!-- releases_count ends --> releases across <!-- project_count starts -->83<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->553<!-- releases_count ends --> releases across <!-- project_count starts -->103<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
 * **[ebird-rss](https://github.com/cdzombak/ebird-rss)**: [v0.0.3](https://github.com/cdzombak/ebird-rss/releases/tag/v0.0.3) *(2026-09-09; [4 releases total](https://github.com/cdzombak/ebird-rss/releases) )* 
@@ -105,8 +105,16 @@ Listing <!-- releases_count starts -->453<!-- releases_count ends --> releases a
 <br />Photo/image analysis functions for Golang
 * **[bt-env-mqtt](https://github.com/cdzombak/bt-env-mqtt)**: [v0.0.2](https://github.com/cdzombak/bt-env-mqtt/releases/tag/v0.0.2) *(2025-09-25; [2 releases total](https://github.com/cdzombak/bt-env-mqtt/releases) )* 
 <br />macOS tool that publishes details about nearby Bluetooth devices to MQTT
+* **[aclaude](https://github.com/cdzombak/aclaude)**: [v1.0.2](https://github.com/cdzombak/aclaude/releases/tag/v1.0.2) *(2025-09-23; [4 releases total](https://github.com/cdzombak/aclaude/releases) )* 
+<br />Claude Code launcher for alternate models/endpoints
+* **[metar-pkg](https://github.com/cdzombak/metar-pkg)**: [metar v2025.09.22.3](https://github.com/cdzombak/metar-pkg/releases/tag/v2025.09.22.3) *(2025-09-22; [3 releases total](https://github.com/cdzombak/metar-pkg/releases) )* 
+<br />A portable command line interface for fetching METARs
 * **[mqtt2ntfy](https://github.com/cdzombak/mqtt2ntfy)**: [v0.0.1](https://github.com/cdzombak/mqtt2ntfy/releases/tag/v0.0.1) *(2025-09-22; )* 
 <br />mqtt to Ntfy bridge
+* **[mac-install](https://github.com/cdzombak/mac-install)**: [v0.0.1](https://github.com/cdzombak/mac-install/releases/tag/v0.0.1) *(2025-09-16; )* 
+<br />Idempotent software suite installer for macOS
+* **[things2md](https://github.com/cdzombak/things2md)**: [v0.0.1](https://github.com/cdzombak/things2md/releases/tag/v0.0.1) *(2025-09-14; [2 releases total](https://github.com/cdzombak/things2md/releases) )* 
+<br />Export a Things project to Markdown
 * **[dns-auditor](https://github.com/cdzombak/dns-auditor)**: [v1.0.0-beta.4](https://github.com/cdzombak/dns-auditor/releases/tag/v1.0.0-beta.4) *(2025-09-13; [5 releases total](https://github.com/cdzombak/dns-auditor/releases) )* 
 <br />Check your DNS records for a variety of potential issues
 * **[feedbin-auto-archiver](https://github.com/cdzombak/feedbin-auto-archiver)**: [v1.2.0](https://github.com/cdzombak/feedbin-auto-archiver/releases/tag/v1.2.0) *(2025-09-13; [5 releases total](https://github.com/cdzombak/feedbin-auto-archiver/releases) )* 
@@ -131,6 +139,12 @@ Listing <!-- releases_count starts -->453<!-- releases_count ends --> releases a
 <br />A minimal menu bar macOS app to monitor network speed
 * **[a2-foia-rss](https://github.com/cdzombak/a2-foia-rss)**: [v1.0.2](https://github.com/cdzombak/a2-foia-rss/releases/tag/v1.0.2) *(2025-02-17; [3 releases total](https://github.com/cdzombak/a2-foia-rss/releases) )* 
 <br />Feed generator for Ann Arbor's online FOIA database
+* **[dns-do-to-namecom](https://github.com/cdzombak/dns-do-to-namecom)**: [v1.0.0: Initial release](https://github.com/cdzombak/dns-do-to-namecom/releases/tag/v1.0.0) *(2025-01-23; )* 
+<br />Copy DNS records from DigitalOcean to Name.com
+* **[dns-do-to-porkbun](https://github.com/cdzombak/dns-do-to-porkbun)**: [v1.0.0: Initial Release](https://github.com/cdzombak/dns-do-to-porkbun/releases/tag/v1.0.0) *(2025-01-21; )* 
+<br />Copy DNS records from DigitalOcean to Porkbun
+* **[xtool](https://github.com/cdzombak/xtool)**: [v1.0.1](https://github.com/cdzombak/xtool/releases/tag/v1.0.1) *(2024-10-18; [4 releases total](https://github.com/cdzombak/xtool/releases) )* 
+<br />A photography workflow helper, mainly focused on EXIF operations.
 * **[macos-ups-mqtt-connector](https://github.com/cdzombak/macos-ups-mqtt-connector)**: [v0.0.4](https://github.com/cdzombak/macos-ups-mqtt-connector/releases/tag/v0.0.4) *(2024-10-09; [5 releases total](https://github.com/cdzombak/macos-ups-mqtt-connector/releases) )* 
 <br />Send current UPS status from your Mac to MQTT
 * **[bandwhich-deb](https://github.com/cdzombak/bandwhich-deb)**: [v0.23.1](https://github.com/cdzombak/bandwhich-deb/releases/tag/v0.23.1) *(2024-10-09; [5 releases total](https://github.com/cdzombak/bandwhich-deb/releases) )* 
@@ -139,8 +153,22 @@ Listing <!-- releases_count starts -->453<!-- releases_count ends --> releases a
 <br />Shutdown a Linux machine in response to MQTT broadcast messages about utility power loss
 * **[energybridge_to_influxdb](https://github.com/cdzombak/energybridge_to_influxdb)**: [v1.1.1](https://github.com/cdzombak/energybridge_to_influxdb/releases/tag/v1.1.1) *(2024-08-16; [10 releases total](https://github.com/cdzombak/energybridge_to_influxdb/releases) )* 
 <br />Pull electricity usage readings from an Energy Bridge via MQTT and ship them to InfluxDB.
+* **[cidrtool](https://github.com/cdzombak/cidrtool)**: [v1.0.2](https://github.com/cdzombak/cidrtool/releases/tag/v1.0.2) *(2024-07-18; [4 releases total](https://github.com/cdzombak/cidrtool/releases) )* 
+<br />Simple command line tool for manipulating CIDR blocks
+* **[macos-ups-influx-connector](https://github.com/cdzombak/macos-ups-influx-connector)**: [v1.0.0](https://github.com/cdzombak/macos-ups-influx-connector/releases/tag/v1.0.0) *(2024-07-01; )* 
+<br />Ship basic UPS stats from macOS to InfluxDB
 * **[netdata-sidekiq-chart](https://github.com/cdzombak/netdata-sidekiq-chart)**: [v0.0.1](https://github.com/cdzombak/netdata-sidekiq-chart/releases/tag/v0.0.1) *(2024-06-07; [2 releases total](https://github.com/cdzombak/netdata-sidekiq-chart/releases) )* 
 <br />Displays some basic Sidekiq metrics in Netdata
+* **[alfred-bear](https://github.com/cdzombak/alfred-bear)**: [v4.0.0](https://github.com/cdzombak/alfred-bear/releases/tag/v4.0.0) *(2024-04-30; [2 releases total](https://github.com/cdzombak/alfred-bear/releases) )* 
+<br />Search and open Bear notes using Alfred
+* **[lofiapp](https://github.com/cdzombak/lofiapp)**: [v1.1.8](https://github.com/cdzombak/lofiapp/releases/tag/v1.1.8) *(2024-04-11; [9 releases total](https://github.com/cdzombak/lofiapp/releases) )* 
+<br />electron wrapper for lofi.cafe and other lofi/focus music I like
+* **[periodic-docker-pull](https://github.com/cdzombak/periodic-docker-pull)**: [v1.1.0](https://github.com/cdzombak/periodic-docker-pull/releases/tag/v1.1.0) *(2023-12-28; [9 releases total](https://github.com/cdzombak/periodic-docker-pull/releases) )* 
+<br />Automatically pull a list of Docker images/tags on a regular basis
+* **[pi-disable-hdmi](https://github.com/cdzombak/pi-disable-hdmi)**: [1.0.0](https://github.com/cdzombak/pi-disable-hdmi/releases/tag/1.0.0) *(2023-11-16; [2 releases total](https://github.com/cdzombak/pi-disable-hdmi/releases) )* 
+<br />Disable Raspberry Pi HDMI output
+* **[listening](https://github.com/cdzombak/listening)**: [v1.0.3](https://github.com/cdzombak/listening/releases/tag/v1.0.3) *(2023-11-15; [6 releases total](https://github.com/cdzombak/listening/releases) )* 
+<br />List processes listening for network connections. listening is an easy-to-use, cross-platform wrapper for lsof and netstat.
 * **[gmail-cleaner](https://github.com/cdzombak/gmail-cleaner)**: [v0.0.1](https://github.com/cdzombak/gmail-cleaner/releases/tag/v0.0.1) *(2023-11-14; [2 releases total](https://github.com/cdzombak/gmail-cleaner/releases) )* 
 <br />Delete old messages in a chosen label from your Gmail account
 * **[mailto-things](https://github.com/cdzombak/mailto-things)**: [v1.0.0](https://github.com/cdzombak/mailto-things/releases/tag/v1.0.0) *(2023-11-14; [4 releases total](https://github.com/cdzombak/mailto-things/releases) )* 
@@ -151,16 +179,28 @@ Listing <!-- releases_count starts -->453<!-- releases_count ends --> releases a
 <br />The simplest possible CLI tool for posting to Mastodon
 * **[unshorten](https://github.com/cdzombak/unshorten)**: [v1.0.1](https://github.com/cdzombak/unshorten/releases/tag/v1.0.1) *(2023-10-26; [3 releases total](https://github.com/cdzombak/unshorten/releases) )* 
 <br />Simple, verbose URL unshortener.
+* **[dirshard](https://github.com/cdzombak/dirshard)**: [v1.2.4](https://github.com/cdzombak/dirshard/releases/tag/v1.2.4) *(2023-10-26; [18 releases total](https://github.com/cdzombak/dirshard/releases) )* 
+<br />Produce sharded path fragments from a filename
 * **[apply-crontab](https://github.com/cdzombak/apply-crontab)**: [v1.0.3](https://github.com/cdzombak/apply-crontab/releases/tag/v1.0.3) *(2023-10-25; [5 releases total](https://github.com/cdzombak/apply-crontab/releases) )* 
 <br />Better crontab management
 * **[docker-hub.alfredworkflow](https://github.com/cdzombak/docker-hub.alfredworkflow)**: [v1.1.0](https://github.com/cdzombak/docker-hub.alfredworkflow/releases/tag/v1.1.0) *(2023-10-17; [2 releases total](https://github.com/cdzombak/docker-hub.alfredworkflow/releases) )* 
 <br />Alfred workflow for searching Docker Hub
+* **[urlwatch-docker](https://github.com/cdzombak/urlwatch-docker)**: [v2.0.0](https://github.com/cdzombak/urlwatch-docker/releases/tag/v2.0.0) *(2023-10-16; )* 
+<br />Run urlwatch in a Docker container or as a Docker compose service
 * **[instapaper-auto-archiver](https://github.com/cdzombak/instapaper-auto-archiver)**: [v1.0.0](https://github.com/cdzombak/instapaper-auto-archiver/releases/tag/v1.0.0) *(2023-10-15; )* 
 <br />Avoid stress: Automatically archive older unread Instapaper bookmarks
 * **[feedbin-stars-to-email](https://github.com/cdzombak/feedbin-stars-to-email)**: [v1.0.0](https://github.com/cdzombak/feedbin-stars-to-email/releases/tag/v1.0.0) *(2023-10-15; [2 releases total](https://github.com/cdzombak/feedbin-stars-to-email/releases) )* 
 <br />Email starred items from your Feedbin account to a chosen email address.
+* **[quick-media-conv](https://github.com/cdzombak/quick-media-conv)**: [v1.1.2](https://github.com/cdzombak/quick-media-conv/releases/tag/v1.1.2) *(2023-10-13; [15 releases total](https://github.com/cdzombak/quick-media-conv/releases) )* 
+<br />Scripts for quick ffmpeg/imagemagick conversions on Linux & macOS
+* **[windowstack2](https://github.com/cdzombak/windowstack2)**: [v1.6.2](https://github.com/cdzombak/windowstack2/releases/tag/v1.6.2) *(2023-10-10; [10 releases total](https://github.com/cdzombak/windowstack2/releases) )* 
+<br />“wait, what was I doing?”
+* **[fastscripts-alfred](https://github.com/cdzombak/fastscripts-alfred)**: [](https://github.com/cdzombak/fastscripts-alfred/releases/tag/v1.0) *(2023-04-23; )* 
+<br />Invoke FastScripts workflow for Alfred
 * **[TransmissionRemote](https://github.com/cdzombak/TransmissionRemote)**: [v2.1.5 (build 12) - Notarized Build](https://github.com/cdzombak/TransmissionRemote/releases/tag/v2.1.5-12) *(2022-08-18; [7 releases total](https://github.com/cdzombak/TransmissionRemote/releases) )* 
 <br />macOS client for transmission-daemon (using RPC API)
+* **[do-ddns](https://github.com/cdzombak/do-ddns)**: [v0.0.6](https://github.com/cdzombak/do-ddns/releases/tag/v0.0.6) *(2022-04-18; [6 releases total](https://github.com/cdzombak/do-ddns/releases) )* 
+<br />DigitalOcean-based Dynamic DNS server and client
 * **[fix-secure-input](https://github.com/cdzombak/fix-secure-input)**: [Alfred Workflow v1.0.0](https://github.com/cdzombak/fix-secure-input/releases/tag/v1.0.0) *(2020-11-20; )* 
 <br />Script & Alfred workflow to quickly fix Secure Input being stuck on in macOS
 * **[thingshub](https://github.com/cdzombak/thingshub)**: [v1.1.1: Don't create empty projects](https://github.com/cdzombak/thingshub/releases/tag/v1.1.1) *(2020-02-05; [5 releases total](https://github.com/cdzombak/thingshub/releases) )* 
