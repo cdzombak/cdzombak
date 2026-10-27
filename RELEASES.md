@@ -1,6 +1,6 @@
 # Releases
 
-Listing <!-- releases_count starts -->428<!-- releases_count ends --> releases across <!-- project_count starts -->76<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->439<!-- releases_count ends --> releases across <!-- project_count starts -->79<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
 * **[ebird-rss](https://github.com/cdzombak/ebird-rss)**: [v0.0.3](https://github.com/cdzombak/ebird-rss/releases/tag/v0.0.3) *(2026-09-09; [4 releases total](https://github.com/cdzombak/ebird-rss/releases) )* 
@@ -131,6 +131,8 @@ Listing <!-- releases_count starts -->428<!-- releases_count ends --> releases a
 <br />Send current UPS status from your Mac to MQTT
 * **[energybridge_to_influxdb](https://github.com/cdzombak/energybridge_to_influxdb)**: [v1.1.1](https://github.com/cdzombak/energybridge_to_influxdb/releases/tag/v1.1.1) *(2024-08-16; [10 releases total](https://github.com/cdzombak/energybridge_to_influxdb/releases) )* 
 <br />Pull electricity usage readings from an Energy Bridge via MQTT and ship them to InfluxDB.
+* **[lofiapp](https://github.com/cdzombak/lofiapp)**: [v1.1.8](https://github.com/cdzombak/lofiapp/releases/tag/v1.1.8) *(2024-04-11; [9 releases total](https://github.com/cdzombak/lofiapp/releases) )* 
+<br />electron wrapper for lofi.cafe and other lofi/focus music I like
 * **[gmail-cleaner](https://github.com/cdzombak/gmail-cleaner)**: [v0.0.1](https://github.com/cdzombak/gmail-cleaner/releases/tag/v0.0.1) *(2023-11-14; [2 releases total](https://github.com/cdzombak/gmail-cleaner/releases) )* 
 <br />Delete old messages in a chosen label from your Gmail account
 * **[mailto-things](https://github.com/cdzombak/mailto-things)**: [v1.0.0](https://github.com/cdzombak/mailto-things/releases/tag/v1.0.0) *(2023-11-14; [4 releases total](https://github.com/cdzombak/mailto-things/releases) )* 
@@ -141,6 +143,8 @@ Listing <!-- releases_count starts -->428<!-- releases_count ends --> releases a
 <br />Better crontab management
 * **[docker-hub.alfredworkflow](https://github.com/cdzombak/docker-hub.alfredworkflow)**: [v1.1.0](https://github.com/cdzombak/docker-hub.alfredworkflow/releases/tag/v1.1.0) *(2023-10-17; [2 releases total](https://github.com/cdzombak/docker-hub.alfredworkflow/releases) )* 
 <br />Alfred workflow for searching Docker Hub
+* **[urlwatch-docker](https://github.com/cdzombak/urlwatch-docker)**: [v2.0.0](https://github.com/cdzombak/urlwatch-docker/releases/tag/v2.0.0) *(2023-10-16; )* 
+<br />Run urlwatch in a Docker container or as a Docker compose service
 * **[instapaper-auto-archiver](https://github.com/cdzombak/instapaper-auto-archiver)**: [v1.0.0](https://github.com/cdzombak/instapaper-auto-archiver/releases/tag/v1.0.0) *(2023-10-15; )* 
 <br />Avoid stress: Automatically archive older unread Instapaper bookmarks
 * **[feedbin-stars-to-email](https://github.com/cdzombak/feedbin-stars-to-email)**: [v1.0.0](https://github.com/cdzombak/feedbin-stars-to-email/releases/tag/v1.0.0) *(2023-10-15; [2 releases total](https://github.com/cdzombak/feedbin-stars-to-email/releases) )* 
@@ -149,6 +153,8 @@ Listing <!-- releases_count starts -->428<!-- releases_count ends --> releases a
 <br />Invoke FastScripts workflow for Alfred
 * **[TransmissionRemote](https://github.com/cdzombak/TransmissionRemote)**: [v2.1.5 (build 12) - Notarized Build](https://github.com/cdzombak/TransmissionRemote/releases/tag/v2.1.5-12) *(2022-08-18; [7 releases total](https://github.com/cdzombak/TransmissionRemote/releases) )* 
 <br />macOS client for transmission-daemon (using RPC API)
+* **[fix-secure-input](https://github.com/cdzombak/fix-secure-input)**: [Alfred Workflow v1.0.0](https://github.com/cdzombak/fix-secure-input/releases/tag/v1.0.0) *(2020-11-20; )* 
+<br />Script & Alfred workflow to quickly fix Secure Input being stuck on in macOS
 * **[thingshub](https://github.com/cdzombak/thingshub)**: [v1.1.1: Don't create empty projects](https://github.com/cdzombak/thingshub/releases/tag/v1.1.1) *(2020-02-05; [5 releases total](https://github.com/cdzombak/thingshub/releases) )* 
 <br />[UNMAINTAINED] Synchronize issues assigned to you from a Github repo into Things.
 * **[finder-atom](https://github.com/cdzombak/finder-atom)**: [2.0](https://github.com/cdzombak/finder-atom/releases/tag/v2.0) *(2017-09-14; [4 releases total](https://github.com/cdzombak/finder-atom/releases) )* 
