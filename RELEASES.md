@@ -1,14 +1,10 @@
 # Releases
 
-Listing <!-- releases_count starts -->553<!-- releases_count ends --> releases across <!-- project_count starts -->103<!-- project_count ends --> of my repositories, ordered by most recent release date.
+Listing <!-- releases_count starts -->453<!-- releases_count ends --> releases across <!-- project_count starts -->84<!-- project_count ends --> of my repositories, ordered by most recent release date.
 
 <!-- recent_releases starts -->
-* **[ebird-rss](https://github.com/cdzombak/ebird-rss)**: [v0.0.3](https://github.com/cdzombak/ebird-rss/releases/tag/v0.0.3) *(2026-09-09; [4 releases total](https://github.com/cdzombak/ebird-rss/releases) )* 
-<br />Generate an RSS, Atom, or JSON feed of your most recent bird sightings from an eBird CSV export
 * **[papercast](https://github.com/cdzombak/papercast)**: [v0.0.2](https://github.com/cdzombak/papercast/releases/tag/v0.0.2) *(2026-08-24; [3 releases total](https://github.com/cdzombak/papercast/releases) )* 
 <br />Generate a personal podcast of your Instapaper reading queue
-* **[mqttwxenrich](https://github.com/cdzombak/mqttwxenrich)**: [v0.0.6](https://github.com/cdzombak/mqttwxenrich/releases/tag/v0.0.6) *(2026-08-24; [6 releases total](https://github.com/cdzombak/mqttwxenrich/releases) )* 
-<br />Enrich MQTT messages from weather sensors with unit conversion and supplemental calculations
 * **[wdproc](https://github.com/cdzombak/wdproc)**: [v1.0.1](https://github.com/cdzombak/wdproc/releases/tag/v1.0.1) *(2026-08-24; [3 releases total](https://github.com/cdzombak/wdproc/releases) )* 
 <br />Add files synced from WriterDeck to Day One or Things
 * **[feedfilter](https://github.com/cdzombak/feedfilter)**: [v1.1.1](https://github.com/cdzombak/feedfilter/releases/tag/v1.1.1) *(2026-08-24; [4 releases total](https://github.com/cdzombak/feedfilter/releases) )* 
@@ -23,8 +19,6 @@ Listing <!-- releases_count starts -->553<!-- releases_count ends --> releases a
 <br />Remove unnecessary line breaks from Markdown text
 * **[exitcode_py](https://github.com/cdzombak/exitcode_py)**: [v1.0.0](https://github.com/cdzombak/exitcode_py/releases/tag/v1.0.0) *(2026-08-17; [3 releases total](https://github.com/cdzombak/exitcode_py/releases) )* 
 <br />Codegenerated Python constants for libc, LSB, BSD, and systemd exit codes
-* **[exitcode_go](https://github.com/cdzombak/exitcode_go)**: [v1.0.0](https://github.com/cdzombak/exitcode_go/releases/tag/v1.0.0) *(2026-08-17; [3 releases total](https://github.com/cdzombak/exitcode_go/releases) )* 
-<br />Codegenerated Golang constants for libc, LSB, BSD, and systemd exit codes
 * **[driveway-monitor](https://github.com/cdzombak/driveway-monitor)**: [v1.6.0](https://github.com/cdzombak/driveway-monitor/releases/tag/v1.6.0) *(2026-08-15; [25 releases total](https://github.com/cdzombak/driveway-monitor/releases) )* 
 <br />Receive customizable, AI-powered notifications when someone arrives in your driveway.
 * **[an4mon](https://github.com/cdzombak/an4mon)**: [v2.0.0](https://github.com/cdzombak/an4mon/releases/tag/v2.0.0) *(2026-08-15; [9 releases total](https://github.com/cdzombak/an4mon/releases) )* 
@@ -41,8 +35,6 @@ Listing <!-- releases_count starts -->553<!-- releases_count ends --> releases a
 <br />Improved media browser for SD card storage on SV3C/CamHiPro compatible IP webcams
 * **[openweather-influxdb-connector](https://github.com/cdzombak/openweather-influxdb-connector)**: [v1.5.0](https://github.com/cdzombak/openweather-influxdb-connector/releases/tag/v1.5.0) *(2026-07-09; [14 releases total](https://github.com/cdzombak/openweather-influxdb-connector/releases) )* 
 <br />Write current weather OpenWeatherMap conditions to InfluxDB or MQTT
-* **[libwx](https://github.com/cdzombak/libwx)**: [v1.5.0](https://github.com/cdzombak/libwx/releases/tag/v1.5.0) *(2026-07-09; [8 releases total](https://github.com/cdzombak/libwx/releases) )* 
-<br />Weather-related types and calculations for Golang
 * **[ytdlbot](https://github.com/cdzombak/ytdlbot)**: [v1.0.6](https://github.com/cdzombak/ytdlbot/releases/tag/v1.0.6) *(2026-07-09; [11 releases total](https://github.com/cdzombak/ytdlbot/releases) )* 
 <br />A tool for collecting videos from YouTube & similar sites
 * **[restic-deb](https://github.com/cdzombak/restic-deb)**: [v0.19.1](https://github.com/cdzombak/restic-deb/releases/tag/v0.19.1) *(2026-07-06; [14 releases total](https://github.com/cdzombak/restic-deb/releases) )* 
@@ -53,10 +45,6 @@ Listing <!-- releases_count starts -->553<!-- releases_count ends --> releases a
 <br />Lightweight wrapper for better cron jobs and containers
 * **[bandwidther](https://github.com/cdzombak/bandwidther)**: [v1.0.1](https://github.com/cdzombak/bandwidther/releases/tag/v1.0.1) *(2026-04-23; [6 releases total](https://github.com/cdzombak/bandwidther/releases) )* 
 <br />SwiftUI menu bar app for monitoring application bandwidth use
-* **[wx-sta-agg-influx](https://github.com/cdzombak/wx-sta-agg-influx)**: [v1.0.4](https://github.com/cdzombak/wx-sta-agg-influx/releases/tag/v1.0.4) *(2026-04-15; [4 releases total](https://github.com/cdzombak/wx-sta-agg-influx/releases) )* 
-<br />Aggregator for wind and rain data stored in InfluxDB
-* **[gallerygen](https://github.com/cdzombak/gallerygen)**: [v1.0.6](https://github.com/cdzombak/gallerygen/releases/tag/v1.0.6) *(2026-04-07; [11 releases total](https://github.com/cdzombak/gallerygen/releases) )* 
-<br />Generate a static HTML gallery from a directory tree of images
 * **[hosts-timer](https://github.com/cdzombak/hosts-timer)**: [v1.0.0](https://github.com/cdzombak/hosts-timer/releases/tag/v1.0.0) *(2026-04-05; [2 releases total](https://github.com/cdzombak/hosts-timer/releases) )* 
 <br />Block websites on your system with /etc/hosts, and re-enable them on demand for a specified amount of time
 * **[shop-sonos-noise-control](https://github.com/cdzombak/shop-sonos-noise-control)**: [](https://github.com/cdzombak/shop-sonos-noise-control/releases/tag/v1.2.0) *(2026-04-04; [7 releases total](https://github.com/cdzombak/shop-sonos-noise-control/releases) )* 
@@ -67,8 +55,6 @@ Listing <!-- releases_count starts -->553<!-- releases_count ends --> releases a
 <br />An opinionated and intentionally scope-limited MQTT to InfluxDB bridge
 * **[lychee-ai-organizer](https://github.com/cdzombak/lychee-ai-organizer)**: [v1.1.3](https://github.com/cdzombak/lychee-ai-organizer/releases/tag/v1.1.3) *(2026-03-13; [8 releases total](https://github.com/cdzombak/lychee-ai-organizer/releases) )* 
 <br />Use local LLMs to organize your unsorted photos in Lychee
-* **[lychee-meta-tool](https://github.com/cdzombak/lychee-meta-tool)**: [v1.1.3](https://github.com/cdzombak/lychee-meta-tool/releases/tag/v1.1.3) *(2026-03-13; [8 releases total](https://github.com/cdzombak/lychee-meta-tool/releases) )* 
-<br />Quickly find & edit untitled photos in your Lychee photo library
 * **[washmon](https://github.com/cdzombak/washmon)**: [v1.0.1](https://github.com/cdzombak/washmon/releases/tag/v1.0.1) *(2026-02-10; [5 releases total](https://github.com/cdzombak/washmon/releases) )* 
 <br />washmon figures out when your laundry is done and reminds you periodically until you affirm that you've emptied the machine
 * **[ipcam-bird-detection](https://github.com/cdzombak/ipcam-bird-detection)**: [v0.0.1](https://github.com/cdzombak/ipcam-bird-detection/releases/tag/v0.0.1) *(2025-12-28; )* 
@@ -81,22 +67,14 @@ Listing <!-- releases_count starts -->553<!-- releases_count ends --> releases a
 <br />Migrate media metadata from one Plex library to another
 * **[humidity-reminder](https://github.com/cdzombak/humidity-reminder)**: [v1.0.2](https://github.com/cdzombak/humidity-reminder/releases/tag/v1.0.2) *(2025-12-09; [3 releases total](https://github.com/cdzombak/humidity-reminder/releases) )* 
 <br />Get email reminders when the ideal indoor humidity changes.
-* **[dzsolarized-vscode](https://github.com/cdzombak/dzsolarized-vscode)**: [Release v0.0.18](https://github.com/cdzombak/dzsolarized-vscode/releases/tag/v0.0.18) *(2025-12-08; [17 releases total](https://github.com/cdzombak/dzsolarized-vscode/releases) )* 
-<br />Solarized variant for VS Code (light + dark modes supported)
-* **[lychee-bw-tagger](https://github.com/cdzombak/lychee-bw-tagger)**: [v1.0.0](https://github.com/cdzombak/lychee-bw-tagger/releases/tag/v1.0.0) *(2025-11-20; [2 releases total](https://github.com/cdzombak/lychee-bw-tagger/releases) )* 
-<br />Tag the black & white photos in your Lychee photo library
 * **[trailcamai](https://github.com/cdzombak/trailcamai)**: [v1.1.0](https://github.com/cdzombak/trailcamai/releases/tag/v1.1.0) *(2025-11-17; [3 releases total](https://github.com/cdzombak/trailcamai/releases) )* 
 <br />AI-powered trail camera image and video organizer
 * **[gha-secrets-setup](https://github.com/cdzombak/gha-secrets-setup)**: [v0.0.1](https://github.com/cdzombak/gha-secrets-setup/releases/tag/v0.0.1) *(2025-10-27; )* 
 <br />Interactive setup for GitHub Actions secrets
 * **[newt](https://github.com/cdzombak/newt)**: [v0.0.5](https://github.com/cdzombak/newt/releases/tag/v0.0.5) *(2025-10-27; [5 releases total](https://github.com/cdzombak/newt/releases) )* 
 <br />Git worktree manager
-* **[gmail-uptimekuma-alert-cleaner](https://github.com/cdzombak/gmail-uptimekuma-alert-cleaner)**: [v1.0.0](https://github.com/cdzombak/gmail-uptimekuma-alert-cleaner/releases/tag/v1.0.0) *(2025-10-25; )* 
-<br />Automatically cleanup resolved Uptime Kuma alert pairs from my Gmail inbox
 * **[git-ac](https://github.com/cdzombak/git-ac)**: [v1.0.4](https://github.com/cdzombak/git-ac/releases/tag/v1.0.4) *(2025-10-16; [6 releases total](https://github.com/cdzombak/git-ac/releases) )* 
 <br />Git autocommit: commit staged changes with LLM-written commit messages
-* **[samba-docker](https://github.com/cdzombak/samba-docker)**: [v4.23.1](https://github.com/cdzombak/samba-docker/releases/tag/v4.23.1) *(2025-10-09; [2 releases total](https://github.com/cdzombak/samba-docker/releases) )* 
-<br />Up-to-date Samba Docker image optimized for NAS file sharing with full macOS Spotlight support.
 * **[pi-fm-player](https://github.com/cdzombak/pi-fm-player)**: [v1.1.1](https://github.com/cdzombak/pi-fm-player/releases/tag/v1.1.1) *(2025-10-06; [5 releases total](https://github.com/cdzombak/pi-fm-player/releases) )* 
 <br />Raspberry Pi FM transmitter that plays music forever from the local filesystem.
 * **[pdate](https://github.com/cdzombak/pdate)**: [v1.1.1](https://github.com/cdzombak/pdate/releases/tag/v1.1.1) *(2025-10-02; [5 releases total](https://github.com/cdzombak/pdate/releases) )* 
@@ -119,22 +97,12 @@ Listing <!-- releases_count starts -->553<!-- releases_count ends --> releases a
 <br />Check your DNS records for a variety of potential issues
 * **[feedbin-auto-archiver](https://github.com/cdzombak/feedbin-auto-archiver)**: [v1.2.0](https://github.com/cdzombak/feedbin-auto-archiver/releases/tag/v1.2.0) *(2025-09-13; [5 releases total](https://github.com/cdzombak/feedbin-auto-archiver/releases) )* 
 <br />Avoid stress: Automatically archive old unread entries in Feedbin.
-* **[nut_influx_connector](https://github.com/cdzombak/nut_influx_connector)**: [v1.2.1](https://github.com/cdzombak/nut_influx_connector/releases/tag/v1.2.1) *(2025-08-24; [9 releases total](https://github.com/cdzombak/nut_influx_connector/releases) )* 
-<br />Ship energy usage data & UPS stats from Network-UPS-Tools to InfluxDB/MQTT
-* **[xrp](https://github.com/cdzombak/xrp)**: [v0.0.1-beta.8](https://github.com/cdzombak/xrp/releases/tag/v0.0.1-beta.8) *(2025-08-09; [4 releases total](https://github.com/cdzombak/xrp/releases) )* 
-<br />HTML/XML aware reverse proxy
-* **[nginx_ensite](https://github.com/cdzombak/nginx_ensite)**: [v1.1.0](https://github.com/cdzombak/nginx_ensite/releases/tag/v1.1.0) *(2025-08-07; [2 releases total](https://github.com/cdzombak/nginx_ensite/releases) )* 
-<br />Quickly enable/disable nginx sites
 * **[flickr-rss](https://github.com/cdzombak/flickr-rss)**: [v1.0.4](https://github.com/cdzombak/flickr-rss/releases/tag/v1.0.4) *(2025-08-06; [9 releases total](https://github.com/cdzombak/flickr-rss/releases) )* 
 <br />Generate an RSS feed of a Flickr photostream or your Friends & Family feed
 * **[lychee-birb-title](https://github.com/cdzombak/lychee-birb-title)**: [v1.0.0](https://github.com/cdzombak/lychee-birb-title/releases/tag/v1.0.0) *(2025-08-04; )* 
 <br />Set titles for Bird Buddy photos in your Lychee photo library
 * **[macos-screenlock-mqtt](https://github.com/cdzombak/macos-screenlock-mqtt)**: [v1.0.0](https://github.com/cdzombak/macos-screenlock-mqtt/releases/tag/v1.0.0) *(2025-07-28; )* 
 <br />Report macOS screen lock status to an MQTT broker
-* **[midea2influx](https://github.com/cdzombak/midea2influx)**: [v1.2.0](https://github.com/cdzombak/midea2influx/releases/tag/v1.2.0) *(2025-07-23; [5 releases total](https://github.com/cdzombak/midea2influx/releases) )* 
-<br />Write status of Midea dehumidifers to InfluxDB/MQTT
-* **[ecobee_influx_connector](https://github.com/cdzombak/ecobee_influx_connector)**: [v1.2.0](https://github.com/cdzombak/ecobee_influx_connector/releases/tag/v1.2.0) *(2025-07-07; [8 releases total](https://github.com/cdzombak/ecobee_influx_connector/releases) )* 
-<br />Ship your Ecobee runtime, sensor and weather data to InfluxDB or MQTT.
 * **[NetSpeedMonitor](https://github.com/cdzombak/NetSpeedMonitor)**: [v1.0](https://github.com/cdzombak/NetSpeedMonitor/releases/tag/v1.0.0) *(2025-05-27; )* 
 <br />A minimal menu bar macOS app to monitor network speed
 * **[a2-foia-rss](https://github.com/cdzombak/a2-foia-rss)**: [v1.0.2](https://github.com/cdzombak/a2-foia-rss/releases/tag/v1.0.2) *(2025-02-17; [3 releases total](https://github.com/cdzombak/a2-foia-rss/releases) )* 
@@ -187,8 +155,6 @@ Listing <!-- releases_count starts -->553<!-- releases_count ends --> releases a
 <br />Alfred workflow for searching Docker Hub
 * **[urlwatch-docker](https://github.com/cdzombak/urlwatch-docker)**: [v2.0.0](https://github.com/cdzombak/urlwatch-docker/releases/tag/v2.0.0) *(2023-10-16; )* 
 <br />Run urlwatch in a Docker container or as a Docker compose service
-* **[instapaper-auto-archiver](https://github.com/cdzombak/instapaper-auto-archiver)**: [v1.0.0](https://github.com/cdzombak/instapaper-auto-archiver/releases/tag/v1.0.0) *(2023-10-15; )* 
-<br />Avoid stress: Automatically archive older unread Instapaper bookmarks
 * **[feedbin-stars-to-email](https://github.com/cdzombak/feedbin-stars-to-email)**: [v1.0.0](https://github.com/cdzombak/feedbin-stars-to-email/releases/tag/v1.0.0) *(2023-10-15; [2 releases total](https://github.com/cdzombak/feedbin-stars-to-email/releases) )* 
 <br />Email starred items from your Feedbin account to a chosen email address.
 * **[quick-media-conv](https://github.com/cdzombak/quick-media-conv)**: [v1.1.2](https://github.com/cdzombak/quick-media-conv/releases/tag/v1.1.2) *(2023-10-13; [15 releases total](https://github.com/cdzombak/quick-media-conv/releases) )* 
@@ -201,12 +167,8 @@ Listing <!-- releases_count starts -->553<!-- releases_count ends --> releases a
 <br />macOS client for transmission-daemon (using RPC API)
 * **[do-ddns](https://github.com/cdzombak/do-ddns)**: [v0.0.6](https://github.com/cdzombak/do-ddns/releases/tag/v0.0.6) *(2022-04-18; [6 releases total](https://github.com/cdzombak/do-ddns/releases) )* 
 <br />DigitalOcean-based Dynamic DNS server and client
-* **[fix-secure-input](https://github.com/cdzombak/fix-secure-input)**: [Alfred Workflow v1.0.0](https://github.com/cdzombak/fix-secure-input/releases/tag/v1.0.0) *(2020-11-20; )* 
-<br />Script & Alfred workflow to quickly fix Secure Input being stuck on in macOS
 * **[thingshub](https://github.com/cdzombak/thingshub)**: [v1.1.1: Don't create empty projects](https://github.com/cdzombak/thingshub/releases/tag/v1.1.1) *(2020-02-05; [5 releases total](https://github.com/cdzombak/thingshub/releases) )* 
 <br />[UNMAINTAINED] Synchronize issues assigned to you from a Github repo into Things.
-* **[finder-atom](https://github.com/cdzombak/finder-atom)**: [2.0](https://github.com/cdzombak/finder-atom/releases/tag/v2.0) *(2017-09-14; [4 releases total](https://github.com/cdzombak/finder-atom/releases) )* 
-<br />An “Open in Atom“ tool for the Finder.
 * **[CDZUIKitAutoLayoutDebugging](https://github.com/cdzombak/CDZUIKitAutoLayoutDebugging)**: [The First Release](https://github.com/cdzombak/CDZUIKitAutoLayoutDebugging/releases/tag/0.0.7) *(2015-03-14; )* 
 <br />[Unmaintained] Tools for easier Auto Layout debugging
 <!-- recent_releases ends -->
